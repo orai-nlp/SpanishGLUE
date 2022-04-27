@@ -1,0 +1,11695 @@
+colocar	O
+una	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+a	I-datetime
+las	I-datetime
+3	I-datetime
+am	I-datetime
+
+establecer	O
+una	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+a	I-datetime
+las	I-datetime
+5	I-datetime
+am	I-datetime
+
+establecer	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+a	I-datetime
+las	I-datetime
+8	I-datetime
+:	I-datetime
+45	I-datetime
+am	I-datetime
+
+posponer	O
+alarma	O
+
+¿	O
+a	O
+qué	O
+hora	O
+está	O
+configurada	O
+mi	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+?	O
+
+establecer	O
+una	O
+alarma	O
+por	B-datetime
+venticinco	I-datetime
+minutos	I-datetime
+
+mostrar	O
+mis	O
+alarmas	O
+para	B-datetime
+mañana	I-datetime
+
+detener	O
+la	O
+alarma	O
+
+necesito	O
+configurar	O
+mi	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+a	I-datetime
+las	I-datetime
+7	I-datetime
+am	I-datetime
+
+establecer	O
+una	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+a	I-datetime
+las	I-datetime
+2	I-datetime
+am	I-datetime
+
+establecer	O
+alarma	O
+para	B-datetime
+esta	I-datetime
+noche	I-datetime
+a	I-datetime
+las	I-datetime
+8	I-datetime
+pm	I-datetime
+
+agrega	O
+10	B-datetime
+minutos	I-datetime
+a	O
+mi	O
+alarma	O
+actual	O
+
+cancelar	O
+la	O
+alarma	O
+de	B-datetime
+las	I-datetime
+7	I-datetime
+am	I-datetime
+
+establecer	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+a	I-datetime
+las	I-datetime
+8	I-datetime
+am	I-datetime
+
+establecer	O
+mi	O
+alarma	O
+para	B-datetime
+las	I-datetime
+5	I-datetime
+am	I-datetime
+.	O
+
+establecer	O
+una	O
+alarma	O
+para	B-datetime
+el	I-datetime
+domingo	I-datetime
+a	I-datetime
+las	I-datetime
+8	I-datetime
+am	I-datetime
+
+establecer	O
+alarma	O
+cada	B-datetime
+5	I-datetime
+minutos	I-datetime
+por	I-datetime
+15	I-datetime
+minutos	I-datetime
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+12	I-datetime
+:	I-datetime
+00	I-datetime
+pm	I-datetime
+de	B-datetime
+hoy	I-datetime
+
+establecer	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+6pm	I-datetime
+hoy	I-datetime
+
+cancelar	O
+todas	O
+las	O
+alarmas	O
+del	B-datetime
+miércoles	I-datetime
+
+encender	O
+todas	O
+las	O
+alarmas	O
+
+modificar	O
+alarma	O
+de	B-datetime
+las	I-datetime
+10	I-datetime
+am	I-datetime
+a	I-datetime
+las	I-datetime
+6	I-datetime
+am	I-datetime
+
+programar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+7	I-datetime
+am	I-datetime
+
+programar	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+2	I-datetime
+:	I-datetime
+30	I-datetime
+pm	I-datetime
+
+programar	O
+alarma	O
+cada	B-datetime
+5	I-datetime
+minutos	I-datetime
+
+programar	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+9	I-datetime
+am	I-datetime
+
+programar	O
+una	O
+alarma	O
+por	B-datetime
+15	I-datetime
+minutos	I-datetime
+para	O
+mi	O
+meditación	O
+
+programar	O
+alarma	O
+para	B-datetime
+esta	I-datetime
+noche	I-datetime
+a	I-datetime
+las	I-datetime
+7	I-datetime
+pm	I-datetime
+
+programar	O
+una	O
+alarma	O
+para	B-datetime
+esta	I-datetime
+noche	I-datetime
+a	I-datetime
+las	I-datetime
+10	I-datetime
+pm	I-datetime
+
+programar	O
+alarma	O
+cada	B-datetime
+10	I-datetime
+minutos	I-datetime
+desde	I-datetime
+las	I-datetime
+5	I-datetime
+:	I-datetime
+30am	I-datetime
+-	O
+6am	B-datetime
+
+programar	O
+alarma	O
+de	B-datetime
+mañana	I-datetime
+por	I-datetime
+la	I-datetime
+mañana	I-datetime
+a	I-datetime
+las	I-datetime
+6	I-datetime
+
+¿	O
+cuánto	O
+tiempo	O
+falta	O
+para	O
+mi	O
+alarma	O
+?	O
+
+¿	O
+cuánto	O
+tiempo	O
+falta	O
+antes	O
+de	O
+que	O
+suene	O
+mi	O
+alarma	O
+?	O
+
+cancelar	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+por	I-datetime
+la	I-datetime
+mañana	I-datetime
+
+¿	O
+cuándo	O
+está	O
+programada	O
+mi	O
+próxima	O
+alarma	O
+?	O
+
+cancelar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+2	I-datetime
+:	I-datetime
+30	I-datetime
+pm	I-datetime
+
+apagar	O
+la	O
+alarma	O
+
+desactivar	O
+alarma	O
+en	B-datetime
+5	I-datetime
+minutos	I-datetime
+
+programar	O
+alarma	O
+por	B-datetime
+30	I-datetime
+,	O
+32	B-datetime
+y	O
+35	B-datetime
+minutos	I-datetime
+
+programar	O
+una	O
+alarma	O
+a	B-datetime
+las	I-datetime
+9	I-datetime
+:	I-datetime
+30	I-datetime
+pm	I-datetime
+todas	I-datetime
+las	I-datetime
+noches	I-datetime
+para	O
+ir	O
+a	O
+la	O
+cama	O
+
+borrar	O
+todas	O
+mis	O
+alarmas	O
+por	O
+favor	O
+
+borrar	O
+todas	O
+mis	O
+alarmas	O
+
+cambiar	O
+mi	O
+alarma	O
+de	B-alarm/alarm_modifier
+las	I-alarm/alarm_modifier
+5	B-datetime
+am	I-datetime
+a	B-alarm/alarm_modifier
+las	I-alarm/alarm_modifier
+6	B-datetime
+am	I-datetime
+por	O
+favor	O
+
+programar	O
+alarma	O
+para	B-datetime
+esta	I-datetime
+noche	I-datetime
+a	I-datetime
+las	I-datetime
+8	I-datetime
+:	I-datetime
+00	I-datetime
+pm	I-datetime
+
+programar	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+8	I-datetime
+am	I-datetime
+
+desconectar	O
+todas	O
+las	O
+alarmas	O
+
+programar	O
+una	O
+alarma	O
+por	B-datetime
+2	I-datetime
+horas	I-datetime
+para	O
+apagar	O
+los	O
+rociadores	O
+
+establecer	O
+la	O
+alarma	O
+de	O
+levantarse	O
+para	B-datetime
+las	I-datetime
+6am	I-datetime
+de	I-datetime
+lunes	I-datetime
+a	I-datetime
+viernes	I-datetime
+
+cambiar	O
+mi	O
+alarma	O
+programada	O
+para	O
+ejercio	O
+a	B-datetime
+las	I-datetime
+5	I-datetime
+:	I-datetime
+30	I-datetime
+am	I-datetime
+
+porgramar	O
+mi	O
+alarma	O
+en	B-datetime
+una	I-datetime
+hora	I-datetime
+desde	I-datetime
+ahora	I-datetime
+por	O
+favor	O
+
+programar	O
+alarma	O
+en	B-datetime
+30	I-datetime
+mins	I-datetime
+
+mostrar	O
+todas	O
+las	O
+alarmas	O
+
+programar	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+6	I-datetime
+pm	I-datetime
+
+cancelar	O
+todas	O
+las	O
+alarmas	O
+de	B-datetime
+esta	I-datetime
+semana	I-datetime
+mientras	O
+estoy	O
+de	O
+vacaciones	O
+
+programar	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+por	I-datetime
+la	I-datetime
+mañana	I-datetime
+a	I-datetime
+las	I-datetime
+6	I-datetime
+am	I-datetime
+
+borrar	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+por	I-datetime
+la	I-datetime
+mañana	I-datetime
+
+agregar	O
+alarma	O
+de	O
+radio	O
+
+posponer	O
+alarma	O
+2	B-datetime
+veces	I-datetime
+en	I-datetime
+5	I-datetime
+minutos	I-datetime
+cada	I-datetime
+una	I-datetime
+
+¿	O
+cuánto	O
+tiempo	O
+me	O
+queda	O
+en	O
+la	O
+alarma	O
+?	O
+
+borrar	O
+todas	O
+las	O
+alarmas	O
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+9	I-datetime
+am	I-datetime
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+5	I-datetime
+:	I-datetime
+00pm	I-datetime
+.	O
+
+repetir	O
+alarma	O
+todos	B-datetime
+los	I-datetime
+martes	I-datetime
+
+configurar	O
+alarma	O
+todos	B-datetime
+los	I-datetime
+días	I-datetime
+para	B-datetime
+las	I-datetime
+7	I-datetime
+:	I-datetime
+00pm	I-datetime
+
+cancelar	O
+la	O
+alarma	O
+de	B-datetime
+las	I-datetime
+5	I-datetime
+am	I-datetime
+
+cancelar	O
+todas	O
+las	O
+alarmas	O
+
+programar	O
+la	O
+alarma	O
+para	B-datetime
+las	I-datetime
+8	I-datetime
+pm	I-datetime
+hora	I-datetime
+central	I-datetime
+
+crear	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+5	I-datetime
+:	I-datetime
+30	I-datetime
+mañana	I-datetime
+por	I-datetime
+la	I-datetime
+mañana	I-datetime
+.	O
+
+nueva	O
+alarma	O
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+5	I-datetime
+pm	I-datetime
+
+cancelar	O
+mi	O
+alarma	O
+de	B-datetime
+las	I-datetime
+7	I-datetime
+am	I-datetime
+
+configurar	O
+mi	O
+alarma	O
+en	B-datetime
+30	I-datetime
+minutos	I-datetime
+
+cancelar	O
+mi	O
+alarma	O
+para	B-datetime
+esta	I-datetime
+mañana	I-datetime
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+dos	I-datetime
+treinta	I-datetime
+am	I-datetime
+
+configurar	O
+la	O
+alarma	O
+para	B-datetime
+las	I-datetime
+4	I-datetime
+:	I-datetime
+30	I-datetime
+y	O
+después	O
+otra	O
+para	B-datetime
+las	I-datetime
+5	I-datetime
+:	I-datetime
+30	I-datetime
+
+alarma	O
+para	B-datetime
+las	I-datetime
+12pm	I-datetime
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+4am	I-datetime
+mañana	I-datetime
+
+detener	O
+la	O
+alarma	O
+
+configurar	O
+una	O
+segunda	O
+alarma	O
+para	B-datetime
+las	I-datetime
+8	I-datetime
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+6	I-datetime
+am	I-datetime
+
+cancelar	O
+alarmas	O
+
+mostrar	O
+mis	O
+alarmas	O
+
+crear	O
+alarma	O
+para	B-datetime
+domingo	I-datetime
+a	I-datetime
+las	I-datetime
+2	I-datetime
+:	I-datetime
+45	I-datetime
+pm	I-datetime
+
+configurar	O
+una	O
+alarma	O
+cada	B-datetime
+15	I-datetime
+minutos	I-datetime
+desde	I-datetime
+ahora	I-datetime
+
+adicionar	O
+5	B-datetime
+minutos	I-datetime
+en	O
+las	O
+configuraciónes	O
+de	O
+la	O
+alarma	O
+
+configurar	O
+una	O
+nueva	O
+alarma	O
+
+configurar	O
+alarmas	O
+diarias	O
+para	B-datetime
+las	I-datetime
+próximas	I-datetime
+dos	I-datetime
+semanas	I-datetime
+a	I-datetime
+las	I-datetime
+6	I-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+
+configurar	O
+la	O
+alarma	O
+del	B-datetime
+fin	I-datetime
+de	I-datetime
+semana	I-datetime
+para	B-datetime
+las	I-datetime
+ocho	I-datetime
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+530	I-datetime
+am	I-datetime
+mañana	I-datetime
+
+configurar	O
+nueva	O
+alarma	O
+para	B-datetime
+30	I-datetime
+minutos	I-datetime
+desde	I-datetime
+ahora	I-datetime
+
+desconectar	O
+todas	O
+las	O
+alarmas	O
+
+mostrar	O
+alarmas	O
+para	B-datetime
+mañana	I-datetime
+
+configurar	O
+la	O
+alarma	O
+para	B-datetime
+el	I-datetime
+martes	I-datetime
+por	I-datetime
+la	I-datetime
+mañana	I-datetime
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+7pm	I-datetime
+mañana	I-datetime
+
+crear	O
+alarma	O
+
+cancelar	O
+todas	O
+mis	O
+alarmas	O
+para	B-datetime
+mañana	I-datetime
+
+podrías	O
+cancelar	O
+mi	O
+alarma	O
+para	B-datetime
+las	I-datetime
+10	I-datetime
+pm	I-datetime
+
+borrar	O
+la	O
+alarma	O
+de	B-datetime
+mañana	I-datetime
+a	I-datetime
+las	I-datetime
+10am	I-datetime
+
+configurar	O
+alarma	O
+para	B-datetime
+viernes	I-datetime
+a	I-datetime
+las	I-datetime
+at	I-datetime
+7	I-datetime
+pm	I-datetime
+
+desconectar	O
+todas	O
+mis	O
+alarmas	O
+
+alarma	O
+para	B-datetime
+las	I-datetime
+5	I-datetime
+am	I-datetime
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+5	I-datetime
+pm	I-datetime
+hoy	I-datetime
+por	I-datetime
+la	I-datetime
+noche	I-datetime
+
+por	O
+favor	O
+configurar	O
+una	O
+alarma	O
+para	B-datetime
+los	I-datetime
+días	I-datetime
+de	I-datetime
+la	I-datetime
+semana	I-datetime
+para	I-datetime
+las	I-datetime
+6	I-datetime
+:	I-datetime
+30am	I-datetime
+
+por	O
+favor	O
+enseñar	O
+todas	O
+mis	O
+alarmas	O
+para	B-datetime
+mañana	I-datetime
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+6	I-datetime
+am	I-datetime
+hoy	I-datetime
+
+mostrar	O
+todas	O
+las	O
+alarmas	O
+que	O
+configuré	O
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+330pm	I-datetime
+
+configurar	O
+alarma	O
+para	B-datetime
+12	I-datetime
+minutos	I-datetime
+
+configurar	O
+alarma	O
+en	B-datetime
+20	I-datetime
+minutos	I-datetime
+desde	I-datetime
+ahora	I-datetime
+.	O
+
+configurar	O
+alarma	O
+para	B-datetime
+la	I-datetime
+medianoche	I-datetime
+
+configurar	O
+alarma	O
+para	B-datetime
+8	I-datetime
+am	I-datetime
+todos	I-datetime
+los	I-datetime
+días	I-datetime
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+10	I-datetime
+am	I-datetime
+todos	I-datetime
+los	I-datetime
+días	I-datetime
+.	O
+
+podrías	O
+configurar	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+7	I-datetime
+:	I-datetime
+30	I-datetime
+am	I-datetime
+por	O
+favor	O
+
+¿	O
+me	O
+podrías	O
+decir	O
+el	O
+tiempo	O
+restante	O
+en	O
+la	O
+alarma	O
+?	O
+
+configurar	O
+la	O
+alarma	O
+para	B-datetime
+las	I-datetime
+6	I-datetime
+am	I-datetime
+
+hacer	O
+una	O
+nueva	O
+alarma	O
+para	B-datetime
+la	I-datetime
+1	I-datetime
+en	I-datetime
+punto	I-datetime
+el	I-datetime
+martes	I-datetime
+
+configurar	O
+la	O
+alarma	O
+durante	B-datetime
+1	I-datetime
+hora	I-datetime
+antes	I-datetime
+de	O
+mi	O
+reserva	O
+de	O
+la	O
+cena	O
+en	O
+redstone	O
+
+configurar	O
+alarma	O
+por	B-datetime
+una	I-datetime
+hora	I-datetime
+.	O
+
+cancelar	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+.	O
+
+cancelar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+6	I-datetime
+:	I-datetime
+30	I-datetime
+am	I-datetime
+mañana	I-datetime
+
+ya	O
+puedes	O
+cancelar	O
+mi	O
+alarma	O
+.	O
+
+borrar	O
+todas	O
+las	O
+alarmas	O
+de	O
+este	O
+dispositivo	O
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+6am	I-datetime
+
+¿	O
+a	O
+qué	O
+hora	O
+está	O
+configurada	O
+la	O
+alarma	O
+de	O
+mi	O
+medicación	O
+?	O
+
+posponer	O
+alarma	O
+en	B-datetime
+1	I-datetime
+hora	I-datetime
+
+por	O
+favor	O
+configurar	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+a	I-datetime
+las	I-datetime
+10	I-datetime
+am	I-datetime
+
+¿	O
+a	O
+qué	O
+hora	O
+está	O
+configurada	O
+la	O
+alarma	O
+de	O
+mi	O
+hijo	O
+para	B-datetime
+mañana	I-datetime
+por	I-datetime
+la	I-datetime
+mañana	I-datetime
+?	O
+
+reconfigurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+3	I-datetime
+pm	I-datetime
+
+desconectar	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+por	I-datetime
+la	I-datetime
+mañana	I-datetime
+.	O
+
+configurar	O
+mi	O
+alarma	O
+para	B-datetime
+las	I-datetime
+8pm	I-datetime
+
+conectar	O
+la	O
+alarma	O
+
+mostrar	O
+todas	O
+mis	O
+alarmas	O
+de	O
+mi	O
+telefono	O
+
+desconectar	O
+alarma	O
+
+configurar	O
+mi	O
+alarma	O
+para	B-datetime
+las	I-datetime
+8pm	I-datetime
+.	O
+
+configurar	O
+alarma	O
+a	B-datetime
+las	I-datetime
+5	I-datetime
+para	O
+adrianna	O
+
+cancelar	O
+todas	O
+mis	O
+alarmas	O
+
+configurar	O
+alarma	O
+cada	B-datetime
+30	I-datetime
+minutos	I-datetime
+
+configurar	O
+mi	O
+alarma	O
+para	B-datetime
+15	I-datetime
+minutos	I-datetime
+desde	I-datetime
+ahora	I-datetime
+.	O
+
+necesito	O
+cancelar	O
+mi	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+a	I-datetime
+las	I-datetime
+3pm	I-datetime
+
+mostrar	O
+mi	O
+alarma	O
+
+listar	O
+todas	O
+mis	O
+alarmas	O
+activas	O
+
+por	O
+favor	O
+configurar	O
+la	O
+alarma	O
+en	O
+el	O
+temporizador	O
+
+cancelar	O
+todas	O
+mis	O
+alarmas	O
+
+configurar	O
+alarma	O
+cuando	O
+sea	O
+tiempo	O
+de	O
+irse	O
+
+configurar	O
+una	O
+nueva	O
+alarma	O
+para	O
+un	O
+recordatorio	O
+que	O
+necesito	O
+agregar	O
+a	B-datetime
+las	I-datetime
+3pm	I-datetime
+.	I-datetime
+
+configurar	O
+alarma	O
+cada	B-datetime
+hora	I-datetime
+
+desconectar	O
+alarma	O
+configurada	O
+para	B-datetime
+mañana	I-datetime
+
+configurar	O
+alarma	O
+cada	B-datetime
+10	I-datetime
+minutos	I-datetime
+
+mostrar	O
+todas	O
+mis	O
+alarmas	O
+
+cancelar	O
+todas	O
+las	O
+alarmas	O
+
+descartar	O
+alarma	O
+.	O
+
+posponer	O
+mi	O
+alarma	O
+por	B-datetime
+15	I-datetime
+minutos	I-datetime
+
+¿	O
+cuántas	O
+alarmas	O
+podré	O
+configurar	O
+?	O
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+2	I-datetime
+am	I-datetime
+hoy	I-datetime
+
+configurar	O
+alarma	O
+cada	B-datetime
+15	I-datetime
+minutos	I-datetime
+empezando	O
+a	B-datetime
+las	I-datetime
+8	I-datetime
+am	I-datetime
+.	O
+
+cambiar	O
+alarma	O
+para	B-datetime
+1	I-datetime
+hora	I-datetime
+de	O
+siesta	O
+.	O
+
+configurar	O
+alarma	O
+por	B-datetime
+5	I-datetime
+minutos	I-datetime
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+5	I-datetime
+am	I-datetime
+en	I-datetime
+los	I-datetime
+jueves	I-datetime
+
+configurar	O
+mi	O
+alarma	O
+cada	B-datetime
+minuto	I-datetime
+por	I-datetime
+1	I-datetime
+hora	I-datetime
+.	O
+
+configurar	O
+una	O
+alarma	O
+para	B-datetime
+más	I-datetime
+tarde	I-datetime
+hoy	I-datetime
+
+configurar	O
+una	O
+alarm	O
+para	O
+las	I-datetime
+9	I-datetime
+:	I-datetime
+30	I-datetime
+hoy	I-datetime
+por	I-datetime
+la	I-datetime
+noche	I-datetime
+,	I-datetime
+por	O
+favor	O
+.	O
+
+necesito	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+7	I-datetime
+mañana	I-datetime
+por	I-datetime
+la	I-datetime
+mañana	I-datetime
+
+cancelar	O
+las	O
+dos	O
+alarmas	O
+.	O
+
+¿	O
+cuánto	O
+tiempo	O
+le	O
+queda	O
+a	O
+mi	O
+alarma	O
+?	O
+
+configurar	O
+alarma	O
+por	B-datetime
+1	I-datetime
+hora	I-datetime
+desde	I-datetime
+ahora	I-datetime
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+10	I-datetime
+am	I-datetime
+
+configurar	O
+alarma	O
+por	B-datetime
+20	I-datetime
+minutos	I-datetime
+.	O
+
+cancelar	O
+la	O
+alarma	O
+para	B-datetime
+las	I-datetime
+1	I-datetime
+:	I-datetime
+30	I-datetime
+am	I-datetime
+mañana	I-datetime
+.	O
+
+descartar	O
+alarma	O
+numero	O
+1	O
+
+configurar	O
+alarma	O
+por	B-datetime
+una	I-datetime
+hora	I-datetime
+
+borrar	O
+la	O
+alarma	O
+del	B-datetime
+lunes	I-datetime
+por	O
+favor	O
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+8	I-datetime
+pm	I-datetime
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+12	I-datetime
+:	I-datetime
+00pm	I-datetime
+.	O
+
+¿	O
+tengo	O
+alarmas	O
+configuradas	O
+para	B-datetime
+mañana	I-datetime
+?	O
+
+quiero	O
+comenzar	O
+a	O
+cenar	O
+a	B-datetime
+las	I-datetime
+400	I-datetime
+pm	I-datetime
+del	I-datetime
+día	I-datetime
+de	I-datetime
+hoy	I-datetime
+,	O
+así	O
+que	O
+configurar	O
+una	O
+alarma	O
+para	O
+recordarme	O
+
+apagar	O
+mi	O
+alarma	O
+
+¿	O
+configuré	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+09	I-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+?	O
+
+¿	O
+cuántas	O
+alarmas	O
+tengo	O
+configuradas	O
+?	O
+
+enumérame	O
+las	O
+alarmas	O
+que	O
+he	O
+programado	O
+.	O
+
+configurar	O
+alarma	O
+por	B-datetime
+veinte	I-datetime
+minutos	I-datetime
+desde	I-datetime
+ahora	I-datetime
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+06	I-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+mañana	I-datetime
+
+configurar	O
+una	O
+alarma	O
+nueva	O
+
+mover	O
+la	O
+alarma	O
+de	B-datetime
+las	I-datetime
+5	I-datetime
+a	I-datetime
+las	I-datetime
+5	I-datetime
+:	I-datetime
+30	I-datetime
+
+muéstrame	O
+todas	O
+las	O
+alarmas	O
+que	O
+tengo	O
+ahora	O
+mismo	O
+
+mostrar	O
+mis	O
+alarmas	O
+
+deshabilitar	O
+alarma	O
+
+configurar	O
+una	O
+alarma	O
+diaria	B-datetime
+para	B-datetime
+las	I-datetime
+09	I-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+
+mostar	O
+alarmas	O
+
+configurar	O
+una	O
+alarma	O
+esta	B-datetime
+noche	I-datetime
+a	I-datetime
+las	I-datetime
+8	I-datetime
+
+mover	O
+mi	O
+alarma	O
+de	O
+las	O
+7	B-datetime
+a	B-datetime
+las	I-datetime
+7	I-datetime
+:	I-datetime
+15	I-datetime
+a.m	I-datetime
+.	I-datetime
+
+configurar	O
+una	O
+alarma	O
+para	O
+la	O
+cena	O
+a	B-datetime
+las	I-datetime
+07	I-datetime
+:	I-datetime
+30	I-datetime
+pm	I-datetime
+
+establecer	O
+alarma	O
+recurrente	O
+para	B-datetime
+6	I-datetime
+:	I-datetime
+45	I-datetime
+pm	I-datetime
+diariamente	I-datetime
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+04	I-datetime
+:	I-datetime
+00	I-datetime
+pm	I-datetime
+esta	I-datetime
+noche	I-datetime
+
+cancelar	O
+alarma	O
+para	O
+el	O
+pedido	O
+de	O
+amazon	O
+
+configurar	O
+la	O
+alarma	O
+por	O
+favor	O
+
+configurar	O
+alarma	O
+cada	B-datetime
+5	I-datetime
+minutos	I-datetime
+por	I-datetime
+una	I-datetime
+hora	I-datetime
+
+cancelar	O
+alarmas	O
+
+eliminar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+06	I-datetime
+:	I-datetime
+00	I-datetime
+pm	I-datetime
+
+configurar	O
+la	O
+alarma	O
+a	B-datetime
+las	I-datetime
+4	I-datetime
+:	I-datetime
+30	I-datetime
+am	I-datetime
+todos	I-datetime
+los	I-datetime
+días	I-datetime
+de	I-datetime
+la	I-datetime
+semana	I-datetime
+
+¿	O
+cuándo	O
+es	O
+mi	O
+próxima	O
+alarma	O
+?	O
+
+configurar	O
+una	O
+alarma	O
+a	B-datetime
+las	I-datetime
+6	I-datetime
+:	I-datetime
+30pm	I-datetime
+
+borrar	O
+todas	O
+las	O
+alarmas	O
+
+configurar	O
+una	O
+alarma	O
+a	B-datetime
+las	I-datetime
+6am	I-datetime
+para	I-datetime
+el	I-datetime
+resto	I-datetime
+de	I-datetime
+la	I-datetime
+semana	I-datetime
+
+cancelar	O
+todas	O
+mis	O
+alarmas	O
+
+¿	O
+cuánto	O
+tiempo	O
+falta	O
+para	O
+que	O
+suene	O
+mi	O
+alarma	O
+?	O
+
+establecer	O
+alarma	O
+para	B-datetime
+el	I-datetime
+martes	I-datetime
+a	I-datetime
+las	I-datetime
+4	I-datetime
+:	I-datetime
+30	I-datetime
+am	I-datetime
+
+establecer	O
+alarma	O
+cada	B-datetime
+20	I-datetime
+minutos	I-datetime
+durante	I-datetime
+6	I-datetime
+horas	I-datetime
+.	O
+
+por	O
+favor	O
+configura	O
+mi	O
+alarma	O
+a	B-datetime
+las	I-datetime
+6	I-datetime
+:	I-datetime
+30	I-datetime
+am	I-datetime
+
+restablece	O
+la	O
+alarma	O
+de	B-datetime
+mañana	I-datetime
+
+configurar	O
+alarma	O
+a	B-datetime
+las	I-datetime
+9am	I-datetime
+
+crar	O
+una	O
+alarma	O
+desde	B-datetime
+las	I-datetime
+5am	I-datetime
+el	I-datetime
+viernes	I-datetime
+
+establecer	O
+alarma	O
+cada	B-datetime
+minuto	I-datetime
+durante	I-datetime
+2	I-datetime
+horas	I-datetime
+
+establecer	O
+alarma	O
+en	B-datetime
+10	I-datetime
+minutos	I-datetime
+
+cambiar	O
+mi	O
+alarma	O
+de	B-datetime
+las	I-datetime
+5	I-datetime
+a.m	I-datetime
+.	I-datetime
+a	B-datetime
+las	I-datetime
+6	I-datetime
+a.m	I-datetime
+.	I-datetime
+
+establecer	O
+alarma	O
+cada	B-datetime
+dos	I-datetime
+horas	I-datetime
+por	I-datetime
+dos	I-datetime
+días	I-datetime
+
+establecer	O
+alarma	O
+para	B-datetime
+hoy	I-datetime
+a	I-datetime
+las	I-datetime
+8	I-datetime
+pm	I-datetime
+
+por	O
+favor	O
+establece	O
+una	O
+alarma	O
+para	B-datetime
+el	I-datetime
+viernes	I-datetime
+a	I-datetime
+las	I-datetime
+2	I-datetime
+:	I-datetime
+00pm	I-datetime
+
+establecer	O
+alarma	O
+esta	B-datetime
+noche	I-datetime
+para	I-datetime
+mañana	I-datetime
+por	I-datetime
+la	I-datetime
+mañana	I-datetime
+
+muestra	O
+todas	O
+las	O
+alarmas	O
+por	O
+favor	O
+
+establecer	O
+alarma	O
+para	B-datetime
+el	I-datetime
+miércoles	I-datetime
+a	I-datetime
+las	I-datetime
+8	I-datetime
+am	I-datetime
+
+¿	O
+a	O
+qué	O
+hora	O
+está	O
+configurada	O
+mi	O
+próxima	O
+alarma	O
+?	O
+
+cancelar	O
+esa	O
+alarma	O
+
+¿	O
+puedo	O
+tener	O
+una	O
+alarma	O
+configurada	O
+para	O
+el	O
+inicio	O
+de	O
+mi	O
+entranamiento	O
+a	B-datetime
+las	I-datetime
+5pm	I-datetime
+?	O
+
+establecer	O
+alarma	O
+a	B-datetime
+las	I-datetime
+6	I-datetime
+am	I-datetime
+
+cancelar	O
+alarma	O
+de	B-datetime
+esta	I-datetime
+noche	I-datetime
+a	I-datetime
+las	I-datetime
+8	I-datetime
+:	I-datetime
+00	I-datetime
+pm	I-datetime
+
+agregar	O
+una	O
+nueva	O
+alarma	O
+
+cancelar	O
+esa	O
+alarma	O
+para	O
+el	O
+cumpleaños	O
+de	O
+christie	O
+.	O
+
+dame	O
+una	O
+alarma	O
+cada	B-datetime
+30	I-datetime
+segundos	I-datetime
+
+muestra	O
+alarma	O
+para	B-datetime
+hoy	I-datetime
+
+establecer	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+6	I-datetime
+am	I-datetime
+
+establecer	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+5	I-datetime
+:	I-datetime
+30	I-datetime
+am	I-datetime
+
+borrar	O
+todas	O
+las	O
+alarmas	O
+
+salir	O
+de	O
+esa	O
+alarma	O
+
+establecer	O
+alarma	O
+cada	B-datetime
+dos	I-datetime
+minutos	I-datetime
+
+establecer	O
+a	B-datetime
+las	I-datetime
+6	I-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+
+mostrar	O
+alarmas	O
+para	B-datetime
+el	I-datetime
+martes	I-datetime
+
+¿	O
+cuánto	O
+tiempo	O
+falta	O
+para	O
+que	O
+suene	O
+la	O
+alarma	O
+?	O
+
+borrar	O
+mi	O
+alarma	O
+actual	O
+.	O
+
+establecer	O
+la	O
+alarma	O
+para	B-datetime
+las	I-datetime
+6	I-datetime
+am	I-datetime
+de	I-datetime
+mañana	I-datetime
+
+establecer	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+7	I-datetime
+:	I-datetime
+00	I-datetime
+pm	I-datetime
+de	I-datetime
+esta	I-datetime
+noche	I-datetime
+para	O
+recoger	O
+a	O
+melanie	O
+
+configurar	O
+todas	O
+las	O
+alarmas	O
+para	B-datetime
+las	I-datetime
+siente	I-datetime
+pm	I-datetime
+
+muéstrame	O
+mis	O
+alarmas	O
+
+establecer	O
+alarma	O
+para	B-datetime
+hoy	I-datetime
+a	I-datetime
+la	I-datetime
+1	I-datetime
+pm	I-datetime
+
+deshabilitar	O
+todas	O
+las	O
+alarmas	O
+
+establecer	O
+alarma	O
+para	B-datetime
+las	I-datetime
+6	I-datetime
+pm	I-datetime
+de	I-datetime
+mañana	I-datetime
+
+asigna	O
+la	O
+alarma	O
+a	B-datetime
+las	I-datetime
+6	I-datetime
+pm	I-datetime
+
+establecer	O
+alarma	O
+por	B-datetime
+4	I-datetime
+horas	I-datetime
+
+establecer	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+a	I-datetime
+las	I-datetime
+8	I-datetime
+am	I-datetime
+
+¿	O
+cuánto	O
+tiempo	O
+falta	O
+para	O
+mi	O
+próxima	O
+alarma	O
+?	O
+
+establecer	O
+una	O
+alarma	O
+en	B-datetime
+25	I-datetime
+minutos	I-datetime
+desde	I-datetime
+ahora	I-datetime
+
+cancelar	O
+mi	O
+alarma	O
+de	O
+las	O
+12	B-datetime
+:	I-datetime
+00	I-datetime
+pm	I-datetime
+de	B-datetime
+hoy	I-datetime
+.	O
+
+para	O
+las	O
+alarmas	O
+
+cambia	O
+la	O
+alarma	O
+de	O
+las	O
+09	B-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+a	B-datetime
+las	I-datetime
+09	I-datetime
+:	I-datetime
+30	I-datetime
+am	I-datetime
+
+configurar	O
+una	O
+alarma	O
+para	B-datetime
+el	I-datetime
+mediodía	I-datetime
+
+abre	O
+las	O
+alarmas	O
+activas	O
+
+necesito	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+09	I-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+
+repetir	O
+la	O
+alarma	O
+de	B-datetime
+lunes	I-datetime
+a	I-datetime
+viernes	I-datetime
+solamente	O
+
+configurar	O
+alarma	O
+a	B-datetime
+las	I-datetime
+03	I-datetime
+:	I-datetime
+00	I-datetime
+pm	I-datetime
+diariamente	I-datetime
+
+¿	O
+a	O
+qué	O
+hora	O
+es	O
+mi	O
+alarma	O
+?	O
+
+configurar	O
+una	O
+alarma	O
+a	B-datetime
+las	I-datetime
+04	I-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+
+configurar	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+08	I-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+mañana	I-datetime
+
+configurar	O
+una	O
+alarma	O
+por	B-datetime
+4	I-datetime
+horas	I-datetime
+desde	I-datetime
+ahora	I-datetime
+
+configurar	O
+mi	O
+alarma	O
+para	B-datetime
+las	I-datetime
+08	I-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+hora	I-datetime
+estándar	I-datetime
+del	I-datetime
+pacífico	I-datetime
+
+configurar	O
+nueva	O
+alarma	O
+
+por	O
+favor	O
+,	O
+configurar	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+03	I-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+
+configurar	O
+una	O
+nueva	O
+alarma	O
+por	B-datetime
+20	I-datetime
+minutos	I-datetime
+
+configurar	O
+una	O
+alarma	O
+por	O
+favor	O
+
+configurar	O
+una	O
+alarma	O
+cada	B-datetime
+30	I-datetime
+minutos	I-datetime
+
+cancelar	O
+las	O
+alarmas	O
+
+encender	O
+alarma	O
+
+configurar	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+06	I-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+
+posponer	O
+la	O
+alarma	O
+por	B-datetime
+10	I-datetime
+minutos	I-datetime
+
+borrar	O
+la	O
+alarma	O
+para	B-datetime
+las	I-datetime
+08	I-datetime
+:	I-datetime
+00	I-datetime
+pm	I-datetime
+
+cambiar	O
+la	O
+hora	O
+de	O
+la	O
+alarma	O
+para	B-datetime
+las	I-datetime
+02	I-datetime
+:	I-datetime
+00	I-datetime
+pm	I-datetime
+del	I-datetime
+miércoles	I-datetime
+
+apagar	O
+todas	O
+las	O
+alarmas	O
+para	B-datetime
+esta	I-datetime
+semana	I-datetime
+
+cancelar	O
+todas	O
+mis	O
+alarmas	O
+programadas	O
+
+cancelar	O
+todas	O
+las	O
+alarmas	O
+
+posponer	O
+alarma	O
+
+parar	O
+la	O
+alarma	O
+y	O
+reestablecer	O
+para	B-datetime
+mañana	I-datetime
+
+apagar	O
+todas	O
+las	O
+alarma	O
+
+por	O
+favor	O
+configurar	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+06	I-datetime
+:	I-datetime
+00	I-datetime
+pm	I-datetime
+el	I-datetime
+jueves	I-datetime
+
+configurar	O
+alarma	O
+para	B-datetime
+la	I-datetime
+noche	I-datetime
+del	I-datetime
+miércoles	I-datetime
+a	B-datetime
+las	I-datetime
+09	I-datetime
+:	I-datetime
+00	I-datetime
+pm	I-datetime
+como	O
+recordatorio	O
+
+dime	O
+todas	O
+mis	O
+alarmas	O
+
+¿	O
+qué	O
+alarma	O
+tengo	O
+para	B-datetime
+el	I-datetime
+sábado	I-datetime
+?	O
+
+eliminar	O
+la	O
+alarma	O
+para	B-datetime
+las	I-datetime
+10	I-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+
+cancelar	O
+mi	O
+alarma	O
+de	B-datetime
+las	I-datetime
+siete	I-datetime
+en	I-datetime
+punto	I-datetime
+
+configurar	O
+una	O
+alarma	O
+por	B-datetime
+20	I-datetime
+minutos	I-datetime
+para	O
+la	O
+lista	O
+de	O
+reproducción	O
+de	O
+dormir	O
+
+qué	O
+alarmas	O
+tengo	O
+configuradas	O
+para	B-datetime
+este	I-datetime
+fin	I-datetime
+de	I-datetime
+semana	I-datetime
+
+configurar	O
+una	O
+alarma	O
+por	B-datetime
+58	I-datetime
+segundos	I-datetime
+
+muéstrame	O
+las	O
+alarmas	O
+para	B-datetime
+hoy	I-datetime
+
+configurar	O
+una	O
+alarma	O
+para	O
+darle	O
+los	O
+medicamentos	O
+a	O
+mi	O
+mamá	O
+
+cancelar	O
+todas	O
+mis	O
+alarmas	O
+mañana	B-datetime
+
+cancelar	O
+la	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+
+parar	O
+la	O
+alarma	O
+
+alarmas	O
+usuales	O
+
+configurar	O
+la	O
+alarma	O
+para	B-datetime
+las	I-datetime
+07	I-datetime
+:	I-datetime
+30	I-datetime
+pm	I-datetime
+
+configurar	O
+mi	O
+alarma	O
+para	B-datetime
+las	I-datetime
+08	I-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+
+configurar	O
+alarma	O
+cada	B-datetime
+27	I-datetime
+horas	I-datetime
+
+configurar	O
+la	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+a	I-datetime
+las	I-datetime
+02	I-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+
+¿	O
+cuánto	O
+tiempo	O
+queda	O
+en	O
+mi	O
+alarma	O
+?	O
+
+configurar	O
+una	O
+alarma	O
+para	B-datetime
+la	I-datetime
+01	I-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+
+agregar	O
+alarma	O
+nueva	O
+para	B-datetime
+el	I-datetime
+lunes	I-datetime
+21	I-datetime
+a	I-datetime
+las	I-datetime
+08	I-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+para	O
+ver	O
+el	O
+eclipse	O
+
+configurar	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+10	I-datetime
+:	I-datetime
+00	I-datetime
+pm	I-datetime
+
+¿	O
+puedes	O
+por	O
+favor	O
+cancelar	O
+todas	O
+las	O
+alarmas	O
+?	O
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+06	I-datetime
+:	I-datetime
+30	I-datetime
+am	I-datetime
+mañana	I-datetime
+
+eliminar	O
+las	O
+alarmas	O
+de	B-datetime
+esta	I-datetime
+noche	I-datetime
+
+encender	O
+alarma	O
+a	B-datetime
+las	I-datetime
+09	I-datetime
+:	I-datetime
+00	I-datetime
+pm	I-datetime
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+05	I-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+cada	I-datetime
+día	I-datetime
+
+configurar	O
+semanalmente	B-datetime
+alarma	O
+para	B-datetime
+el	I-datetime
+sábado	I-datetime
+a	I-datetime
+las	I-datetime
+05	I-datetime
+:	I-datetime
+00	I-datetime
+pm	I-datetime
+
+por	O
+favor	O
+configurar	O
+la	O
+alarma	O
+para	O
+la	O
+cena	O
+esta	B-datetime
+noche	I-datetime
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+06	I-datetime
+:	I-datetime
+00	I-datetime
+pm	I-datetime
+del	I-datetime
+jueves	I-datetime
+
+configurar	O
+alarma	O
+cada	B-datetime
+hora	I-datetime
+por	I-datetime
+24	I-datetime
+horas	I-datetime
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+06	I-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+cada	I-datetime
+día	I-datetime
+esta	I-datetime
+semana	I-datetime
+
+configurar	O
+alarma	O
+por	B-datetime
+3	I-datetime
+minutos	I-datetime
+
+cancelar	O
+todas	O
+las	O
+alarmas	O
+
+eliminar	O
+la	O
+alarma	O
+de	B-datetime
+las	I-datetime
+8	I-datetime
+en	I-datetime
+punto	I-datetime
+
+comenzar	O
+la	O
+alarma	O
+ahora	B-datetime
+
+reestablecer	O
+alarmas	O
+
+configurar	O
+una	O
+alarma	O
+para	O
+que	O
+suene	O
+cada	B-datetime
+2	I-datetime
+horas	I-datetime
+esta	I-datetime
+tarde	I-datetime
+
+configurar	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+11	I-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+el	I-datetime
+26	I-datetime
+
+configurar	O
+mi	O
+alarma	O
+para	B-datetime
+las	I-datetime
+04	I-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+
+por	O
+favor	O
+,	O
+cancela	O
+mi	O
+alarma	O
+de	B-datetime
+las	I-datetime
+06	I-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+
+encender	O
+la	O
+alarma	O
+de	B-datetime
+las	I-datetime
+06	I-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+mañana	I-datetime
+
+configurar	O
+alarma	O
+
+configurar	O
+la	O
+alarma	O
+para	O
+que	O
+se	O
+active	O
+los	B-datetime
+últimos	I-datetime
+diez	I-datetime
+minutos	I-datetime
+antes	O
+de	O
+la	O
+clase	O
+.	O
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+06	I-datetime
+:	I-datetime
+30	I-datetime
+am	I-datetime
+
+por	O
+favor	O
+configurar	O
+mi	O
+alarma	O
+para	B-datetime
+las	I-datetime
+12	I-datetime
+:	I-datetime
+00	I-datetime
+pm	I-datetime
+
+¿	O
+cuánto	O
+tiempo	O
+más	O
+hasta	O
+que	O
+mi	O
+alarma	O
+suene	O
+?	O
+
+cancelar	O
+mi	O
+alarma	O
+de	B-datetime
+las	I-datetime
+cuatro	I-datetime
+pm	I-datetime
+
+configurar	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+05	I-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+todos	I-datetime
+los	I-datetime
+días	I-datetime
+esta	I-datetime
+semana	I-datetime
+
+configurar	O
+una	O
+alarma	O
+por	B-datetime
+30	I-datetime
+minutos	I-datetime
+desde	I-datetime
+ahora	I-datetime
+
+eliminar	O
+cualquier	O
+alarma	O
+para	B-datetime
+hoy	I-datetime
+
+reiniciar	O
+todas	O
+las	O
+alarmas	O
+
+nombrar	O
+mi	O
+alarma	O
+despertar	O
+
+apagar	O
+mi	O
+alarma	O
+
+posponer	O
+alarma	O
+por	B-datetime
+1	I-datetime
+hora	I-datetime
+
+configurar	O
+alarma	O
+para	B-datetime
+las	I-datetime
+03	I-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+mañana	I-datetime
+
+configurar	O
+una	O
+alarma	O
+por	B-datetime
+20	I-datetime
+minutos	I-datetime
+desde	I-datetime
+ahora	I-datetime
+
+mostrar	O
+mis	O
+recordatorios	B-reminder/noun
+de	O
+compras	B-reminder/todo
+.	O
+
+recuérdame	O
+reservar	B-reminder/todo
+mis	I-reminder/todo
+entradas	I-reminder/todo
+para	I-reminder/todo
+india	I-reminder/todo
+
+recuérdame	O
+comprar	B-reminder/todo
+mis	I-reminder/todo
+entradas	I-reminder/todo
+del	I-reminder/todo
+baloncesto	I-reminder/todo
+dentro	O
+de	B-datetime
+2	I-datetime
+horas	I-datetime
+.	O
+
+dime	O
+mis	O
+recordatorios	B-reminder/noun
+para	B-datetime
+mañana	I-datetime
+
+recuérdame	O
+la	O
+cuenta	B-reminder/todo
+del	I-reminder/todo
+teléfono	I-reminder/todo
+el	B-datetime
+viernes	I-datetime
+
+eliminar	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+
+olvidar	O
+recordatorio	B-reminder/noun
+para	B-datetime
+mañana	I-datetime
+
+¿	O
+puedes	O
+recordarme	O
+para	O
+recoger	B-reminder/todo
+pan	I-reminder/todo
+?	O
+
+recuérdame	O
+ir	B-reminder/todo
+para	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+mañana	B-datetime
+a	I-datetime
+la	I-datetime
+1pm	I-datetime
+
+recuérdame	O
+ir	O
+a	O
+la	B-reminder/todo
+cita	I-reminder/todo
+con	I-reminder/todo
+el	I-reminder/todo
+doctor	I-reminder/todo
+la	B-datetime
+próxima	I-datetime
+semana	I-datetime
+el	I-datetime
+jueves	I-datetime
+
+hacer	O
+un	O
+nuevo	O
+recordatorio	B-reminder/noun
+para	O
+llamar	B-reminder/todo
+al	I-reminder/todo
+doctor	I-reminder/todo
+pronto	I-reminder/todo
+
+mostrar	O
+mi	O
+recordatorio	B-reminder/noun
+
+listar	O
+mis	O
+recordatorios	B-reminder/noun
+para	O
+mí	O
+
+solo	O
+mostrar	O
+recordatorios	B-reminder/noun
+para	B-datetime
+hoy	I-datetime
+
+visualizar	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+para	B-datetime
+mañana	I-datetime
+
+cancelar	O
+recordatorio	B-reminder/noun
+para	O
+la	O
+leche	B-reminder/todo
+
+muéstrame	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+para	B-datetime
+hoy	I-datetime
+
+configurar	O
+ese	O
+recordatorio	B-reminder/noun
+para	B-datetime
+la	I-datetime
+misma	I-datetime
+hora	I-datetime
+el	I-datetime
+siguiente	I-datetime
+martes	I-datetime
+
+configurar	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+el	O
+cumpleaños	B-reminder/todo
+de	I-reminder/todo
+papá	I-reminder/todo
+
+cancelar	O
+el	O
+recordatorio	B-reminder/noun
+para	O
+la	O
+fiesta	B-reminder/todo
+de	I-reminder/todo
+jubilación	I-reminder/todo
+
+eliminar	O
+mis	O
+recordatorios	B-reminder/noun
+
+muéstrame	O
+mis	O
+recordatorios	B-reminder/noun
+para	B-datetime
+hoy	I-datetime
+
+recuérdame	O
+comprar	B-reminder/todo
+entradas	I-reminder/todo
+
+recuérdame	O
+llamar	B-reminder/todo
+al	I-reminder/todo
+doctor	I-reminder/todo
+hoy	B-datetime
+
+por	O
+favor	O
+muestra	O
+mis	O
+recordatorios	B-reminder/noun
+
+muéstrame	O
+todos	O
+mis	O
+recordatorios	B-reminder/noun
+
+configurar	O
+un	O
+nuevo	O
+recordatorio	B-reminder/noun
+para	O
+la	B-reminder/todo
+reunión	I-reminder/todo
+de	I-reminder/todo
+negocios	I-reminder/todo
+a	B-datetime
+las	I-datetime
+02	I-datetime
+:	I-datetime
+00	I-datetime
+pm	I-datetime
+
+cancelar	O
+recordatorios	B-reminder/noun
+para	O
+programar	O
+cita	B-reminder/todo
+con	I-reminder/todo
+el	I-reminder/todo
+dentista	I-reminder/todo
+
+mostrar	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+para	B-datetime
+mañana	I-datetime
+
+configurar	O
+un	O
+nuevo	O
+recordatorio	B-reminder/noun
+para	B-datetime
+las	I-datetime
+11	I-datetime
+:	I-datetime
+30	I-datetime
+am	I-datetime
+
+recuérdame	O
+comprobar	B-reminder/todo
+el	I-reminder/todo
+pastel	I-reminder/todo
+en	B-datetime
+20	I-datetime
+minutos	I-datetime
+
+recuérdame	O
+la	O
+cita	B-reminder/todo
+con	I-reminder/todo
+el	I-reminder/todo
+doctor	I-reminder/todo
+de	I-reminder/todo
+liam	I-reminder/todo
+a	B-datetime
+las	I-datetime
+9am	I-datetime
+de	I-datetime
+mañana	I-datetime
+
+establecer	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+programar	B-reminder/todo
+una	I-reminder/todo
+cita	I-reminder/todo
+con	I-reminder/todo
+el	I-reminder/todo
+dentista	I-reminder/todo
+
+muéstrame	O
+mis	O
+recordatorios	B-reminder/noun
+
+necesito	O
+saber	O
+mis	O
+recordatorios	B-reminder/noun
+de	B-datetime
+mañana	I-datetime
+por	I-datetime
+la	I-datetime
+mañana	I-datetime
+
+recuérdame	O
+descongelar	B-reminder/todo
+el	I-reminder/todo
+pollo	I-reminder/todo
+para	B-datetime
+mañana	I-datetime
+por	I-datetime
+la	I-datetime
+mañana	I-datetime
+
+cancelar	O
+todos	O
+mis	O
+recordatorios	B-reminder/noun
+de	B-datetime
+la	I-datetime
+siguiente	I-datetime
+semana	I-datetime
+
+cancelar	O
+mi	O
+recordatorio	B-reminder/noun
+para	O
+comprar	B-reminder/todo
+copas	I-reminder/todo
+en	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+
+cancelar	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+para	B-datetime
+mañana	I-datetime
+
+recuérdame	O
+pagar	B-reminder/todo
+la	I-reminder/todo
+electricidad	I-reminder/todo
+el	B-datetime
+lunes	I-datetime
+
+recuérdame	O
+10	B-datetime
+minutos	I-datetime
+antes	I-datetime
+del	O
+evento	O
+
+cancela	O
+mi	O
+recordatorio	B-reminder/noun
+para	O
+comprar	B-reminder/todo
+leche	I-reminder/todo
+en	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+
+establecer	O
+recordatorio	B-reminder/noun
+en	B-datetime
+15	I-datetime
+minutos	I-datetime
+
+¿	O
+tengo	O
+algún	O
+recordatorio	B-reminder/noun
+para	B-datetime
+hoy	I-datetime
+?	O
+
+recuérdame	O
+apagar	B-reminder/todo
+el	I-reminder/todo
+agua	I-reminder/todo
+en	B-datetime
+15	I-datetime
+minutos	I-datetime
+
+recuérdame	O
+comprar	B-reminder/todo
+leche	I-reminder/todo
+mañana	B-datetime
+
+establecer	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+sacar	B-reminder/todo
+la	I-reminder/todo
+basura	I-reminder/todo
+cuando	I-reminder/todo
+llegue	I-reminder/todo
+a	I-reminder/todo
+casa	I-reminder/todo
+
+recuérdame	O
+comprar	B-reminder/todo
+un	I-reminder/todo
+regalo	I-reminder/todo
+de	I-reminder/todo
+cumpleaños	I-reminder/todo
+para	I-reminder/todo
+mi	I-reminder/todo
+mamá	I-reminder/todo
+
+apaga	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+de	B-datetime
+hoy	I-datetime
+
+recuérdame	O
+programar	B-reminder/todo
+la	I-reminder/todo
+cita	I-reminder/todo
+con	I-reminder/todo
+el	I-reminder/todo
+doctor	I-reminder/todo
+
+recuérdame	O
+ir	B-reminder/todo
+a	I-reminder/todo
+la	I-reminder/todo
+cama	I-reminder/todo
+a	B-datetime
+las	I-datetime
+10pm	I-datetime
+
+¿	O
+puedes	O
+recordarme	O
+recoger	B-reminder/todo
+a	I-reminder/todo
+mi	I-reminder/todo
+hermana	I-reminder/todo
+en	I-reminder/todo
+el	I-reminder/todo
+aeropuerto	I-reminder/todo
+?	O
+
+programar	O
+recordatorio	B-reminder/noun
+para	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+mi	I-reminder/todo
+hermano	I-reminder/todo
+mañana	B-datetime
+a	I-datetime
+las	I-datetime
+7	I-datetime
+pm	I-datetime
+
+mostrarme	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+realizar	B-reminder/todo
+una	I-reminder/todo
+encuesta	I-reminder/todo
+en	B-datetime
+1	I-datetime
+hora	I-datetime
+
+recuérdame	O
+comprar	B-reminder/todo
+cerdo	I-reminder/todo
+de	I-reminder/todo
+guinea	I-reminder/todo
+
+recuérdame	O
+recoger	B-reminder/todo
+mi	I-reminder/todo
+almuerzo	I-reminder/todo
+a	B-datetime
+las	I-datetime
+7	I-datetime
+am	I-datetime
+
+borrar	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+
+necesito	O
+un	O
+recordatorio	B-reminder/noun
+mañana	B-datetime
+al	I-datetime
+mediodía	I-datetime
+
+recuérdame	O
+pagar	B-reminder/todo
+la	I-reminder/todo
+factura	I-reminder/todo
+de	I-reminder/todo
+mi	I-reminder/todo
+tarjeta	I-reminder/todo
+de	I-reminder/todo
+crédito	I-reminder/todo
+todos	B-reminder/recurring_period
+los	I-reminder/recurring_period
+meses	I-reminder/recurring_period
+el	I-reminder/recurring_period
+día	I-reminder/recurring_period
+28	I-reminder/recurring_period
+
+recuérdame	O
+que	O
+mañana	B-datetime
+es	O
+el	B-reminder/todo
+cumpleaños	I-reminder/todo
+de	I-reminder/todo
+mamá	I-reminder/todo
+
+mostrar	O
+todos	O
+mis	O
+recordatorios	B-reminder/noun
+de	B-datetime
+hoy	I-datetime
+
+recuérdame	O
+que	O
+deje	B-reminder/todo
+la	I-reminder/todo
+casa	I-reminder/todo
+antes	B-datetime
+de	I-datetime
+las	I-datetime
+2	I-datetime
+:	I-datetime
+30	I-datetime
+
+recuérdame	O
+ir	B-reminder/todo
+a	I-reminder/todo
+walmart	I-reminder/todo
+a	B-datetime
+las	I-datetime
+8	I-datetime
+
+¿	O
+puedo	O
+ver	O
+mis	O
+recordatorios	B-reminder/noun
+por	O
+favor	O
+?	O
+
+muéstrame	O
+que	O
+recordatorios	B-reminder/noun
+tengo	O
+configurados	O
+para	B-datetime
+mañana	I-datetime
+
+recuérdame	O
+comprar	B-reminder/todo
+la	I-reminder/todo
+perrarina	I-reminder/todo
+el	B-reminder/recurring_period
+1er	I-reminder/recurring_period
+día	I-reminder/recurring_period
+de	I-reminder/recurring_period
+cada	I-reminder/recurring_period
+mes	I-reminder/recurring_period
+
+recuérdame	O
+comprobar	B-reminder/todo
+los	I-reminder/todo
+vuelos	I-reminder/todo
+para	I-reminder/todo
+vermont	I-reminder/todo
+
+recuérdame	O
+cada	B-reminder/recurring_period
+5	I-reminder/recurring_period
+minutos	I-reminder/recurring_period
+
+cancelar	O
+recordartorio	B-reminder/noun
+para	O
+comprar	B-reminder/todo
+pizza	I-reminder/todo
+
+cancelar	O
+recordatorios	B-reminder/noun
+
+recuérdame	O
+comprar	B-reminder/todo
+huevos	I-reminder/todo
+en	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+a	B-datetime
+las	I-datetime
+6	I-datetime
+pm	I-datetime
+
+establecer	O
+recordatorio	B-reminder/noun
+para	O
+tomar	B-reminder/todo
+las	I-reminder/todo
+pastillas	I-reminder/todo
+a	B-datetime
+las	I-datetime
+cinco	I-datetime
+
+recuérdame	O
+ir	B-reminder/todo
+a	I-reminder/todo
+mi	I-reminder/todo
+cita	I-reminder/todo
+con	I-reminder/todo
+el	I-reminder/todo
+dentista	I-reminder/todo
+a	B-datetime
+la	I-datetime
+1pm	I-datetime
+hoy	I-datetime
+
+mostrar	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+
+cancelar	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+del	B-datetime
+domingo	I-datetime
+
+recuérdame	O
+la	B-reminder/todo
+visita	I-reminder/todo
+al	I-reminder/todo
+dentista	I-reminder/todo
+a	B-datetime
+las	I-datetime
+5pm	I-datetime
+mañana	I-datetime
+
+recuérdame	O
+que	O
+visite	B-reminder/todo
+mi	I-reminder/todo
+obstetra	I-reminder/todo
+ginecológico	I-reminder/todo
+mañana	B-datetime
+a	I-datetime
+las	I-datetime
+4	I-datetime
+pm	I-datetime
+
+recuérdame	O
+tomar	B-reminder/todo
+leche	I-reminder/todo
+en	B-datetime
+diez	I-datetime
+minutos	I-datetime
+
+recuérdame	O
+visitar	B-reminder/todo
+a	I-reminder/todo
+mi	I-reminder/todo
+mamá	I-reminder/todo
+el	O
+jueves	B-datetime
+por	I-datetime
+la	I-datetime
+tarde	I-datetime
+a	I-datetime
+las	I-datetime
+5	I-datetime
+pm	I-datetime
+
+hacer	O
+un	O
+recordatorio	B-reminder/noun
+para	B-reminder/todo
+mi	I-reminder/todo
+cita	I-reminder/todo
+con	I-reminder/todo
+el	I-reminder/todo
+doctor	I-reminder/todo
+a	B-datetime
+las	I-datetime
+2pm	I-datetime
+mañana	I-datetime
+
+recuérdame	O
+recoger	B-reminder/todo
+la	I-reminder/todo
+cena	I-reminder/todo
+después	I-reminder/todo
+del	I-reminder/todo
+trabajo	I-reminder/todo
+
+recuérdame	O
+recoger	B-reminder/todo
+mi	I-reminder/todo
+prescripción	I-reminder/todo
+hoy	B-datetime
+después	O
+del	O
+trabajo	O
+
+programar	O
+un	O
+recordatorio	B-reminder/noun
+para	B-reminder/todo
+pagar	I-reminder/todo
+el	I-reminder/todo
+teléfono	I-reminder/todo
+celular	I-reminder/todo
+mañana	B-datetime
+
+recuérdame	B-reminder/noun
+comprar	B-reminder/todo
+pan	I-reminder/todo
+en	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+a	B-datetime
+las	I-datetime
+6pm	I-datetime
+
+recuérdame	O
+llamar	B-reminder/noun
+a	I-reminder/noun
+alussa	I-reminder/noun
+mañana	B-datetime
+
+recuérdame	O
+comprar	B-reminder/todo
+más	I-reminder/todo
+solución	I-reminder/todo
+para	I-reminder/todo
+las	I-reminder/todo
+lentes	I-reminder/todo
+de	I-reminder/todo
+contacto	I-reminder/todo
+
+recuérdame	O
+todos	B-reminder/recurring_period
+los	I-reminder/recurring_period
+días	I-reminder/recurring_period
+por	I-reminder/recurring_period
+cinco	I-reminder/recurring_period
+días	I-reminder/recurring_period
+antes	O
+de	O
+mi	O
+aniversario	O
+
+recuérdame	O
+cortar	B-reminder/todo
+el	I-reminder/todo
+césped	I-reminder/todo
+esta	B-datetime
+tarde	I-datetime
+
+cancelar	O
+el	O
+recordatorio	B-reminder/noun
+para	O
+programar	B-reminder/todo
+el	I-reminder/todo
+dvr	I-reminder/todo
+mañana	B-datetime
+
+cancelar	O
+mi	O
+último	B-reminder/reference
+recordatorio	B-reminder/noun
+
+cancelar	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+para	B-datetime
+la	I-datetime
+próxima	I-datetime
+semana	I-datetime
+
+¿	O
+cuáles	O
+son	O
+mis	O
+recordatorios	B-reminder/noun
+para	B-datetime
+esta	I-datetime
+semana	I-datetime
+?	O
+
+agregar	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+comprar	B-reminder/todo
+cebolla	I-reminder/todo
+
+recuérdame	O
+comprar	B-reminder/todo
+caramelos	I-reminder/todo
+en	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+
+recuérdame	O
+ir	B-reminder/todo
+a	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+
+recuérdame	O
+recoger	B-reminder/todo
+a	I-reminder/todo
+los	I-reminder/todo
+niños	I-reminder/todo
+a	B-datetime
+las	I-datetime
+2	I-datetime
+
+recuérdame	O
+ir	B-reminder/todo
+a	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+de	I-reminder/todo
+camino	I-reminder/todo
+a	I-reminder/todo
+casa	I-reminder/todo
+
+recuérdame	O
+a	B-datetime
+las	I-datetime
+3pm	I-datetime
+mañana	I-datetime
+recoger	B-reminder/todo
+a	I-reminder/todo
+sam	I-reminder/todo
+de	I-reminder/todo
+la	I-reminder/todo
+escuela	I-reminder/todo
+
+programar	O
+recordatorio	B-reminder/noun
+para	O
+la	B-reminder/todo
+fiesta	I-reminder/todo
+de	I-reminder/todo
+rubens	I-reminder/todo
+el	B-datetime
+sábado	I-datetime
+a	I-datetime
+las	I-datetime
+3	I-datetime
+
+recuérdame	O
+apagar	B-reminder/todo
+la	I-reminder/todo
+estufa	I-reminder/todo
+en	B-datetime
+15	I-datetime
+minutos	I-datetime
+
+agregar	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+desearle	B-reminder/todo
+feliz	I-reminder/todo
+cumpleaños	I-reminder/todo
+a	I-reminder/todo
+jen	I-reminder/todo
+mañana	B-datetime
+
+cancelar	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+
+recuérdame	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+mi	I-reminder/todo
+mamá	I-reminder/todo
+
+recuérdame	O
+cancelar	B-reminder/todo
+la	I-reminder/todo
+reunión	I-reminder/todo
+de	B-datetime
+mañana	I-datetime
+
+recuérdame	O
+comprar	B-reminder/todo
+huevos	I-reminder/todo
+en	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+
+recuérdame	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+mi	I-reminder/todo
+madre	I-reminder/todo
+más	B-datetime
+tarde	I-datetime
+hoy	I-datetime
+
+configurar	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+llevar	B-reminder/todo
+comida	I-reminder/todo
+para	I-reminder/todo
+la	I-reminder/todo
+iglesia	I-reminder/todo
+mañana	B-datetime
+por	I-datetime
+la	I-datetime
+noche	I-datetime
+
+recuérdame	O
+ir	B-reminder/todo
+al	I-reminder/todo
+kroger	I-reminder/todo
+hoy	B-datetime
+
+puedes	O
+recordarme	O
+recoger	B-reminder/todo
+a	I-reminder/todo
+sarah	I-reminder/todo
+en	I-reminder/todo
+el	I-reminder/todo
+aeropuerto	I-reminder/todo
+mañana	B-datetime
+
+comenzar	O
+recordatorio	B-reminder/noun
+para	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+la	I-reminder/todo
+compañía	I-reminder/todo
+de	I-reminder/todo
+energía	I-reminder/todo
+mañana	B-datetime
+
+recuérdame	O
+2	B-datetime
+días	I-datetime
+antes	I-datetime
+el	O
+cumpleaños	B-reminder/todo
+de	I-reminder/todo
+julie	I-reminder/todo
+
+cancelar	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+para	B-datetime
+mañana	I-datetime
+
+recuérdame	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+jason	I-reminder/todo
+
+recuérdame	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+mamá	I-reminder/todo
+a	B-datetime
+las	I-datetime
+06	I-datetime
+:	I-datetime
+30	I-datetime
+pm	I-datetime
+
+cancelar	O
+mi	O
+recordatorio	B-reminder/noun
+para	O
+comprar	B-reminder/todo
+la	I-reminder/todo
+perrarina	I-reminder/todo
+
+recuérdame	O
+concertar	O
+la	O
+cita	B-reminder/todo
+del	I-reminder/todo
+oftalmólogo	I-reminder/todo
+
+recuérdame	O
+que	O
+tengo	O
+que	O
+ir	B-reminder/todo
+al	I-reminder/todo
+dentista	I-reminder/todo
+el	B-datetime
+viernes	I-datetime
+a	I-datetime
+las	I-datetime
+3	I-datetime
+
+recuérdame	O
+parar	B-reminder/todo
+en	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+el	B-datetime
+martes	I-datetime
+
+programar	O
+un	O
+recordatorio	B-reminder/noun
+que	O
+diga	O
+"	B-reminder/todo
+devolver	I-reminder/todo
+libros	I-reminder/todo
+"	I-reminder/todo
+para	B-datetime
+las	I-datetime
+11am	I-datetime
+hoy	I-datetime
+
+qué	O
+recordatorios	B-reminder/noun
+tengo	O
+programados	O
+para	B-datetime
+esta	I-datetime
+semana	I-datetime
+
+configurar	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+cortar	B-reminder/todo
+flores	I-reminder/todo
+a	B-datetime
+las	I-datetime
+3	I-datetime
+:	I-datetime
+00	I-datetime
+pm	I-datetime
+
+programar	O
+recordatorio	B-reminder/noun
+para	B-datetime
+mañana	I-datetime
+a	I-datetime
+las	I-datetime
+10	I-datetime
+pm	I-datetime
+
+recuérdame	O
+llevar	B-reminder/todo
+el	I-reminder/todo
+coche	I-reminder/todo
+para	I-reminder/todo
+el	I-reminder/todo
+cambio	I-reminder/todo
+de	I-reminder/todo
+aceite	I-reminder/todo
+
+cancelar	O
+recordatorio	B-reminder/noun
+para	O
+recoger	B-reminder/todo
+a	I-reminder/todo
+olivia	I-reminder/todo
+
+cancelar	O
+mi	O
+recordatorio	B-reminder/noun
+para	O
+asistir	B-reminder/todo
+a	I-reminder/todo
+la	I-reminder/todo
+reunión	I-reminder/todo
+
+recuérdame	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+mis	I-reminder/todo
+hijas	I-reminder/todo
+para	I-reminder/todo
+los	I-reminder/todo
+suministros	I-reminder/todo
+diabéticos	I-reminder/todo
+mañana	B-datetime
+
+programar	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+recoges	B-reminder/todo
+a	I-reminder/todo
+los	I-reminder/todo
+niños	I-reminder/todo
+de	I-reminder/todo
+casa	I-reminder/todo
+de	I-reminder/todo
+la	I-reminder/todo
+abuela	I-reminder/todo
+esta	B-datetime
+noche	I-datetime
+
+cancelar	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+establecidos	O
+para	B-datetime
+el	I-datetime
+resto	I-datetime
+de	I-datetime
+la	I-datetime
+semana	I-datetime
+
+nuevo	O
+recordatorio	B-reminder/noun
+
+establecer	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+comprar	B-reminder/todo
+alimentos	I-reminder/todo
+a	B-datetime
+las	I-datetime
+5	I-datetime
+:	I-datetime
+00	I-datetime
+pm	I-datetime
+
+recuérdame	O
+ir	B-reminder/todo
+a	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+a	B-datetime
+las	I-datetime
+6	I-datetime
+pm	I-datetime
+
+mostrar	O
+mis	O
+recordatorios	B-reminder/noun
+
+configurar	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+sacar	B-reminder/todo
+la	I-reminder/todo
+basura	I-reminder/todo
+a	B-datetime
+las	I-datetime
+8pm	I-datetime
+hoy	I-datetime
+
+envíame	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+programar	B-reminder/todo
+un	I-reminder/todo
+temporizador	I-reminder/todo
+de	B-datetime
+10	I-datetime
+minutos	I-datetime
+
+configurar	O
+un	O
+recordatorio	B-reminder/noun
+una	B-datetime
+semana	I-datetime
+antes	I-datetime
+de	O
+mi	O
+aniversario	B-reminder/todo
+
+programar	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+la	O
+fiesta	B-reminder/todo
+de	I-reminder/todo
+cumpleaños	I-reminder/todo
+del	B-datetime
+sábado	I-datetime
+por	I-datetime
+la	I-datetime
+noche	I-datetime
+a	I-datetime
+las	I-datetime
+5	I-datetime
+:	I-datetime
+00	I-datetime
+
+muéstrame	O
+mis	O
+recordatorios	B-reminder/noun
+para	B-datetime
+mañana	I-datetime
+
+recuérdame	O
+comprar	B-reminder/todo
+los	I-reminder/todo
+alimentos	I-reminder/todo
+mañana	B-datetime
+
+recuérdame	O
+discutir	B-reminder/todo
+los	I-reminder/todo
+síntomas	I-reminder/todo
+con	I-reminder/todo
+el	I-reminder/todo
+doctor	I-reminder/todo
+durante	I-reminder/todo
+la	I-reminder/todo
+visita	I-reminder/todo
+del	B-datetime
+martes	I-datetime
+
+programar	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+recoger	B-reminder/todo
+la	I-reminder/todo
+ropa	I-reminder/todo
+de	I-reminder/todo
+la	I-reminder/todo
+lavandería	I-reminder/todo
+el	B-datetime
+viernes	I-datetime
+
+eliminar	O
+recordatorio	B-reminder/noun
+para	O
+completar	B-reminder/todo
+los	I-reminder/todo
+documentos	I-reminder/todo
+de	I-reminder/todo
+adopción	I-reminder/todo
+el	B-datetime
+jueves	I-datetime
+
+recuérdame	O
+programar	B-reminder/todo
+una	I-reminder/todo
+cita	I-reminder/todo
+para	I-reminder/todo
+ver	I-reminder/todo
+al	I-reminder/todo
+doctor	I-reminder/todo
+
+cancelar	O
+recordatorio	B-reminder/noun
+para	O
+recoger	B-reminder/todo
+a	I-reminder/todo
+susan	I-reminder/todo
+a	B-datetime
+las	I-datetime
+4	I-datetime
+:	I-datetime
+00	I-datetime
+pm	I-datetime
+hoy	I-datetime
+
+recuérdame	O
+ir	B-reminder/todo
+a	I-reminder/todo
+la	I-reminder/todo
+reunión	I-reminder/todo
+con	I-reminder/todo
+el	I-reminder/todo
+equipo	I-reminder/todo
+a	B-datetime
+las	I-datetime
+8am	I-datetime
+
+recuérdame	O
+comprobar	B-reminder/todo
+la	I-reminder/todo
+pizza	I-reminder/todo
+en	B-datetime
+10	I-datetime
+minutos	I-datetime
+
+recuérdame	O
+darle	B-reminder/todo
+a	I-reminder/todo
+rosco	I-reminder/todo
+sus	I-reminder/todo
+medicamentos	I-reminder/todo
+a	B-datetime
+las	I-datetime
+8	I-datetime
+
+recuérdame	O
+comprar	B-reminder/todo
+leche	I-reminder/todo
+
+mostrar	O
+mis	O
+recordatorios	B-reminder/noun
+para	B-datetime
+la	I-datetime
+semana	I-datetime
+siguiente	I-datetime
+
+recuérdame	O
+en	B-datetime
+una	I-datetime
+hora	I-datetime
+
+recuérdame	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+la	I-reminder/todo
+librería	I-reminder/todo
+
+configurar	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+grabar	B-reminder/todo
+"	I-reminder/todo
+twin	I-reminder/todo
+peaks	I-reminder/todo
+"	I-reminder/todo
+
+olvidar	O
+el	O
+recordatorio	B-reminder/noun
+para	O
+comprar	B-reminder/todo
+pan	I-reminder/todo
+
+cancelar	O
+recordatorio	B-reminder/noun
+para	O
+llamar	B-reminder/todo
+al	I-reminder/todo
+dentista	I-reminder/todo
+
+recuérdame	O
+llevar	B-reminder/todo
+a	I-reminder/todo
+casa	I-reminder/todo
+mi	I-reminder/todo
+portátil	I-reminder/todo
+del	I-reminder/todo
+trabajo	I-reminder/todo
+mañana	B-datetime
+por	I-datetime
+la	I-datetime
+tarde	I-datetime
+
+mostrar	O
+recordatorio	B-reminder/noun
+
+recuérdame	O
+sacar	B-reminder/todo
+la	I-reminder/todo
+basura	I-reminder/todo
+
+cancelar	O
+mi	O
+recordatorio	B-reminder/noun
+del	O
+regalo	B-reminder/todo
+de	I-reminder/todo
+aniversario	I-reminder/todo
+
+borrar	O
+mi	O
+recordatorio	B-reminder/noun
+para	O
+taco	B-reminder/todo
+bell	I-reminder/todo
+
+recuérdame	O
+comprar	B-reminder/todo
+un	I-reminder/todo
+regalo	I-reminder/todo
+de	O
+cumpleaños	O
+el	B-datetime
+viernes	I-datetime
+
+cancelar	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+para	B-datetime
+el	I-datetime
+fin	I-datetime
+de	I-datetime
+semana	I-datetime
+que	I-datetime
+viene	I-datetime
+
+borrar	O
+todos	O
+mis	O
+recordatorios	B-reminder/noun
+de	B-datetime
+ayer	I-datetime
+
+recuérdame	O
+comprobar	B-reminder/todo
+mi	I-reminder/todo
+lista	I-reminder/todo
+cuando	I-reminder/todo
+esté	I-reminder/todo
+en	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+
+cuáles	O
+son	O
+todos	O
+mis	O
+recordatorios	B-reminder/noun
+
+programar	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+comprar	B-reminder/todo
+un	I-reminder/todo
+regalo	I-reminder/todo
+de	I-reminder/todo
+cumpleaños	I-reminder/todo
+a	I-reminder/todo
+la	I-reminder/todo
+abuela	I-reminder/todo
+
+cancela	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+para	B-datetime
+el	I-datetime
+viernes	I-datetime
+
+recuérdame	O
+comprar	B-reminder/todo
+leche	I-reminder/todo
+
+recuérdame	O
+asistir	B-reminder/todo
+a	I-reminder/todo
+la	I-reminder/todo
+reunión	I-reminder/todo
+de	I-reminder/todo
+pta	I-reminder/todo
+
+recuérdame	O
+pesarme	B-reminder/todo
+cada	B-reminder/recurring_period
+martes	I-reminder/recurring_period
+
+guardar	O
+los	O
+recordatorios	B-reminder/noun
+mensuales	B-reminder/recurring_period
+
+recuérdame	O
+llevar	B-reminder/todo
+mis	I-reminder/todo
+vitaminas	I-reminder/todo
+esta	B-datetime
+noche	I-datetime
+
+cancelar	O
+mi	O
+recordatorio	B-reminder/noun
+para	O
+pasear	B-reminder/todo
+al	I-reminder/todo
+perro	I-reminder/todo
+
+mostrar	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+de	B-datetime
+mañana	I-datetime
+por	I-datetime
+la	I-datetime
+mañana	I-datetime
+
+crear	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+mi	O
+reunión	B-reminder/todo
+el	B-datetime
+viernes	I-datetime
+por	O
+favor	O
+
+programar	O
+recordatorio	B-reminder/noun
+mañana	B-datetime
+para	O
+entregar	B-reminder/todo
+el	I-reminder/todo
+informe	I-reminder/todo
+de	I-reminder/todo
+fin	I-reminder/todo
+de	I-reminder/todo
+mes	I-reminder/todo
+
+cancelar	O
+todos	O
+mis	O
+recordatorios	B-reminder/noun
+
+cancelar	O
+mi	O
+recordatorio	B-reminder/noun
+para	O
+comprar	B-reminder/todo
+leche	I-reminder/todo
+en	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+
+crear	O
+un	O
+recordatorio	B-reminder/noun
+el	B-datetime
+próximo	I-datetime
+año	I-datetime
+el	I-datetime
+1ro	I-datetime
+de	I-datetime
+octubre	I-datetime
+para	O
+pensar	B-reminder/todo
+sobre	I-reminder/todo
+el	I-reminder/todo
+disfraz	I-reminder/todo
+de	I-reminder/todo
+noche	I-reminder/todo
+de	I-reminder/todo
+brujas	I-reminder/todo
+
+programar	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+llamar	B-reminder/todo
+al	I-reminder/todo
+veterinario	I-reminder/todo
+el	B-datetime
+viernes	I-datetime
+
+recuérdame	O
+desearle	B-reminder/todo
+feliz	I-reminder/todo
+cumpleaños	I-reminder/todo
+a	O
+mamá	O
+
+programar	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+el	O
+cumpleaños	B-reminder/todo
+de	I-reminder/todo
+john	I-reminder/todo
+el	B-datetime
+mes	I-datetime
+siguiente	I-datetime
+
+cancelar	O
+el	O
+recordatorio	B-reminder/noun
+para	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+mamá	I-reminder/todo
+
+recuérdame	O
+ir	B-reminder/todo
+a	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+
+leer	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+de	B-datetime
+hoy	I-datetime
+
+recuérdame	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+karen	I-reminder/todo
+
+programar	O
+un	O
+recordatorio	B-reminder/noun
+mensual	B-reminder/recurring_period
+para	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+la	I-reminder/todo
+abuela	I-reminder/todo
+
+recuérdame	O
+llamar	B-reminder/todo
+al	I-reminder/todo
+dentista	I-reminder/todo
+mañana	B-datetime
+a	I-datetime
+las	I-datetime
+10	I-datetime
+am	I-datetime
+
+necesito	O
+que	O
+me	O
+recuerdes	O
+sacar	B-reminder/todo
+la	I-reminder/todo
+ropa	I-reminder/todo
+de	I-reminder/todo
+la	I-reminder/todo
+lavadora	I-reminder/todo
+
+cancelar	O
+mi	O
+recordatorio	B-reminder/noun
+para	O
+el	O
+concierto	B-reminder/todo
+de	B-datetime
+esta	I-datetime
+noche	I-datetime
+
+recuérdame	O
+recoger	B-reminder/todo
+los	I-reminder/todo
+huevos	I-reminder/todo
+en	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+
+establecer	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+reprogramar	B-reminder/todo
+mi	I-reminder/todo
+cita	I-reminder/todo
+con	I-reminder/todo
+el	I-reminder/todo
+doctor	I-reminder/todo
+
+borrar	O
+todas	O
+las	O
+alarmas	O
+y	O
+recordatorios	B-reminder/noun
+
+cancelar	O
+mi	O
+recordatorio	B-reminder/noun
+para	O
+la	O
+fiesta	B-reminder/todo
+
+deshabilitar	O
+recordatorios	B-reminder/noun
+recurrentes	O
+
+recuérdame	O
+comprar	B-reminder/todo
+un	I-reminder/todo
+pastel	I-reminder/todo
+esta	B-datetime
+noche	I-datetime
+
+muéstrame	O
+mis	O
+recordatorios	B-reminder/noun
+para	B-datetime
+mañana	I-datetime
+
+muéstrame	O
+mis	O
+recordatorios	B-reminder/noun
+del	B-datetime
+miércoles	I-datetime
+
+recuérdame	O
+comprar	B-reminder/todo
+el	I-reminder/todo
+regalo	I-reminder/todo
+del	I-reminder/todo
+día	I-reminder/todo
+de	I-reminder/todo
+la	I-reminder/todo
+madre	I-reminder/todo
+
+recuérdame	O
+correr	B-reminder/todo
+esta	B-datetime
+tarde	I-datetime
+
+recuérdame	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+mi	I-reminder/todo
+hermano	I-reminder/todo
+
+recuérdame	O
+establecer	B-reminder/todo
+una	I-reminder/todo
+alarma	I-reminder/todo
+mañana	B-datetime
+
+¿	O
+programé	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+mi	O
+cita	B-datetime
+con	I-datetime
+el	I-datetime
+doctor	I-datetime
+de	B-datetime
+la	I-datetime
+próxima	I-datetime
+semana	I-datetime
+?	O
+
+muéstrame	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+diariamente	B-reminder/recurring_period
+
+recuérdame	O
+mi	B-reminder/todo
+examen	I-reminder/todo
+
+borrar	O
+recordatorio	B-reminder/noun
+para	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+zozo	I-reminder/todo
+mañana	B-datetime
+
+recuérdame	O
+el	B-reminder/todo
+cumpleaños	I-reminder/todo
+de	I-reminder/todo
+mi	I-reminder/todo
+amigo	I-reminder/todo
+el	B-datetime
+8	I-datetime
+de	I-datetime
+mayo	I-datetime
+
+muéstrame	O
+los	O
+recordatorios	B-reminder/noun
+de	B-datetime
+esta	I-datetime
+semana	I-datetime
+
+recuérdame	O
+recoger	B-reminder/todo
+la	I-reminder/todo
+ropa	I-reminder/todo
+de	I-reminder/todo
+la	I-reminder/todo
+lavandería	I-reminder/todo
+el	B-datetime
+viernes	I-datetime
+a	I-datetime
+las	I-datetime
+9	I-datetime
+am	I-datetime
+
+cancelar	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+de	B-datetime
+hoy	I-datetime
+
+recuérdame	O
+que	O
+jim	B-reminder/todo
+viene	I-reminder/todo
+mañana	B-datetime
+
+recuérdame	O
+que	B-reminder/todo
+food	I-reminder/todo
+lion	I-reminder/todo
+tiene	I-reminder/todo
+cupón	I-reminder/todo
+doble	I-reminder/todo
+para	B-datetime
+el	I-datetime
+día	I-datetime
+31	I-datetime
+de	I-datetime
+agosto	I-datetime
+
+recuérdame	O
+el	O
+examen	B-reminder/todo
+del	B-datetime
+próximo	I-datetime
+jueves	I-datetime
+
+borrar	O
+recordatorio	B-reminder/noun
+para	O
+comprar	B-reminder/todo
+alimentos	I-reminder/todo
+
+máquina	O
+recuérdame	O
+tomar	B-reminder/todo
+mis	I-reminder/todo
+vitaminas	I-reminder/todo
+todos	B-datetime
+los	I-datetime
+días	I-datetime
+por	O
+favor	O
+
+mostrar	O
+los	O
+recordatorios	B-reminder/noun
+
+recuérdame	O
+recoger	B-reminder/todo
+vino	I-reminder/todo
+para	I-reminder/todo
+la	I-reminder/todo
+cena	I-reminder/todo
+
+recuérdame	O
+comprar	B-reminder/todo
+pan	I-reminder/todo
+hoy	B-datetime
+
+necesito	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+john	I-reminder/todo
+mañana	B-datetime
+
+eliminar	O
+recordatorio	B-reminder/noun
+para	O
+ir	B-reminder/todo
+al	I-reminder/todo
+oculista	I-reminder/todo
+mañana	B-datetime
+
+cancelar	O
+mi	O
+recordatorio	B-reminder/noun
+recurrente	O
+para	O
+tomar	B-reminder/todo
+las	I-reminder/todo
+medicamentos	I-reminder/todo
+diariamente	B-datetime
+a	I-datetime
+las	I-datetime
+7	I-datetime
+am	I-datetime
+
+recuérdame	O
+comprobar	B-reminder/todo
+el	I-reminder/todo
+correo	I-reminder/todo
+
+recuérdame	O
+comprar	B-reminder/todo
+la	I-reminder/todo
+comida	I-reminder/todo
+del	I-reminder/todo
+perro	I-reminder/todo
+después	I-reminder/todo
+del	I-reminder/todo
+trabajo	I-reminder/todo
+
+recuérdame	O
+ir	B-reminder/todo
+a	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+el	B-datetime
+sábado	I-datetime
+
+finalizar	O
+mi	O
+recordatorio	B-reminder/noun
+,	O
+por	O
+favor	O
+eliminar	O
+
+cancelar	O
+el	O
+recordatorio	B-reminder/noun
+para	O
+mi	O
+cita	B-reminder/todo
+con	I-reminder/todo
+el	I-reminder/todo
+doctor	I-reminder/todo
+por	O
+favor	O
+
+recuérdame	O
+ir	B-reminder/todo
+a	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+en	B-datetime
+30	I-datetime
+minutos	I-datetime
+
+recuérdame	O
+caminar	B-reminder/todo
+con	I-reminder/todo
+mi	I-reminder/todo
+perro	I-reminder/todo
+por	B-datetime
+la	I-datetime
+mañana	I-datetime
+
+recuérdame	O
+escribir	B-reminder/todo
+una	I-reminder/todo
+carta	I-reminder/todo
+mañana	B-datetime
+
+recuérdame	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+mi	I-reminder/todo
+hijo	I-reminder/todo
+mañana	B-datetime
+
+establecer	O
+recordatorio	B-reminder/noun
+para	O
+recoger	B-reminder/todo
+a	I-reminder/todo
+los	I-reminder/todo
+niños	I-reminder/todo
+de	I-reminder/todo
+las	I-reminder/todo
+clases	I-reminder/todo
+de	I-reminder/todo
+danza	I-reminder/todo
+
+mostrar	O
+todos	O
+mis	O
+recordatorios	B-reminder/noun
+
+recuérdame	O
+tomar	B-reminder/todo
+mi	I-reminder/todo
+calcio	I-reminder/todo
+a	B-datetime
+las	I-datetime
+10	I-datetime
+pm	I-datetime
+
+mostrar	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+para	B-datetime
+mañana	I-datetime
+
+configurar	O
+un	O
+nuevo	O
+recordatorio	B-reminder/noun
+para	O
+la	O
+cita	B-reminder/todo
+con	I-reminder/todo
+el	I-reminder/todo
+dentista	I-reminder/todo
+mañana	B-datetime
+a	I-datetime
+la	I-datetime
+1	I-datetime
+pm	I-datetime
+
+eliminar	O
+el	O
+recordatorio	B-reminder/noun
+para	O
+comprar	B-reminder/todo
+la	I-reminder/todo
+cena	I-reminder/todo
+
+eliminar	O
+recordatorio	B-reminder/noun
+
+recuérdame	O
+reprogramar	B-reminder/todo
+la	I-reminder/todo
+cita	I-reminder/todo
+de	I-reminder/todo
+los	I-reminder/todo
+doctores	I-reminder/todo
+
+puedo	O
+ver	O
+qué	O
+recordatorio	B-reminder/noun
+tengo	O
+por	O
+favor	O
+
+recuérdame	O
+tomar	B-reminder/todo
+mi	I-reminder/todo
+medicamento	I-reminder/todo
+esta	B-datetime
+noche	I-datetime
+a	I-datetime
+las	I-datetime
+4	I-datetime
+pm	I-datetime
+
+mostrar	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+
+configurar	O
+el	O
+recordatorio	B-reminder/noun
+para	O
+cambiar	B-reminder/todo
+el	I-reminder/todo
+filtro	I-reminder/todo
+de	I-reminder/todo
+aire	I-reminder/todo
+una	B-datetime
+vez	I-datetime
+al	I-datetime
+mes	I-datetime
+
+establecer	O
+recordatorio	B-reminder/noun
+para	O
+ir	B-reminder/todo
+al	I-reminder/todo
+doctor	I-reminder/todo
+el	B-datetime
+jueves	I-datetime
+a	I-datetime
+las	I-datetime
+10	I-datetime
+am	I-datetime
+
+¿	O
+hay	O
+algún	O
+recordatorio	B-reminder/noun
+pendiente	O
+hoy	B-datetime
+que	O
+deba	O
+conocer	O
+?	O
+
+configurar	O
+recordatorio	B-reminder/noun
+para	B-datetime
+el	I-datetime
+miércoles	I-datetime
+para	O
+concertar	B-reminder/todo
+la	I-reminder/todo
+cita	I-reminder/todo
+con	I-reminder/todo
+el	I-reminder/todo
+doctor	I-reminder/todo
+
+establecer	O
+recordatorio	B-reminder/noun
+para	O
+ir	B-reminder/todo
+a	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+después	O
+del	O
+trabajo	O
+
+recuérdame	O
+un	B-datetime
+día	I-datetime
+antes	I-datetime
+del	O
+cumpleaños	B-reminder/todo
+de	I-reminder/todo
+mi	I-reminder/todo
+mamá	I-reminder/todo
+
+recuérdame	O
+comprar	B-reminder/todo
+mantequilla	I-reminder/todo
+en	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+
+cancelar	O
+el	O
+recordatorio	B-reminder/noun
+para	O
+la	O
+cita	B-reminder/todo
+con	I-reminder/todo
+el	I-reminder/todo
+doctor	I-reminder/todo
+
+recuérdame	O
+el	O
+correo	B-reminder/todo
+para	I-reminder/todo
+mi	I-reminder/todo
+abuela	I-reminder/todo
+
+eliminar	O
+mi	O
+recordatorio	B-reminder/noun
+para	O
+comprar	B-reminder/todo
+alimentos	I-reminder/todo
+
+recuérdame	O
+llamar	B-reminder/todo
+al	I-reminder/todo
+servicio	I-reminder/todo
+al	I-reminder/todo
+cliente	I-reminder/todo
+
+muéstrame	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+para	B-datetime
+el	I-datetime
+próximo	I-datetime
+martes	I-datetime
+
+configurar	O
+el	O
+recordatorio	B-reminder/noun
+para	O
+la	O
+cita	B-reminder/todo
+con	I-reminder/todo
+el	I-reminder/todo
+doctor	I-reminder/todo
+cal	I-reminder/todo
+mañana	B-datetime
+a	I-datetime
+las	I-datetime
+9	I-datetime
+am	I-datetime
+
+cancelar	O
+mi	O
+recordatorio	B-reminder/noun
+para	B-datetime
+el	I-datetime
+viernes	I-datetime
+a	I-datetime
+las	I-datetime
+6	I-datetime
+pm	I-datetime
+
+mostrar	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+para	B-datetime
+el	I-datetime
+martes	I-datetime
+
+recuérdame	O
+apagar	B-reminder/todo
+las	I-reminder/todo
+luces	I-reminder/todo
+
+recuérdame	O
+comprar	B-reminder/todo
+pan	I-reminder/todo
+a	B-datetime
+las	I-datetime
+5	I-datetime
+pm	I-datetime
+hoy	I-datetime
+
+recuérdame	O
+que	O
+pague	B-reminder/todo
+mi	I-reminder/todo
+parquímetro	I-reminder/todo
+en	B-datetime
+45	I-datetime
+minutos	I-datetime
+
+cancelar	O
+mi	O
+recordatorio	B-reminder/noun
+para	O
+los	O
+ejercicios	B-reminder/todo
+
+cancelar	O
+el	O
+recordatorio	B-reminder/noun
+para	O
+alimentar	B-reminder/todo
+al	I-reminder/todo
+gato	I-reminder/todo
+hoy	B-datetime
+
+recuérdame	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+ryan	I-reminder/todo
+en	I-reminder/todo
+camino	I-reminder/todo
+a	I-reminder/todo
+casa	I-reminder/todo
+
+recuérdame	O
+que	O
+prepare	B-reminder/todo
+la	I-reminder/todo
+mesa	I-reminder/todo
+a	B-datetime
+las	I-datetime
+6	I-datetime
+p.m	I-datetime
+.	I-datetime
+
+recuérdame	O
+establecer	B-reminder/todo
+una	I-reminder/todo
+alarma	I-reminder/todo
+esta	B-datetime
+noche	I-datetime
+.	O
+
+recuérdame	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+mi	I-reminder/todo
+mamá	I-reminder/todo
+
+recuérdame	O
+comprar	B-reminder/todo
+la	I-reminder/todo
+comida	I-reminder/todo
+del	I-reminder/todo
+gato	I-reminder/todo
+el	B-datetime
+sábado	I-datetime
+
+recuérdame	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+mi	I-reminder/todo
+mamá	I-reminder/todo
+mañana	B-datetime
+
+mostrar	O
+mis	O
+recordatorios	B-reminder/noun
+
+recuérdame	O
+comprar	B-reminder/todo
+tarjetas	I-reminder/todo
+
+cancelar	O
+mi	O
+recordatorio	B-reminder/noun
+para	O
+ir	B-reminder/todo
+a	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+
+¿	O
+me	O
+recuerdas	O
+dejar	B-reminder/todo
+una	I-reminder/todo
+planta	I-reminder/todo
+a	I-reminder/todo
+mis	I-reminder/todo
+madres	I-reminder/todo
+?	O
+
+recuérdame	O
+llamar	B-reminder/todo
+al	I-reminder/todo
+doctor	I-reminder/todo
+mañana	B-datetime
+
+recuérdame	O
+comprar	B-reminder/todo
+hielo	I-reminder/todo
+después	I-reminder/todo
+del	I-reminder/todo
+trabajo	I-reminder/todo
+
+recuérdame	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+z	I-reminder/todo
+en	B-datetime
+una	I-datetime
+hora	I-datetime
+
+mostrar	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+
+borrar	O
+el	O
+recordatorio	B-reminder/noun
+para	B-datetime
+mañana	I-datetime
+
+recuérdame	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+karen	I-reminder/todo
+esta	B-datetime
+noche	I-datetime
+
+recuérdame	O
+recoger	B-reminder/todo
+a	I-reminder/todo
+mi	I-reminder/todo
+hijo	I-reminder/todo
+
+recuérdame	O
+configurar	B-reminder/todo
+el	I-reminder/todo
+dvr	I-reminder/todo
+a	B-datetime
+las	I-datetime
+10	I-datetime
+pm	I-datetime
+
+cancelar	O
+mi	O
+recordatorio	B-reminder/noun
+para	O
+ir	B-reminder/todo
+a	I-reminder/todo
+por	I-reminder/todo
+queso	I-reminder/todo
+y	I-reminder/todo
+galletas	I-reminder/todo
+
+recuérdame	O
+recoger	B-reminder/todo
+a	I-reminder/todo
+los	I-reminder/todo
+niños	I-reminder/todo
+a	B-datetime
+las	I-datetime
+2	I-datetime
+
+mostrar	O
+los	O
+recordatorios	B-reminder/noun
+que	O
+tengo	O
+esta	B-datetime
+semana	I-datetime
+
+recuérdame	O
+ir	B-reminder/todo
+al	I-reminder/todo
+doctor	I-reminder/todo
+el	B-datetime
+miércoles	I-datetime
+
+recuérdame	O
+mi	O
+cita	B-reminder/todo
+con	I-reminder/todo
+el	I-reminder/todo
+doctor	I-reminder/todo
+el	B-datetime
+viernes	I-datetime
+
+cancelar	O
+mi	O
+último	B-reminder/reference
+recordatorio	B-reminder/noun
+.	O
+
+recuérdame	O
+ir	B-reminder/todo
+de	I-reminder/todo
+compras	I-reminder/todo
+por	B-datetime
+la	I-datetime
+mañana	I-datetime
+
+recuérdame	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+mis	I-reminder/todo
+papás	I-reminder/todo
+después	O
+
+recuérdame	O
+ir	B-reminder/todo
+a	I-reminder/todo
+la	I-reminder/todo
+conferencia	I-reminder/todo
+de	I-reminder/todo
+padres	I-reminder/todo
+y	I-reminder/todo
+maestros	I-reminder/todo
+por	B-datetime
+la	I-datetime
+mañana	I-datetime
+
+recuérdame	O
+la	B-reminder/todo
+reunión	I-reminder/todo
+a	B-datetime
+las	I-datetime
+7	I-datetime
+am	I-datetime
+mañana	I-datetime
+
+¿	O
+tengo	O
+recordatorios	B-reminder/noun
+para	B-datetime
+hoy	I-datetime
+?	O
+
+configurar	O
+recordatorio	B-reminder/noun
+para	O
+cortar	B-reminder/todo
+el	I-reminder/todo
+césped	I-reminder/todo
+por	B-datetime
+la	I-datetime
+mañana	I-datetime
+
+silenciar	O
+recordatorios	B-reminder/noun
+por	O
+las	B-datetime
+próximas	I-datetime
+24	I-datetime
+horas	I-datetime
+
+¿	O
+tengo	O
+algún	O
+recordatorio	B-reminder/noun
+para	O
+mi	O
+hoy	B-datetime
+?	O
+
+recuérdame	O
+darle	O
+un	O
+baño	B-reminder/todo
+a	I-reminder/todo
+los	I-reminder/todo
+perros	I-reminder/todo
+
+¿	O
+qué	O
+recordatorios	B-reminder/noun
+tengo	O
+programados	O
+?	O
+
+recuérdame	O
+comprar	B-reminder/todo
+leche	I-reminder/todo
+en	I-reminder/todo
+acme	I-reminder/todo
+hoy	B-datetime
+
+cancelar	O
+todos	O
+mis	B-reminder/reference
+recordatorios	B-reminder/noun
+
+configurar	O
+un	O
+recordatorio	B-reminder/noun
+en	B-datetime
+15	I-datetime
+minutos	I-datetime
+para	O
+comprobar	B-reminder/todo
+el	I-reminder/todo
+pastel	I-reminder/todo
+
+mostrar	O
+mis	O
+recordatorios	B-reminder/noun
+para	B-datetime
+esta	I-datetime
+semana	I-datetime
+
+muéstrame	O
+mi	O
+más	O
+reciente	O
+recordatorio	B-reminder/noun
+
+el	B-datetime
+sábado	I-datetime
+28	I-datetime
+recuérdame	O
+"	B-reminder/todo
+brewsters	I-reminder/todo
+"	I-reminder/todo
+
+cancelar	O
+mi	O
+recordatorio	B-reminder/noun
+para	O
+comprar	B-reminder/todo
+leche	I-reminder/todo
+en	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+
+recuérdame	O
+ir	B-reminder/todo
+a	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+mañana	B-datetime
+
+recuérdame	O
+llevar	B-reminder/todo
+el	I-reminder/todo
+perro	I-reminder/todo
+a	I-reminder/todo
+pasear	I-reminder/todo
+
+recuérdame	O
+ir	B-reminder/todo
+a	I-reminder/todo
+comprar	I-reminder/todo
+gasolina	I-reminder/todo
+por	B-datetime
+la	I-datetime
+mañana	I-datetime
+
+recuérdame	O
+hacer	B-reminder/todo
+una	I-reminder/todo
+cita	I-reminder/todo
+con	I-reminder/todo
+el	I-reminder/todo
+oculista	I-reminder/todo
+este	B-datetime
+año	I-datetime
+en	I-datetime
+noviembre	I-datetime
+
+muéstrame	O
+mis	O
+recordatorios	B-reminder/noun
+
+configurar	O
+recordatorio	B-reminder/noun
+para	B-datetime
+el	I-datetime
+28	I-datetime
+de	I-datetime
+agosto	I-datetime
+a	I-datetime
+las	I-datetime
+11	I-datetime
+am	I-datetime
+para	O
+el	O
+pediatra	B-reminder/todo
+
+recuérdame	O
+recoger	B-reminder/todo
+comida	I-reminder/todo
+para	I-reminder/todo
+tilly	I-reminder/todo
+
+recuérdame	O
+recoger	B-reminder/todo
+las	I-reminder/todo
+cajas	I-reminder/todo
+
+recuérdame	O
+comprar	B-reminder/todo
+donas	I-reminder/todo
+para	O
+los	O
+niños	O
+
+mostrar	O
+mi	B-reminder/reference
+recordatorio	B-reminder/noun
+
+recuérdame	O
+comprar	B-reminder/todo
+los	I-reminder/todo
+ingredientes	I-reminder/todo
+para	I-reminder/todo
+los	I-reminder/todo
+tacos	I-reminder/todo
+esta	B-datetime
+noche	I-datetime
+
+recuérdame	O
+que	O
+tengo	O
+una	O
+cita	B-reminder/todo
+el	B-datetime
+miércoles	I-datetime
+a	I-datetime
+las	I-datetime
+2pm	I-datetime
+
+recuérdame	O
+recoger	B-reminder/todo
+flores	I-reminder/todo
+esta	B-datetime
+noche	I-datetime
+a	I-datetime
+las	I-datetime
+7	I-datetime
+
+mostrar	O
+todos	O
+mis	O
+recordatorios	B-reminder/noun
+esta	B-datetime
+semana	I-datetime
+
+recuérdame	O
+el	B-datetime
+día	I-datetime
+antes	I-datetime
+de	O
+mi	O
+cita	B-reminder/todo
+con	I-reminder/todo
+el	I-reminder/todo
+dentista	I-reminder/todo
+
+necesito	O
+comprar	B-reminder/todo
+pan	I-reminder/todo
+en	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+,	O
+configurar	O
+recordatorio	B-reminder/noun
+para	B-datetime
+5	I-datetime
+horas	I-datetime
+desde	I-datetime
+ahora	I-datetime
+
+cancelar	O
+recordatorio	B-reminder/noun
+para	O
+ir	B-reminder/todo
+al	I-reminder/todo
+gimnasio	I-reminder/todo
+
+recuérdame	O
+recoger	B-reminder/todo
+alimentos	I-reminder/todo
+esta	B-datetime
+noche	I-datetime
+
+recuérdame	O
+recoger	B-reminder/todo
+a	I-reminder/todo
+mi	I-reminder/todo
+hija	I-reminder/todo
+hoy	B-datetime
+
+recuérdame	O
+comprar	B-reminder/todo
+comida	I-reminder/todo
+de	I-reminder/todo
+perro	I-reminder/todo
+
+configurar	O
+un	O
+recordatorio	B-reminder/noun
+para	B-datetime
+las	I-datetime
+10am	I-datetime
+
+establecer	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+mi	O
+alarma	B-reminder/todo
+de	O
+las	O
+5	B-datetime
+:	I-datetime
+00	I-datetime
+
+por	O
+favor	O
+muéstrame	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+esta	B-datetime
+tarde	I-datetime
+
+cancelar	O
+todos	O
+mis	O
+recordatorios	B-reminder/noun
+
+establecer	O
+una	O
+alarma	O
+y	O
+recordarme	O
+la	O
+reunión	B-reminder/todo
+con	I-reminder/todo
+jacob	I-reminder/todo
+2	B-datetime
+horas	I-datetime
+antes	I-datetime
+de	I-datetime
+las	I-datetime
+3	I-datetime
+pm	I-datetime
+
+configurar	O
+mensualmente	B-reminder/recurring_period
+recordatorio	B-reminder/noun
+para	O
+pagar	B-reminder/todo
+las	I-reminder/todo
+cuentas	I-reminder/todo
+
+configurar	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+comprar	B-reminder/todo
+pan	I-reminder/todo
+
+recuérdame	O
+recoger	B-reminder/todo
+la	I-reminder/todo
+cena	I-reminder/todo
+
+muéstrame	O
+mis	O
+recordatorios	B-reminder/noun
+
+recuérdame	O
+mi	B-reminder/todo
+cita	I-reminder/todo
+a	B-datetime
+las	I-datetime
+3	I-datetime
+pm	I-datetime
+
+recuérdame	O
+que	O
+mi	B-reminder/todo
+show	I-reminder/todo
+favorito	I-reminder/todo
+es	O
+esta	B-datetime
+noche	I-datetime
+
+recuérdame	O
+sacar	B-reminder/noun
+la	I-reminder/noun
+basura	I-reminder/noun
+mañana	B-datetime
+
+¿	O
+tengo	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+la	O
+tienda	B-reminder/noun
+?	O
+
+cancelar	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+de	B-datetime
+hoy	I-datetime
+
+recuérdame	O
+ir	B-reminder/todo
+a	I-reminder/todo
+la	I-reminder/todo
+oficina	I-reminder/todo
+de	I-reminder/todo
+correos	I-reminder/todo
+
+recuérdame	O
+apagar	B-reminder/todo
+el	I-reminder/todo
+horno	I-reminder/todo
+en	B-datetime
+30	I-datetime
+minutos	I-datetime
+
+¿	O
+cuál	O
+es	O
+la	O
+temperatura	B-weather/noun
+hoy	B-datetime
+?	O
+
+¿	O
+necesito	O
+un	O
+impermeable	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+va	O
+a	O
+llover	B-weather/attribute
+en	O
+mi	O
+viaje	O
+?	O
+
+¿	O
+necesito	O
+un	O
+paraguas	B-weather/attribute
+mañana	B-datetime
+?	O
+
+¿	O
+cuándo	O
+dejará	O
+de	O
+llover	B-weather/attribute
+?	O
+
+¿	O
+cuál	O
+es	O
+el	O
+tiempo	B-weather/noun
+esta	B-datetime
+semana	I-datetime
+para	O
+hawaii	B-location
+?	O
+
+¿	O
+debo	O
+traer	O
+un	O
+paraguas	B-weather/attribute
+esta	B-datetime
+tarde	I-datetime
+?	O
+
+¿	O
+va	O
+a	O
+nevar	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+nevará	B-weather/attribute
+en	O
+omaha	B-location
+el	B-datetime
+lunes	I-datetime
+?	O
+
+¿	O
+va	O
+a	O
+hacer	O
+frío	B-weather/attribute
+esta	B-datetime
+noche	I-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+la	O
+temperatura	B-weather/noun
+?	O
+
+¿	O
+habrá	O
+alguna	O
+tormenta	B-weather/attribute
+?	O
+
+¿	O
+cuándo	O
+será	O
+la	O
+próxima	O
+vez	O
+que	O
+nevará	B-weather/attribute
+?	O
+
+¿	O
+voy	O
+a	O
+necesitar	O
+una	O
+chaqueta	B-weather/attribute
+en	O
+canadá	B-location
+?	O
+
+¿	O
+cuál	O
+será	O
+la	O
+temperatura	B-weather/noun
+a	B-datetime
+las	I-datetime
+5	I-datetime
+pm	I-datetime
+?	O
+
+cuál	O
+es	O
+la	O
+temperatura	B-weather/noun
+ahora	B-datetime
+mismo	I-datetime
+
+¿	O
+va	O
+a	O
+llover	B-weather/attribute
+mañana	B-datetime
+?	O
+
+¿	O
+cuál	O
+será	O
+la	O
+temperatura	B-weather/noun
+en	O
+newport	B-location
+hoy	B-datetime
+?	O
+
+¿	O
+cuál	O
+será	O
+el	O
+tiempo	B-weather/noun
+en	O
+disneyland	B-location
+al	B-datetime
+mediodía	I-datetime
+de	I-datetime
+hoy	I-datetime
+?	O
+
+¿	O
+va	O
+a	O
+llover	B-weather/attribute
+?	O
+
+¿	O
+mi	B-location
+área	I-location
+es	O
+propensa	O
+a	O
+tornados	B-weather/attribute
+?	O
+
+¿	O
+cómo	O
+está	O
+el	O
+tiempo	B-weather/noun
+esta	B-datetime
+semana	I-datetime
+?	O
+
+¿	O
+está	O
+lloviendo	B-weather/attribute
+en	B-datetime
+este	I-datetime
+momento	I-datetime
+?	O
+
+por	O
+favor	O
+,	O
+dime	O
+el	O
+tiempo	B-weather/noun
+para	O
+el	B-location
+sur	I-location
+de	I-location
+florida	I-location
+hoy	B-datetime
+
+¿	O
+cuál	O
+es	O
+la	O
+temperatura	B-weather/noun
+actual	B-datetime
+en	O
+merritt	B-location
+island	I-location
+?	O
+
+por	O
+favor	O
+,	O
+cuénteme	O
+sobre	O
+el	O
+pronóstico	B-weather/noun
+para	B-datetime
+la	I-datetime
+próxima	I-datetime
+semana	I-datetime
+.	O
+
+¿	O
+cuándo	O
+se	O
+detendrá	O
+la	O
+tormenta	B-weather/attribute
+?	O
+
+¿	O
+debo	O
+traer	O
+un	O
+paraguas	B-weather/attribute
+?	O
+
+dime	O
+el	O
+tiempo	B-weather/noun
+
+¿	O
+cuánto	O
+ha	O
+llovido	B-weather/attribute
+en	O
+inglaterra	B-location
+la	B-datetime
+semana	I-datetime
+pasada	I-datetime
+?	O
+
+¿	O
+debo	O
+traer	O
+una	O
+sudadera	B-weather/attribute
+?	O
+
+cómo	O
+será	O
+el	O
+tiempo	B-weather/noun
+esta	B-datetime
+semana	I-datetime
+
+¿	O
+lloverá	B-weather/attribute
+en	O
+ashland	B-location
+mañana	B-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+la	O
+temperatura	B-weather/noun
+más	O
+baja	B-weather/attribute
+para	B-datetime
+el	I-datetime
+sábado	I-datetime
+?	O
+
+¿	O
+hay	O
+alguna	O
+advertencia	B-weather/noun
+actual	O
+de	O
+tormenta	B-weather/attribute
+en	B-location
+la	I-location
+zona	I-location
+?	O
+
+tiempo	B-weather/noun
+en	O
+orange	B-location
+county	I-location
+
+¿	O
+va	O
+a	O
+llover	B-weather/attribute
+mañana	B-datetime
+?	O
+
+¿	O
+necesito	O
+traer	O
+mi	O
+paraguas	B-weather/attribute
+conmigo	O
+mañana	B-datetime
+?	O
+
+el	O
+tiempo	B-weather/noun
+de	B-datetime
+mañana	I-datetime
+,	O
+por	O
+favor	O
+.	O
+
+¿	O
+cómo	O
+está	O
+el	O
+tiempo	B-weather/noun
+hoy	B-datetime
+?	O
+
+¿	O
+el	O
+tiempo	B-weather/noun
+en	O
+los	B-location
+angeles	I-location
+hoy	B-datetime
+?	O
+
+¿	O
+debo	O
+llevar	O
+mi	O
+protector	B-weather/attribute
+solar	I-weather/attribute
+?	O
+
+¿	O
+hay	O
+nieve	B-weather/attribute
+el	B-datetime
+próximo	I-datetime
+fin	I-datetime
+de	I-datetime
+semana	I-datetime
+?	O
+
+¿	O
+tendré	O
+que	O
+ponerme	O
+mi	O
+abrigo	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+lloverá	B-weather/attribute
+mañana	B-datetime
+en	O
+austin	B-location
+?	O
+
+¿	O
+se	O
+supone	O
+que	O
+está	O
+nublado	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+sol	B-weather/attribute
+o	O
+lluvia	B-weather/attribute
+mañana	B-datetime
+?	O
+
+¿	O
+debería	O
+traer	O
+mi	O
+chaqueta	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+necesito	O
+traer	O
+un	O
+suéter	B-weather/attribute
+mañana	B-datetime
+?	O
+
+dime	O
+si	O
+está	O
+nevando	B-weather/attribute
+en	O
+alaska	B-location
+ahora	B-datetime
+.	O
+
+¿	O
+cuándo	O
+debería	O
+comenzar	O
+la	O
+nieve	B-weather/attribute
+?	O
+
+¿	O
+cómo	O
+es	O
+la	O
+humedad	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+cuál	O
+va	O
+a	O
+ser	O
+la	O
+temperatura	B-weather/noun
+mañana	B-datetime
+en	O
+nápoles	B-location
+?	O
+
+hoy	B-datetime
+estará	O
+soleado	B-weather/attribute
+
+¿	O
+cuál	O
+es	O
+el	O
+índice	B-weather/attribute
+de	I-weather/attribute
+calor	I-weather/attribute
+mañana	B-datetime
+?	O
+
+¿	O
+cuánta	O
+nieve	B-weather/attribute
+en	O
+massachusetts	B-location
+?	O
+
+¿	O
+cuál	O
+es	O
+el	O
+pronóstico	B-weather/noun
+detallado	B-datetime
+para	O
+key	B-location
+west	I-location
+?	O
+
+va	O
+a	O
+nevar	B-weather/attribute
+el	B-datetime
+miércoles	I-datetime
+
+¿	O
+cuál	O
+es	O
+la	O
+parte	O
+más	B-weather/attribute
+fría	I-weather/attribute
+del	B-datetime
+día	I-datetime
+de	I-datetime
+hoy	I-datetime
+?	O
+
+¿	O
+cómo	O
+está	O
+el	O
+tiempo	B-weather/noun
+hoy	B-datetime
+?	O
+
+¿	O
+está	O
+nevando	B-weather/attribute
+en	O
+cleveland	B-location
+?	O
+
+¿	O
+cuándo	O
+terminará	O
+la	O
+inundación	B-weather/attribute
+?	O
+
+¿	O
+estará	O
+soleado	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+hará	O
+calor	B-weather/attribute
+en	O
+cleveland	B-location
+hoy	B-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+la	O
+temperatura	B-weather/noun
+afuera	B-location
+?	O
+
+nevará	B-weather/attribute
+este	B-datetime
+fin	I-datetime
+de	I-datetime
+semana	I-datetime
+
+¿	O
+lloverá	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+cómo	O
+está	O
+el	O
+tiempo	B-weather/noun
+hoy	B-datetime
+en	O
+nueva	B-location
+york	I-location
+?	O
+
+dame	O
+una	O
+previsión	B-weather/noun
+metereológica	I-weather/noun
+para	B-datetime
+7	I-datetime
+días	I-datetime
+.	O
+
+¿	O
+va	O
+a	O
+llover	B-weather/attribute
+la	B-datetime
+próxima	I-datetime
+semana	I-datetime
+?	O
+
+¿	O
+cuándo	O
+debería	O
+desempacar	O
+mi	O
+ropa	B-weather/attribute
+de	I-weather/attribute
+invierno	I-weather/attribute
+?	O
+
+va	O
+a	O
+llover	B-weather/attribute
+en	O
+dallas	B-location
+esta	B-datetime
+semana	I-datetime
+
+¿	O
+cuál	O
+es	O
+el	O
+tiempo	B-weather/noun
+para	B-datetime
+la	I-datetime
+próxima	I-datetime
+semana	I-datetime
+?	O
+
+¿	O
+va	O
+a	O
+llover	B-weather/attribute
+todo	O
+el	B-datetime
+día	I-datetime
+de	I-datetime
+hoy	I-datetime
+?	O
+
+debería	O
+usar	O
+un	O
+impermeable	B-weather/attribute
+hoy	B-datetime
+
+¿	O
+cuál	O
+es	O
+el	O
+índice	B-weather/attribute
+de	I-weather/attribute
+rayos	I-weather/attribute
+uv	I-weather/attribute
+en	O
+miami	B-location
+beach	I-location
+hoy	B-datetime
+?	O
+
+¿	O
+cuánto	O
+protector	B-weather/attribute
+solar	I-weather/attribute
+debería	O
+usar	O
+hoy	B-datetime
+?	O
+
+¿	O
+hay	O
+una	O
+alerta	B-weather/noun
+de	O
+inundación	B-weather/attribute
+para	O
+orlando	B-location
+?	O
+
+¿	O
+cuál	O
+es	O
+el	O
+pronóstico	B-weather/noun
+para	B-datetime
+hoy	I-datetime
+?	O
+
+¿	O
+debería	O
+empacar	O
+una	O
+chaqueta	B-weather/attribute
+para	O
+mi	O
+viaje	O
+mañana	B-datetime
+?	O
+
+¿	O
+hoy	B-datetime
+hace	O
+sol	B-weather/attribute
+en	O
+alaska	B-location
+?	O
+
+¿	O
+está	O
+soleado	B-weather/attribute
+en	O
+tampa	B-location
+en	B-datetime
+este	I-datetime
+momento	I-datetime
+?	O
+
+previsión	B-weather/noun
+de	I-weather/noun
+temperatura	I-weather/noun
+para	B-datetime
+hoy	I-datetime
+
+¿	O
+lloverá	B-weather/attribute
+toda	O
+esta	B-datetime
+semana	I-datetime
+?	O
+
+¿	O
+estará	O
+nublado	B-weather/attribute
+mañana	B-datetime
+?	O
+
+cuál	O
+es	O
+el	O
+tiempo	B-weather/noun
+hoy	B-datetime
+en	O
+nueva	B-location
+york	I-location
+
+¿	O
+debería	O
+usar	O
+un	O
+sombrero	B-weather/attribute
+para	O
+el	B-location
+zoológico	I-location
+hoy	B-datetime
+?	O
+
+necesito	O
+un	O
+paraguas	B-weather/attribute
+
+¿	O
+necesito	O
+llevar	O
+una	O
+chaqueta	B-weather/attribute
+mañana	B-datetime
+?	O
+
+¿	O
+lloverá	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+alguna	O
+posibilidad	O
+de	O
+tornados	B-weather/attribute
+mañana	B-datetime
+?	O
+
+necesitaré	O
+una	O
+camisa	B-weather/attribute
+mañana	B-datetime
+
+dime	O
+el	O
+pronóstico	B-weather/noun
+para	B-datetime
+10	I-datetime
+días	I-datetime
+
+¿	O
+cómo	O
+es	O
+la	O
+temperatura	B-weather/noun
+para	B-datetime
+mañana	I-datetime
+?	O
+
+¿	O
+cómo	O
+se	O
+ve	O
+el	O
+tiempo	B-weather/noun
+para	B-datetime
+este	I-datetime
+fin	I-datetime
+de	I-datetime
+semana	I-datetime
+?	O
+
+¿	O
+debo	O
+usar	O
+un	O
+suéter	B-weather/attribute
+?	O
+
+¿	O
+va	O
+a	O
+estar	O
+nublado	B-weather/attribute
+?	O
+
+debería	O
+de	O
+traer	O
+una	O
+chamarra	B-weather/attribute
+hoy	B-datetime
+
+¿	O
+debo	O
+traer	O
+una	O
+chaqueta	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+puedo	O
+ir	O
+en	O
+bicicleta	O
+al	O
+trabajo	O
+mañana	B-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+la	O
+velocidad	O
+del	O
+viento	B-weather/attribute
+para	B-datetime
+hoy	I-datetime
+?	O
+
+¿	O
+estará	O
+ventoso	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+cuál	O
+fue	O
+la	O
+temperatura	B-weather/noun
+más	O
+alta	B-weather/attribute
+de	B-datetime
+hoy	I-datetime
+?	O
+
+cuál	O
+es	O
+la	O
+temperatura	B-weather/noun
+para	B-datetime
+hoy	I-datetime
+
+¿	O
+nevará	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+qué	O
+tan	O
+cálido	B-weather/attribute
+es	O
+londres	B-location
+en	B-datetime
+julio	I-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+el	O
+tiempo	B-weather/noun
+en	O
+la	B-location
+la	B-datetime
+próxima	I-datetime
+semana	I-datetime
+?	O
+
+cuánto	O
+frío	B-weather/attribute
+hace	O
+hoy	B-datetime
+
+¿	O
+será	O
+realmente	O
+frío	B-weather/attribute
+este	B-datetime
+otoño	I-datetime
+?	O
+
+¿	O
+necesito	O
+una	O
+chaqueta	B-weather/attribute
+?	O
+
+¿	O
+hay	O
+lluvia	B-weather/attribute
+en	O
+el	O
+pronóstico	B-weather/noun
+para	B-datetime
+esta	I-datetime
+semana	I-datetime
+?	O
+
+¿	O
+cómo	O
+es	O
+el	O
+tiempo	B-weather/noun
+en	O
+cabo	B-location
+?	O
+
+dime	O
+el	O
+tiempo	B-weather/noun
+
+¿	O
+a	O
+qué	O
+hora	O
+comenzará	O
+la	O
+lluvia	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+la	O
+temperatura	B-weather/noun
+que	O
+hará	O
+hoy	B-datetime
+?	O
+
+¿	O
+hey	O
+bot	O
+,	O
+lloverá	B-weather/attribute
+hoy	B-datetime
+o	O
+no	O
+?	O
+
+¿	O
+cuál	O
+es	O
+la	O
+temperatura	B-weather/noun
+?	O
+
+¿	O
+hará	O
+calor	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+cuánta	O
+lluvia	B-weather/attribute
+tenemos	O
+esta	B-datetime
+semana	I-datetime
+?	O
+
+¿	O
+va	O
+a	O
+llover	B-weather/attribute
+mañana	B-datetime
+?	O
+
+¿	O
+alguna	O
+posibilidad	O
+de	O
+nieve	B-weather/attribute
+?	O
+
+¿	O
+lloverá	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+cómo	O
+va	O
+a	O
+estar	O
+la	O
+temperatura	B-weather/noun
+la	B-datetime
+próxima	I-datetime
+semana	I-datetime
+?	O
+
+es	O
+tiempo	B-weather/noun
+de	O
+suéter	B-weather/attribute
+
+¿	O
+hay	O
+alguna	O
+posibilidad	O
+de	O
+que	O
+tengamos	O
+nieve	B-weather/attribute
+esta	B-datetime
+noche	I-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+la	O
+humedad	B-weather/attribute
+?	O
+
+¿	O
+cuál	O
+será	O
+el	O
+tiempo	B-weather/noun
+en	O
+el	O
+big	B-location
+sur	I-location
+este	B-datetime
+fin	I-datetime
+de	I-datetime
+semana	I-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+el	O
+pronóstico	B-weather/noun
+para	B-datetime
+el	I-datetime
+próximo	I-datetime
+mes	I-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+la	O
+temperatura	B-weather/noun
+máxima	B-weather/attribute
+esperada	O
+hoy	B-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+la	O
+perspectiva	B-weather/noun
+para	O
+10	B-datetime
+días	I-datetime
+?	O
+
+¿	O
+cómo	O
+será	O
+el	O
+tiempo	B-weather/noun
+la	B-datetime
+próxima	I-datetime
+semana	I-datetime
+?	O
+
+tiempos	B-weather/attribute
+de	I-weather/attribute
+mareas	I-weather/attribute
+mañana	I-datetime
+
+¿	O
+está	O
+soleado	B-weather/attribute
+?	O
+
+¿	O
+debo	O
+traer	O
+una	O
+capa	B-weather/attribute
+de	I-weather/attribute
+lluvia	I-weather/attribute
+?	O
+
+¿	O
+cuál	O
+es	O
+la	O
+temperatura	B-weather/noun
+de	B-datetime
+la	I-datetime
+noche	I-datetime
+?	O
+
+¿	O
+cuáles	O
+son	O
+las	O
+temperaturas	B-weather/noun
+para	B-datetime
+la	I-datetime
+semana	I-datetime
+?	O
+
+¿	O
+va	O
+a	O
+haber	O
+monzón	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+debo	O
+traer	O
+un	O
+impermeable	B-weather/attribute
+?	O
+
+¿	O
+necesito	O
+un	O
+paraguas	B-weather/attribute
+mañana	B-datetime
+?	O
+
+¿	O
+a	O
+qué	O
+hora	O
+es	O
+el	O
+ocaso	O
+de	B-datetime
+hoy	I-datetime
+?	O
+
+¿	O
+lloverá	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+lloverá	B-weather/attribute
+la	B-datetime
+semana	I-datetime
+próxima	I-datetime
+?	O
+
+debería	O
+usar	O
+protector	B-weather/attribute
+solar	I-weather/attribute
+
+¿	O
+cuánta	O
+lluvia	B-weather/attribute
+vendrá	O
+la	B-datetime
+próxima	I-datetime
+semana	I-datetime
+?	O
+
+necesito	O
+saber	O
+cuál	O
+es	O
+el	O
+tiempo	B-weather/noun
+
+¿	O
+necesito	O
+una	O
+chaqueta	B-weather/attribute
+?	O
+
+¿	O
+cuánta	O
+lluvia	B-weather/attribute
+obtendremos	O
+hoy	B-datetime
+?	O
+
+¿	O
+cómo	O
+será	O
+el	O
+tiempo	B-weather/noun
+en	O
+pensilvania	B-location
+la	B-datetime
+próxima	I-datetime
+semana	I-datetime
+?	O
+
+¿	O
+cuánta	O
+nieve	B-weather/attribute
+se	O
+espera	O
+?	O
+
+¿	O
+nevará	B-weather/attribute
+hoy	B-datetime
+?	O
+
+va	O
+a	O
+ser	O
+ventoso	B-weather/attribute
+
+¿	O
+debo	O
+traer	O
+un	O
+paraguas	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+lloverá	B-weather/attribute
+hoy	B-datetime
+por	I-datetime
+la	I-datetime
+tarde	I-datetime
+?	O
+
+¿	O
+va	O
+a	O
+llover	B-weather/attribute
+mañana	B-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+la	O
+máxima	B-weather/attribute
+temperatura	B-weather/noun
+de	B-datetime
+esta	I-datetime
+semana	I-datetime
+?	O
+
+¿	O
+está	O
+lloviendo	B-weather/attribute
+en	O
+cleveland	B-location
+?	O
+
+¿	O
+cuál	O
+será	O
+la	O
+temperatura	B-weather/noun
+de	B-datetime
+hoy	I-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+el	O
+pronóstico	B-weather/noun
+para	B-weather/attribute
+la	I-weather/attribute
+próxima	I-weather/attribute
+semana	I-weather/attribute
+?	O
+
+¿	O
+necesito	O
+mi	O
+paraguas	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+hará	O
+frío	B-weather/attribute
+esta	B-datetime
+noche	I-datetime
+a	I-datetime
+las	I-datetime
+5	I-datetime
+pm	I-datetime
+?	O
+
+¿	O
+cómo	O
+será	O
+el	O
+tiempo	B-weather/noun
+mañana	B-datetime
+?	O
+
+¿	O
+está	O
+lloviendo	B-weather/attribute
+en	O
+miami	B-location
+?	O
+
+¿	O
+dónde	O
+está	O
+nevando	B-weather/attribute
+?	O
+
+¿	O
+cuál	O
+es	O
+la	O
+temperatura	B-weather/noun
+más	O
+baja	B-weather/attribute
+esta	B-datetime
+noche	I-datetime
+?	O
+
+¿	O
+necesito	O
+una	O
+chaqueta	B-weather/attribute
+esta	B-datetime
+mañana	I-datetime
+?	O
+
+¿	O
+cuántos	O
+centímetros	B-weather/attribute
+de	I-weather/attribute
+nieve	I-weather/attribute
+se	O
+esperan	O
+hoy	B-datetime
+?	O
+
+temperatura	B-weather/noun
+por	O
+favor	O
+
+¿	O
+qué	O
+probabilidades	O
+de	O
+tormenta	B-weather/attribute
+eléctrica	I-weather/attribute
+en	O
+loisville	B-location
+,	I-location
+kentuky	I-location
+hoy	B-datetime
+?	O
+
+se	O
+supone	O
+que	O
+va	O
+a	O
+nevar	B-weather/attribute
+mañana	B-datetime
+
+¿	O
+se	O
+supone	O
+que	O
+estará	O
+soleado	B-weather/attribute
+esta	B-datetime
+tarde	I-datetime
+?	O
+
+parece	O
+que	O
+va	O
+a	O
+llover	B-weather/attribute
+mañana	B-datetime
+
+¿	O
+cómo	O
+va	O
+a	O
+ser	O
+la	O
+humedad	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+el	O
+pronóstico	B-weather/noun
+del	I-weather/noun
+tiempo	I-weather/noun
+para	B-datetime
+el	I-datetime
+fin	I-datetime
+de	I-datetime
+semana	I-datetime
+en	O
+california	B-location
+?	O
+
+¿	O
+estoy	O
+caminando	O
+al	O
+trabajo	B-location
+hoy	B-datetime
+.	O
+debo	O
+usar	O
+botas	B-weather/attribute
+de	I-weather/attribute
+lluvia	I-weather/attribute
+?	O
+
+¿	O
+cuál	O
+es	O
+la	O
+temperatura	B-weather/noun
+en	O
+japón	B-location
+?	O
+
+¿	O
+habrá	O
+lluvia	B-weather/attribute
+mañana	B-datetime
+?	O
+
+cuál	O
+es	O
+el	O
+pronóstico	B-weather/noun
+para	I-weather/noun
+el	I-weather/noun
+cliam	I-weather/noun
+para	B-datetime
+la	I-datetime
+semana	I-datetime
+que	I-datetime
+viene	I-datetime
+
+¿	O
+está	O
+lloviendo	B-weather/attribute
+en	O
+asheville	B-location
+?	O
+
+¿	O
+lloverá	B-weather/attribute
+en	B-datetime
+2	I-datetime
+semanas	I-datetime
+?	O
+
+¿	O
+qué	O
+tan	O
+fuerte	B-weather/attribute
+será	O
+la	O
+lluvia	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+necesito	O
+un	O
+sombrero	B-weather/attribute
+?	O
+
+¿	O
+cuándo	O
+va	O
+a	O
+parar	O
+esta	O
+lluvia	B-weather/attribute
+?	O
+
+¿	O
+cuánto	O
+va	O
+a	O
+llover	B-weather/attribute
+esta	B-datetime
+semana	I-datetime
+?	O
+
+¿	O
+cuánta	O
+lluvia	B-weather/attribute
+caerá	O
+mañana	B-datetime
+?	O
+
+¿	O
+necesito	O
+un	O
+sombrero	B-weather/attribute
+esta	B-datetime
+noche	I-datetime
+?	O
+
+¿	O
+hay	O
+algún	O
+tiempo	B-weather/noun
+severo	B-weather/attribute
+en	O
+el	O
+pronóstico	B-weather/noun
+?	O
+
+cuál	O
+es	O
+la	O
+máxima	B-weather/attribute
+para	B-datetime
+hoy	I-datetime
+
+¿	O
+qué	O
+tiempo	B-weather/noun
+hace	O
+en	O
+san	B-location
+bernardino	I-location
+?	O
+
+tiempo	B-weather/noun
+en	O
+la	B-location
+jolla	I-location
+
+cómo	O
+es	O
+el	O
+tiempo	B-weather/noun
+de	B-datetime
+hoy	I-datetime
+
+¿	O
+a	O
+qué	O
+hora	O
+la	O
+temperatura	B-weather/noun
+comienza	O
+a	O
+bajar	O
+?	O
+
+¿	O
+hoy	B-datetime
+va	O
+hacer	O
+calor	B-weather/attribute
+?	O
+
+¿	O
+saldrá	O
+el	O
+sol	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+lloverá	B-weather/attribute
+el	B-datetime
+lunes	I-datetime
+?	O
+
+¿	O
+cuánto	O
+calor	B-weather/attribute
+hace	O
+hoy	B-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+la	O
+temperatura	B-weather/noun
+en	O
+spokane	B-location
+?	O
+
+¿	O
+debo	O
+traer	O
+un	O
+traje	B-weather/attribute
+de	I-weather/attribute
+baño	I-weather/attribute
+?	O
+
+¿	O
+lloverá	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+cómo	O
+es	O
+el	O
+tiempo	B-weather/noun
+en	O
+florida	B-location
+este	B-datetime
+fin	I-datetime
+de	I-datetime
+semana	I-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+el	O
+índice	B-weather/attribute
+de	I-weather/attribute
+rayos	I-weather/attribute
+uv	I-weather/attribute
+para	B-datetime
+hoy	I-datetime
+a	I-datetime
+las	I-datetime
+10	I-datetime
+am	I-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+el	O
+pronóstico	B-weather/noun
+para	B-datetime
+diez	I-datetime
+días	I-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+el	O
+tiempo	B-weather/noun
+?	O
+
+por	O
+favor	O
+,	O
+dime	O
+si	O
+se	O
+supone	O
+que	O
+va	O
+a	O
+llover	B-weather/attribute
+hoy	B-datetime
+
+¿	O
+cuál	O
+es	O
+la	O
+temperatura	B-weather/noun
+más	B-weather/attribute
+baja	I-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+la	O
+máxima	B-weather/attribute
+temperatura	B-weather/noun
+para	B-datetime
+mañana	I-datetime
+?	O
+
+¿	O
+cuán	O
+ventoso	B-weather/attribute
+será	O
+mañana	B-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+el	O
+tiempo	B-weather/noun
+?	O
+
+¿	O
+cuál	O
+es	O
+la	O
+temperatura	B-weather/noun
+más	B-weather/attribute
+baja	I-weather/attribute
+de	O
+esta	B-datetime
+noche	I-datetime
+?	I-datetime
+
+tiempo	B-weather/noun
+para	B-datetime
+hoy	I-datetime
+
+¿	O
+necesitaré	O
+una	O
+chaqueta	B-weather/attribute
+por	B-datetime
+la	I-datetime
+mañana	I-datetime
+?	O
+
+¿	O
+qué	O
+tan	O
+caliente	B-weather/attribute
+se	O
+supone	O
+estará	O
+la	B-datetime
+semana	I-datetime
+que	I-datetime
+viene	I-datetime
+en	O
+brinkley	B-location
+?	O
+
+hay	O
+alguna	O
+posibilidad	O
+de	O
+lluvia	B-weather/attribute
+mañana	B-datetime
+
+¿	O
+cuál	O
+es	O
+el	O
+pronóstico	B-weather/noun
+para	B-datetime
+el	I-datetime
+resto	I-datetime
+del	I-datetime
+mes	I-datetime
+?	O
+
+¿	O
+debo	O
+esperar	O
+lluvia	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+lloverá	B-weather/attribute
+hoy	B-datetime
+?	O
+
+hay	O
+alguna	O
+ola	B-weather/attribute
+de	I-weather/attribute
+calor	I-weather/attribute
+en	O
+los	B-location
+ángeles	I-location
+
+¿	O
+cuál	O
+es	O
+la	O
+máxima	B-weather/attribute
+temperatura	B-weather/noun
+para	O
+hoy	B-datetime
+?	O
+
+¿	O
+lloverá	B-weather/attribute
+toda	B-datetime
+esta	I-datetime
+semana	I-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+el	O
+tiempo	B-weather/noun
+en	O
+fredonia	B-location
+mañana	B-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+el	O
+pronóstico	B-weather/noun
+para	B-datetime
+esta	I-datetime
+semana	I-datetime
+?	O
+
+tiempo	B-weather/noun
+en	O
+morehead	B-location
+city	I-location
+,	I-location
+carolina	I-location
+del	I-location
+norte	I-location
+
+¿	O
+lloverá	B-weather/attribute
+el	B-datetime
+lunes	I-datetime
+?	O
+
+¿	O
+necesito	O
+botas	B-weather/attribute
+de	I-weather/attribute
+lluvia	I-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+nevará	B-weather/attribute
+esta	B-datetime
+semana	I-datetime
+?	O
+
+¿	O
+qué	O
+tan	O
+probable	O
+es	O
+que	O
+llueva	B-weather/attribute
+esta	B-datetime
+tarde	I-datetime
+?	O
+
+¿	O
+lloverá	B-weather/attribute
+esta	B-datetime
+mañana	I-datetime
+?	O
+
+¿	O
+cómo	O
+está	O
+el	O
+tiempo	B-weather/noun
+en	O
+edison	B-location
+a	B-datetime
+las	I-datetime
+4	I-datetime
+am	I-datetime
+?	O
+
+¿	O
+necesito	O
+traer	O
+botas	B-weather/attribute
+a	O
+lo	O
+largo	O
+de	B-datetime
+hoy	I-datetime
+?	O
+
+¿	O
+cómo	O
+está	O
+el	O
+tiempo	B-weather/noun
+hoy	B-datetime
+?	O
+
+¿	O
+debo	O
+traer	O
+una	O
+chaqueta	B-weather/attribute
+?	O
+
+necesito	O
+un	O
+paraguas	B-weather/attribute
+
+¿	O
+habrá	O
+mucha	O
+niebla	B-weather/attribute
+por	B-datetime
+la	I-datetime
+mañana	I-datetime
+durante	I-datetime
+los	I-datetime
+próximos	I-datetime
+siete	I-datetime
+días	I-datetime
+?	O
+
+probabilidad	O
+de	O
+lluvia	B-weather/attribute
+
+¿	O
+cuál	O
+es	O
+el	O
+pronóstico	B-weather/noun
+del	I-weather/noun
+tiempo	I-weather/noun
+para	B-datetime
+la	I-datetime
+próxima	I-datetime
+semana	I-datetime
+?	O
+
+cuál	O
+es	O
+la	B-weather/attribute
+máxima	I-weather/attribute
+para	B-datetime
+hoy	I-datetime
+
+necesito	O
+un	O
+informe	B-weather/noun
+meteorológico	I-weather/noun
+para	B-datetime
+el	I-datetime
+viernes	I-datetime
+.	O
+
+habrá	O
+granizo	B-weather/attribute
+
+¿	O
+lloverá	B-weather/attribute
+mañana	B-datetime
+en	O
+las	B-location
+vegas	I-location
+?	O
+
+¿	O
+cuándo	O
+comienza	O
+la	O
+lluvia	B-weather/attribute
+?	O
+
+¿	O
+necesito	O
+una	O
+chaqueta	B-weather/attribute
+en	O
+la	O
+zona	O
+del	O
+norte	B-location
+de	I-location
+montana	I-location
+en	I-location
+canadá	I-location
+?	O
+
+¿	O
+cuál	O
+es	O
+el	O
+porcentaje	O
+de	O
+humedad	B-weather/attribute
+?	O
+
+¿	O
+cuál	O
+es	O
+la	O
+temperatura	B-weather/noun
+en	O
+hawai	B-location
+hoy	B-datetime
+?	O
+
+¿	O
+cuán	O
+caliente	B-weather/attribute
+estará	O
+la	O
+temperatura	B-weather/noun
+hoy	B-datetime
+?	O
+
+¿	O
+habrá	O
+tormenta	B-weather/attribute
+esta	B-datetime
+noche	I-datetime
+?	O
+
+¿	O
+cómo	O
+será	O
+el	O
+tiempo	B-weather/noun
+el	B-datetime
+sábado	I-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+el	O
+día	O
+más	O
+cálido	B-weather/attribute
+de	B-datetime
+esta	I-datetime
+semana	I-datetime
+?	O
+
+tiempo	B-weather/noun
+actual	B-datetime
+en	O
+los	B-location
+angeles	I-location
+
+¿	O
+lloverá	B-weather/attribute
+mañana	B-datetime
+?	O
+
+¿	O
+necesitaré	O
+una	O
+chaqueta	B-weather/attribute
+en	O
+chicago	B-location
+esta	B-datetime
+semana	I-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+el	O
+tiempo	B-weather/noun
+el	B-datetime
+viernes	I-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+el	O
+tiempo	B-weather/noun
+en	O
+denver	B-location
+el	B-datetime
+próximo	I-datetime
+fin	I-datetime
+de	I-datetime
+semana	I-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+la	O
+temperatura	B-weather/noun
+actual	B-datetime
+?	O
+
+¿	O
+cuál	O
+será	O
+el	O
+día	O
+más	O
+caluroso	B-weather/attribute
+esta	B-datetime
+semana	I-datetime
+?	O
+
+¿	O
+está	O
+nevando	B-weather/attribute
+en	O
+inglaterra	B-location
+?	O
+
+¿	O
+necesito	O
+usar	O
+una	O
+chaqueta	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+habrá	O
+viento	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+cómo	O
+son	O
+las	O
+temperaturas	B-weather/noun
+en	B-location
+myrtle	I-location
+beach	I-location
+a	B-datetime
+las	I-datetime
+11	I-datetime
+am	I-datetime
+de	I-datetime
+hoy	I-datetime
+?	O
+
+¿	O
+está	O
+soleado	B-weather/attribute
+en	O
+miami	B-location
+hoy	B-datetime
+?	O
+
+¿	O
+necesito	O
+un	O
+paraguas	B-weather/attribute
+?	O
+
+¿	O
+cuál	O
+es	O
+el	O
+tiempo	B-weather/noun
+en	O
+dc	B-location
+el	B-datetime
+próximo	I-datetime
+fin	I-datetime
+de	I-datetime
+semana	I-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+el	O
+pronóstico	B-weather/noun
+detallado	B-datetime
+para	O
+miami	B-location
+,	I-location
+florida	I-location
+?	O
+
+¿	O
+los	O
+puntos	B-weather/attribute
+de	I-weather/attribute
+rocío	I-weather/attribute
+van	O
+a	O
+ser	O
+altos	B-weather/attribute
+?	O
+
+¿	O
+cuál	O
+es	O
+la	O
+temperatura	B-weather/noun
+máxima	B-weather/attribute
+de	B-datetime
+mañana	I-datetime
+?	O
+
+¿	O
+lloverá	B-weather/attribute
+en	O
+orlando	B-location
+mañana	B-datetime
+?	O
+
+quita	O
+las	O
+alarmas	O
+de	B-datetime
+mañana	I-datetime
+
+pon	O
+un	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+
+por	O
+favor	O
+cancele	O
+la	O
+alarma	O
+de	B-datetime
+las	I-datetime
+4pm	I-datetime
+
+pon	O
+la	O
+alarma	O
+para	B-datetime
+las	I-datetime
+4pm	I-datetime
+hoy	I-datetime
+.	I-datetime
+
+levantame	O
+en	B-datetime
+una	I-datetime
+hora	I-datetime
+
+reiniciar	O
+todas	O
+las	O
+alarmas	O
+anteriores	O
+
+cancela	O
+mis	O
+alarmas	O
+el	B-datetime
+sábado	I-datetime
+
+necesito	O
+una	O
+alarma	O
+cada	O
+45	B-datetime
+minutos	I-datetime
+desde	I-datetime
+ahora	I-datetime
+hasta	I-datetime
+las	I-datetime
+5pm	I-datetime
+.	I-datetime
+
+usted	O
+puede	O
+por	O
+favor	O
+poner	O
+mi	O
+alarma	O
+para	B-datetime
+las	I-datetime
+5	I-datetime
+:	I-datetime
+30	I-datetime
+am	I-datetime
+
+pausar	O
+mi	O
+alarma	O
+durante	B-datetime
+1	I-datetime
+hora	I-datetime
+
+pon	O
+alarma	O
+para	B-datetime
+las	I-datetime
+8pm	I-datetime
+para	O
+ver	O
+mi	O
+programa	O
+
+cancele	O
+todas	O
+las	O
+alarmas	O
+.	O
+
+mostrar	O
+alarmas	O
+para	B-datetime
+mañana	I-datetime
+.	O
+
+pon	O
+la	O
+alarma	O
+para	B-datetime
+6	I-datetime
+am	I-datetime
+diariamente	I-datetime
+
+pon	O
+la	O
+alarma	O
+para	B-datetime
+las	I-datetime
+9am	I-datetime
+cada	I-datetime
+domingo	I-datetime
+
+apaga	O
+la	O
+alarma	O
+
+muéstrame	O
+mis	O
+alarmas	O
+
+borra	O
+todas	O
+las	O
+alarmas	O
+
+pon	O
+la	O
+alarma	O
+por	O
+otros	O
+16	B-datetime
+minutos	I-datetime
+
+pon	O
+una	O
+alarma	O
+cada	B-datetime
+10	I-datetime
+minutos	I-datetime
+durante	I-datetime
+1	I-datetime
+hora	I-datetime
+.	O
+
+pon	O
+mi	O
+alarma	O
+para	B-datetime
+las	I-datetime
+6	I-datetime
+am	I-datetime
+
+pon	O
+la	O
+alarma	O
+para	B-datetime
+las	I-datetime
+4	I-datetime
+:	I-datetime
+00	I-datetime
+hoy	I-datetime
+
+pon	O
+una	O
+alarma	O
+para	O
+mi	O
+cita	O
+con	O
+el	O
+dentista	O
+
+pon	O
+mi	O
+alarma	O
+para	B-datetime
+las	I-datetime
+8pm	I-datetime
+
+enséñame	O
+todas	O
+las	O
+alarmas	O
+
+cancela	O
+la	O
+alarma	O
+
+posponer	O
+todas	O
+las	O
+alarmas	O
+
+pon	O
+una	O
+alarma	O
+en	B-datetime
+dos	I-datetime
+minutos	I-datetime
+desde	I-datetime
+ahora	I-datetime
+
+cancela	O
+la	O
+siguiente	O
+alarma	O
+
+cancela	O
+todas	O
+mis	O
+alarmas	O
+para	B-datetime
+mañana	I-datetime
+
+cancela	O
+la	O
+alarma	O
+de	B-datetime
+hoy	I-datetime
+
+pon	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+8	I-datetime
+:	I-datetime
+30am	I-datetime
+
+cancela	O
+esta	O
+alarma	O
+
+borra	O
+mi	O
+alarma	O
+para	B-datetime
+las	I-datetime
+4pm	I-datetime
+mañana	I-datetime
+
+cancela	O
+esta	O
+alarma	O
+
+borrar	O
+todas	O
+mis	O
+alarmas	O
+.	O
+
+muestra	O
+la	O
+alarma	O
+para	O
+la	O
+misa	O
+.	O
+
+pon	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+a	I-datetime
+las	I-datetime
+cinco	I-datetime
+de	I-datetime
+la	I-datetime
+mañana	I-datetime
+.	O
+
+muestra	O
+todas	O
+mis	O
+alarmas	O
+actuales	O
+.	O
+
+pon	O
+alarma	O
+para	B-datetime
+las	I-datetime
+cinco	I-datetime
+de	I-datetime
+la	I-datetime
+tarde	I-datetime
+.	O
+
+pon	O
+alarma	O
+a	B-datetime
+las	I-datetime
+nueve	I-datetime
+y	I-datetime
+media	I-datetime
+para	O
+el	O
+descanso	O
+.	O
+
+pon	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+a	I-datetime
+las	I-datetime
+cinco	I-datetime
+de	I-datetime
+la	I-datetime
+tarde	I-datetime
+.	O
+
+pon	O
+alarma	O
+cada	B-datetime
+media	I-datetime
+hora	I-datetime
+.	O
+
+apaga	O
+mi	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+por	I-datetime
+la	I-datetime
+mañana	I-datetime
+.	I-datetime
+
+pon	O
+una	O
+alarma	O
+cada	B-datetime
+5	I-datetime
+minutos	I-datetime
+.	O
+
+cancelar	O
+la	O
+alarma	O
+establecida	O
+para	B-datetime
+miércoles	I-datetime
+.	O
+
+pon	O
+una	O
+alarma	O
+para	B-datetime
+9am	I-datetime
+cada	I-datetime
+domingo	I-datetime
+este	I-datetime
+mes	I-datetime
+.	O
+
+pon	O
+alarma	O
+para	B-datetime
+6pm	I-datetime
+.	O
+
+¿	O
+cuándo	O
+es	O
+mi	O
+siguiente	O
+alarma	O
+?	O
+
+cancela	O
+alarma	O
+para	B-datetime
+10	I-datetime
+
+apaga	O
+la	O
+alarma	O
+a	B-datetime
+las	I-datetime
+6	I-datetime
+y	O
+7pm	B-datetime
+el	I-datetime
+martes	I-datetime
+.	O
+
+pon	O
+alarma	O
+para	B-datetime
+las	I-datetime
+6am	I-datetime
+.	O
+
+pon	O
+alarma	O
+para	B-datetime
+12pm	I-datetime
+hoy	I-datetime
+.	O
+
+pausar	O
+alarma	O
+por	B-datetime
+15	I-datetime
+minutos	I-datetime
+
+pon	O
+alarma	O
+para	B-datetime
+las	I-datetime
+8	I-datetime
+pm	I-datetime
+esta	I-datetime
+noche	I-datetime
+.	O
+
+pon	O
+alarma	O
+para	B-datetime
+las	I-datetime
+6	I-datetime
+am	I-datetime
+mañana	I-datetime
+
+cancele	O
+todas	O
+las	O
+alarmas	O
+.	O
+
+repita	O
+la	O
+última	O
+alarma	O
+diariamente	B-datetime
+
+muéstreme	O
+mis	O
+alarmas	O
+
+ponga	O
+en	O
+una	O
+lista	O
+todas	O
+las	O
+alarmas	O
+que	O
+he	O
+puesto	O
+
+pon	O
+una	O
+alarma	O
+para	B-datetime
+8	I-datetime
+pm	I-datetime
+y	I-datetime
+10	I-datetime
+pm	I-datetime
+
+pon	O
+una	O
+alarma	O
+cada	B-datetime
+30	I-datetime
+minutos	I-datetime
+durante	I-datetime
+3	I-datetime
+horas	I-datetime
+
+pon	O
+un	O
+alarma	O
+para	B-datetime
+3pm	I-datetime
+
+¿	O
+cuántas	O
+alarmas	O
+tengo	O
+?	O
+
+cancela	O
+la	O
+alarma	O
+mañana	B-datetime
+a	I-datetime
+las	I-datetime
+7	I-datetime
+:	I-datetime
+30	I-datetime
+am	I-datetime
+
+pon	O
+alarma	O
+para	B-datetime
+el	I-datetime
+viernes	I-datetime
+a	I-datetime
+las	I-datetime
+3pm	I-datetime
+.	I-datetime
+
+cancela	O
+todas	O
+las	O
+alarmas	O
+.	O
+
+pon	O
+la	O
+alarma	O
+para	O
+la	O
+escuela	O
+mañana	B-datetime
+
+pon	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+10	I-datetime
+p	I-datetime
+.	I-datetime
+m	I-datetime
+.	I-datetime
+
+necesito	O
+una	O
+alarma	O
+puesta	O
+por	B-datetime
+la	I-datetime
+mañana	I-datetime
+a	I-datetime
+las	I-datetime
+5	I-datetime
+
+¿	O
+cuánto	O
+tiempo	O
+antes	O
+de	O
+mi	O
+próxima	O
+alarma	O
+?	O
+
+actualiza	O
+todas	O
+mis	O
+alarmas	O
+con	O
+una	B-datetime
+hora	I-datetime
+adicional	I-datetime
+mañana	I-datetime
+
+cancela	O
+la	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+a	I-datetime
+las	I-datetime
+11am	I-datetime
+
+pon	O
+una	O
+alarma	O
+cada	B-datetime
+3	I-datetime
+horas	I-datetime
+.	I-datetime
+
+pon	O
+alarma	O
+para	O
+2	I-datetime
+p	I-datetime
+.	I-datetime
+m	I-datetime
+.	I-datetime
+
+pon	O
+mi	O
+alarma	O
+para	B-datetime
+las	I-datetime
+10am	I-datetime
+el	I-datetime
+fin	I-datetime
+de	I-datetime
+semana	I-datetime
+
+pon	O
+la	O
+alarma	O
+para	B-datetime
+8	I-datetime
+am	I-datetime
+
+cancela	O
+la	O
+alarma	O
+para	B-datetime
+las	I-datetime
+3pm	I-datetime
+.	O
+
+cancela	O
+todas	O
+mis	O
+alarmas	O
+por	O
+favor	O
+
+desactiva	O
+la	O
+alarma	O
+después	B-datetime
+de	I-datetime
+10	I-datetime
+minutos	I-datetime
+
+por	O
+favor	O
+cancele	O
+mi	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+.	O
+
+¿	O
+puedes	O
+por	O
+favor	O
+configurar	O
+una	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+?	O
+
+pon	O
+la	O
+alarma	O
+para	B-datetime
+el	I-datetime
+sábado	I-datetime
+a	I-datetime
+las	I-datetime
+10	I-datetime
+am	I-datetime
+.	O
+
+pon	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+11	I-datetime
+am	I-datetime
+
+pon	O
+una	O
+alarma	O
+cada	B-datetime
+5	I-datetime
+minutos	I-datetime
+
+cancela	O
+las	O
+2	O
+últimas	O
+alarmas	O
+
+pon	O
+la	O
+alarma	O
+para	B-datetime
+8	I-datetime
+:	I-datetime
+30pm	I-datetime
+esta	I-datetime
+noche	I-datetime
+
+¿	O
+a	O
+qué	O
+hora	O
+está	O
+configurada	O
+la	O
+alarma	O
+de	B-datetime
+la	I-datetime
+mañana	I-datetime
+?	O
+
+cancela	O
+todas	O
+las	O
+alarmas	O
+.	O
+
+ponga	O
+la	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+a	I-datetime
+las	I-datetime
+6	I-datetime
+a.m	I-datetime
+.	O
+
+dime	O
+mis	O
+alarmas	O
+,	O
+por	O
+favor	O
+.	O
+
+pon	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+7	I-datetime
+am	I-datetime
+del	I-datetime
+lunes	I-datetime
+
+borra	O
+esa	O
+última	O
+alarma	O
+
+cancelar	O
+la	O
+alarma	O
+de	O
+mi	O
+reunión	O
+con	O
+mi	O
+dentista	O
+esta	B-datetime
+tarde	I-datetime
+
+¿	O
+a	O
+qué	O
+hora	O
+es	O
+mi	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+?	O
+
+pon	O
+mi	O
+alarma	O
+para	B-datetime
+las	I-datetime
+7	I-datetime
+:	I-datetime
+00	I-datetime
+a.m	I-datetime
+.	I-datetime
+del	I-datetime
+viernes	I-datetime
+
+pon	O
+mi	O
+alarma	O
+para	B-datetime
+5	I-datetime
+:	I-datetime
+15	I-datetime
+am	I-datetime
+mañana	I-datetime
+
+pon	O
+la	O
+alarma	O
+en	B-datetime
+20	I-datetime
+minutos	I-datetime
+de	O
+tiempo	O
+
+quite	O
+alarma	O
+
+pon	O
+un	O
+alarma	O
+para	O
+una	O
+siesta	O
+de	B-datetime
+30	I-datetime
+minutos	I-datetime
+.	I-datetime
+
+pon	O
+un	O
+alarma	O
+para	B-datetime
+las	I-datetime
+7pm	I-datetime
+esta	I-datetime
+noche	I-datetime
+
+apaga	O
+la	O
+alarma	O
+
+muéstrame	O
+todas	O
+mis	O
+alarmas	O
+para	B-datetime
+la	I-datetime
+semana	I-datetime
+.	O
+
+pon	O
+la	O
+alarma	O
+para	B-datetime
+3pm	I-datetime
+
+pon	O
+la	O
+alarma	O
+de	O
+activación	O
+cada	B-datetime
+lunes	I-datetime
+,	I-datetime
+martes	I-datetime
+y	I-datetime
+jueves	I-datetime
+a	I-datetime
+las	I-datetime
+5	I-datetime
+:	I-datetime
+11a	I-datetime
+.	I-datetime
+
+pon	O
+la	O
+alarma	O
+para	O
+que	O
+se	O
+apague	O
+cada	B-datetime
+10	I-datetime
+minutos	I-datetime
+
+pon	O
+una	O
+nueva	O
+alarma	O
+para	O
+el	O
+espectáculo	O
+de	B-datetime
+esta	I-datetime
+noche	I-datetime
+
+pon	O
+una	O
+alarma	O
+todos	O
+los	O
+días	O
+a	B-datetime
+las	I-datetime
+6	I-datetime
+am	I-datetime
+
+pon	O
+una	O
+alarma	O
+diaria	B-datetime
+a	I-datetime
+las	I-datetime
+21	I-datetime
+:	I-datetime
+00	I-datetime
+para	O
+respirar	O
+.	O
+
+pon	O
+la	O
+alarma	O
+para	B-datetime
+7	I-datetime
+:	I-datetime
+00	I-datetime
+pm	I-datetime
+y	I-datetime
+7	I-datetime
+:	I-datetime
+00	I-datetime
+am	I-datetime
+
+¿	O
+cuándo	O
+suena	O
+la	O
+alarma	O
+?	O
+
+pon	O
+la	O
+alarma	O
+para	B-datetime
+mañana	I-datetime
+a	I-datetime
+las	I-datetime
+6	I-datetime
+a.m	I-datetime
+.	O
+
+¿	O
+tengo	O
+una	O
+alarma	O
+programada	O
+para	B-datetime
+las	I-datetime
+8	I-datetime
+am	I-datetime
+mañana	I-datetime
+?	O
+
+borrar	O
+todas	O
+las	O
+alarmas	O
+
+pon	O
+la	O
+alarma	O
+a	B-datetime
+las	I-datetime
+6	I-datetime
+a.m	I-datetime
+.	I-datetime
+mañana	I-datetime
+por	I-datetime
+la	I-datetime
+mañana	I-datetime
+
+por	O
+favor	O
+configure	O
+la	O
+alarma	O
+por	B-datetime
+10	I-datetime
+minutos	I-datetime
+a	I-datetime
+partir	I-datetime
+de	I-datetime
+ahora	I-datetime
+
+pon	O
+la	O
+alarma	O
+para	B-datetime
+las	I-datetime
+8am	I-datetime
+para	O
+mandarle	O
+un	O
+texto	O
+a	O
+chris	O
+
+establecer	O
+la	O
+repetición	O
+en	O
+las	O
+alarmas	O
+cada	B-datetime
+3	I-datetime
+minutos	I-datetime
+
+muestra	O
+la	O
+alarma	O
+a	B-datetime
+las	I-datetime
+5	I-datetime
+pm	I-datetime
+
+pon	O
+la	O
+alarma	O
+a	B-datetime
+las	I-datetime
+cinco	I-datetime
+y	I-datetime
+media	I-datetime
+de	I-datetime
+la	I-datetime
+mañana	I-datetime
+el	I-datetime
+sábado	I-datetime
+
+¿	O
+cuántas	O
+alarmas	O
+he	O
+establecido	O
+?	O
+
+pon	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+3pm	I-datetime
+para	O
+todos	O
+los	O
+días	O
+de	O
+trabajo	O
+
+quita	O
+mi	O
+alarma	O
+a	B-datetime
+las	I-datetime
+8	I-datetime
+:	I-datetime
+15	I-datetime
+am	I-datetime
+
+pon	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+5	I-datetime
+a.m	I-datetime
+.	I-datetime
+
+pon	O
+una	O
+alarma	O
+cada	B-datetime
+15	I-datetime
+minutos	I-datetime
+de	I-datetime
+cada	I-datetime
+hora	I-datetime
+
+pon	O
+la	O
+alarma	O
+para	B-datetime
+el	I-datetime
+domingo	I-datetime
+a	I-datetime
+las	I-datetime
+7am	I-datetime
+
+pon	O
+la	O
+alarma	O
+para	B-datetime
+el	I-datetime
+domingo	I-datetime
+a	I-datetime
+las	I-datetime
+9am	I-datetime
+
+muéstrame	O
+todas	O
+mis	O
+alarmas	O
+que	O
+están	O
+encendidas	O
+
+pon	O
+una	O
+alarma	O
+para	B-datetime
+las	I-datetime
+4pm	I-datetime
+de	I-datetime
+mañana	I-datetime
+
+eliminar	O
+todas	O
+mis	O
+alarmas	O
+existentes	O
+.	O
+
+eliminar	O
+la	O
+última	O
+alarma	O
+creada	O
+
+pon	O
+mi	O
+alarma	O
+esta	B-datetime
+noche	I-datetime
+
+pon	O
+una	O
+alarma	O
+para	B-datetime
+toda	I-datetime
+la	I-datetime
+semana	I-datetime
+.	O
+
+poner	O
+alarma	O
+a	B-datetime
+las	I-datetime
+6	I-datetime
+:	I-datetime
+50	I-datetime
+a.m	I-datetime
+.	I-datetime
+
+cancelar	O
+mi	O
+alarma	O
+de	B-datetime
+3	I-datetime
+en	I-datetime
+punto	I-datetime
+
+establecer	O
+la	O
+alarma	O
+cada	B-datetime
+2	I-datetime
+minutos	I-datetime
+durante	I-datetime
+10	I-datetime
+minutos	I-datetime
+
+pon	O
+una	O
+alarma	O
+cada	B-datetime
+5	I-datetime
+minutos	I-datetime
+
+pon	O
+la	O
+alarma	O
+todos	O
+los	O
+días	O
+a	B-datetime
+las	I-datetime
+10	I-datetime
+pm	I-datetime
+
+pon	O
+un	O
+alarma	O
+para	B-datetime
+las	I-datetime
+10	I-datetime
+:	I-datetime
+30am	I-datetime
+mañana	I-datetime
+
+¿	O
+cuándo	O
+se	O
+activará	O
+mi	O
+alarma	O
+mañana	B-datetime
+?	O
+
+pon	O
+un	O
+alarma	O
+para	B-datetime
+3pm	I-datetime
+mañana	I-datetime
+
+pon	O
+una	O
+alarma	O
+durante	B-datetime
+2	I-datetime
+horas	I-datetime
+a	O
+partir	O
+de	O
+ahora	O
+para	O
+avisarme	O
+de	O
+que	O
+es	O
+hora	O
+de	O
+sacar	O
+el	O
+asado	O
+del	O
+horno	O
+.	O
+
+recuérdame	O
+comprarle	B-reminder/todo
+a	I-reminder/todo
+mi	I-reminder/todo
+mamá	I-reminder/todo
+un	I-reminder/todo
+regalo	I-reminder/todo
+mañana	B-datetime
+
+recuérdame	O
+programar	B-reminder/todo
+una	I-reminder/todo
+cita	I-reminder/todo
+al	I-reminder/todo
+dentista	I-reminder/todo
+
+cancela	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+de	B-datetime
+hoy	I-datetime
+
+muestra	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+
+pon	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+la	B-reminder/todo
+audición	I-reminder/todo
+de	I-reminder/todo
+anna	I-reminder/todo
+
+recuérdame	O
+comprar	B-reminder/todo
+pan	I-reminder/todo
+mañana	B-datetime
+
+cancela	O
+mi	O
+recordatorio	B-reminder/noun
+para	O
+reunirme	B-reminder/todo
+con	I-reminder/todo
+dan	I-reminder/todo
+
+cancela	O
+mi	O
+recordatorio	B-reminder/noun
+para	B-datetime
+las	I-datetime
+12pm	I-datetime
+del	I-datetime
+31	I-datetime
+de	I-datetime
+diciembre	I-datetime
+del	I-datetime
+2017	I-datetime
+
+recuérdame	O
+mi	O
+cita	B-reminder/todo
+para	I-reminder/todo
+el	I-reminder/todo
+cabello	I-reminder/todo
+en	I-reminder/todo
+octubre	I-reminder/todo
+
+establece	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+recoger	B-reminder/todo
+a	I-reminder/todo
+los	I-reminder/todo
+niños	I-reminder/todo
+a	B-datetime
+las	I-datetime
+4pm	I-datetime
+
+cancela	O
+todos	O
+mis	O
+recordatorios	B-reminder/noun
+
+recuérdame	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+la	I-reminder/todo
+abuela	I-reminder/todo
+
+recuérdame	O
+comenzar	B-reminder/todo
+a	I-reminder/todo
+lavar	I-reminder/todo
+la	I-reminder/todo
+ropa	I-reminder/todo
+esta	B-datetime
+noche	I-datetime
+
+recuérdame	O
+comprar	B-reminder/todo
+huevos	I-reminder/todo
+en	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+esta	B-datetime
+noche	I-datetime
+
+por	O
+favor	O
+,	O
+establece	O
+un	O
+recordatorio	B-reminder/noun
+para	B-datetime
+el	I-datetime
+jueves	I-datetime
+a	I-datetime
+las	I-datetime
+3	I-datetime
+:	I-datetime
+00	I-datetime
+pm	I-datetime
+
+recuérdame	O
+tomar	B-reminder/todo
+los	I-reminder/todo
+medicamentos	I-reminder/todo
+los	I-reminder/todo
+mediodías	I-reminder/todo
+todos	B-reminder/recurring_period
+los	I-reminder/recurring_period
+días	I-reminder/recurring_period
+
+cancela	O
+mi	O
+recordatorio	B-reminder/noun
+para	B-datetime
+mañana	I-datetime
+
+elimina	O
+el	O
+recordatorio	B-reminder/noun
+para	O
+el	O
+picnic	B-reminder/todo
+del	B-datetime
+22	I-datetime
+
+cancela	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+para	B-datetime
+hoy	I-datetime
+
+recuérdame	O
+mi	O
+reunión	B-reminder/todo
+a	B-datetime
+las	I-datetime
+12am	I-datetime
+
+recuérdame	O
+revisar	B-reminder/todo
+mi	I-reminder/todo
+correo	I-reminder/todo
+electrónico	I-reminder/todo
+
+cancela	O
+el	O
+recordatorio	B-reminder/noun
+para	O
+pagar	B-reminder/todo
+la	I-reminder/todo
+factura	I-reminder/todo
+del	I-reminder/todo
+hospital	I-reminder/todo
+
+recuérdame	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+mamá	I-reminder/todo
+a	B-datetime
+las	I-datetime
+6pm	I-datetime
+
+recuérdame	O
+ir	B-reminder/todo
+al	I-reminder/todo
+banco	I-reminder/todo
+y	I-reminder/todo
+obtener	I-reminder/todo
+efectivo	I-reminder/todo
+hoy	B-datetime
+
+recuérdame	O
+mi	O
+cita	B-reminder/todo
+a	B-datetime
+las	I-datetime
+6pm	I-datetime
+de	I-datetime
+mañana	I-datetime
+
+elimina	O
+mi	O
+recordatorio	B-reminder/noun
+diario	B-reminder/recurring_period
+de	O
+tomar	B-reminder/todo
+mis	I-reminder/todo
+antibióticos	I-reminder/todo
+
+recuérdame	O
+pintar	B-reminder/todo
+el	I-reminder/todo
+cuarto	I-reminder/todo
+
+cancela	O
+el	O
+recordatorio	B-reminder/noun
+para	B-reminder/todo
+hacer	I-reminder/todo
+una	I-reminder/todo
+cita	I-reminder/todo
+
+recuérdame	O
+comprar	B-reminder/todo
+comida	I-reminder/todo
+para	I-reminder/todo
+louie	I-reminder/todo
+
+cancela	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+para	B-datetime
+hoy	I-datetime
+
+recuérdame	O
+ir	B-reminder/todo
+al	I-reminder/todo
+gimnasio	I-reminder/todo
+mañana	B-datetime
+
+recuérdame	O
+comprar	B-reminder/todo
+pan	I-reminder/todo
+en	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+
+recuérdame	O
+recoger	B-reminder/todo
+la	I-reminder/todo
+cena	I-reminder/todo
+esta	B-datetime
+noche	I-datetime
+
+recuérdame	O
+ir	B-reminder/todo
+a	I-reminder/todo
+por	I-reminder/todo
+un	I-reminder/todo
+regalo	I-reminder/todo
+para	I-reminder/todo
+mi	I-reminder/todo
+mamá	I-reminder/todo
+mañana	B-datetime
+por	I-datetime
+la	I-datetime
+mañana	I-datetime
+
+cancela	O
+mi	O
+recordatorio	B-reminder/noun
+para	O
+"	O
+game	B-reminder/todo
+of	I-reminder/todo
+thrones	I-reminder/todo
+"	O
+
+recuérdame	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+mi	I-reminder/todo
+mamá	I-reminder/todo
+mañana	B-datetime
+por	I-datetime
+la	I-datetime
+noche	I-datetime
+
+¿	O
+qué	O
+recordatorio	B-reminder/noun
+tengo	O
+para	B-datetime
+hoy	I-datetime
+?	O
+
+cancela	O
+mi	O
+recordatorio	B-reminder/noun
+para	O
+parar	B-reminder/todo
+en	I-reminder/todo
+el	I-reminder/todo
+banco	I-reminder/todo
+después	I-reminder/todo
+del	I-reminder/todo
+trabajo	I-reminder/todo
+
+recuérdame	O
+darle	B-reminder/todo
+al	I-reminder/todo
+perro	I-reminder/todo
+su	I-reminder/todo
+pastilla	I-reminder/todo
+por	B-datetime
+la	I-datetime
+mañana	I-datetime
+
+recuérdame	O
+escribirle	B-reminder/todo
+a	I-reminder/todo
+holly	I-reminder/todo
+
+recuérdame	O
+comenzar	B-reminder/todo
+a	I-reminder/todo
+lavar	I-reminder/todo
+la	I-reminder/todo
+ropa	I-reminder/todo
+esta	B-datetime
+tarde	I-datetime
+a	I-datetime
+las	I-datetime
+2	I-datetime
+
+recuérdame	O
+estar	B-reminder/todo
+en	I-reminder/todo
+la	I-reminder/todo
+escuela	I-reminder/todo
+hoy	B-datetime
+a	I-datetime
+las	I-datetime
+11am	I-datetime
+
+recuérdame	O
+comprar	B-reminder/todo
+baterías	I-reminder/todo
+
+recuérdame	O
+dejar	B-reminder/todo
+la	I-reminder/todo
+llave	I-reminder/todo
+en	I-reminder/todo
+el	I-reminder/todo
+buzón	I-reminder/todo
+antes	I-reminder/todo
+de	I-reminder/todo
+irme	I-reminder/todo
+a	I-reminder/todo
+trabajar	I-reminder/todo
+
+muéstrame	O
+mi	O
+recordatorio	B-reminder/noun
+
+pon	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+ir	B-reminder/todo
+a	I-reminder/todo
+por	I-reminder/todo
+comida	I-reminder/todo
+de	I-reminder/todo
+perro	I-reminder/todo
+esta	B-datetime
+noche	I-datetime
+a	I-datetime
+las	I-datetime
+5	I-datetime
+
+muéstrame	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+guardados	O
+
+pon	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+la	O
+iglesia	B-reminder/todo
+a	B-datetime
+las	I-datetime
+11am	I-datetime
+del	I-datetime
+domingo	I-datetime
+
+elimina	O
+mis	O
+recordatorios	B-reminder/noun
+solo	O
+para	B-datetime
+el	I-datetime
+lunes	I-datetime
+,	O
+miércoles	B-datetime
+y	O
+viernes	B-datetime
+
+recuérdame	O
+almorzar	B-reminder/todo
+con	I-reminder/todo
+joseph	I-reminder/todo
+mañana	B-datetime
+a	I-datetime
+la	I-datetime
+1	I-datetime
+pm	I-datetime
+
+por	O
+favor	O
+recuérdame	O
+poner	B-reminder/todo
+una	I-reminder/todo
+alarma	I-reminder/todo
+
+recuérdame	O
+poner	B-reminder/todo
+una	I-reminder/todo
+alarma	I-reminder/todo
+esta	B-datetime
+noche	I-datetime
+
+¿	O
+qué	O
+recordatorios	B-reminder/noun
+tengo	O
+para	B-datetime
+hoy	I-datetime
+?	O
+
+pon	O
+un	O
+recordatorio	B-reminder/noun
+en	B-datetime
+15	I-datetime
+minutos	I-datetime
+
+recuérdame	O
+recoger	B-reminder/todo
+mi	I-reminder/todo
+mamá	I-reminder/todo
+del	I-reminder/todo
+aeropuerto	I-reminder/todo
+
+recordatorio	B-reminder/noun
+para	O
+el	O
+doctor	B-reminder/todo
+del	I-reminder/todo
+cuello	I-reminder/todo
+el	B-datetime
+lunes	I-datetime
+a	I-datetime
+las	I-datetime
+12pm	I-datetime
+
+recuérdame	O
+buscar	B-reminder/todo
+mis	I-reminder/todo
+zapatos	I-reminder/todo
+de	I-reminder/todo
+montaña	I-reminder/todo
+esta	B-datetime
+noche	I-datetime
+
+¿	O
+tengo	O
+algún	O
+recordatorio	B-reminder/noun
+hoy	B-datetime
+?	O
+
+recuérdame	O
+sacar	B-reminder/todo
+el	I-reminder/todo
+pollo	I-reminder/todo
+del	I-reminder/todo
+congelador	I-reminder/todo
+mañana	B-datetime
+por	I-datetime
+la	I-datetime
+mañana	I-datetime
+
+recuérdame	O
+parar	B-reminder/todo
+en	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+a	B-datetime
+las	I-datetime
+5	I-datetime
+:	I-datetime
+30	I-datetime
+hoy	I-datetime
+
+recuérdame	O
+pasear	B-reminder/todo
+con	I-reminder/todo
+el	I-reminder/todo
+perro	I-reminder/todo
+en	B-datetime
+media	I-datetime
+hora	I-datetime
+
+cancela	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+
+recuérdame	O
+recoger	B-reminder/todo
+a	I-reminder/todo
+mi	I-reminder/todo
+hermana	I-reminder/todo
+a	B-datetime
+las	I-datetime
+2pm	I-datetime
+mañana	I-datetime
+
+cancela	O
+mi	O
+recordatorio	B-reminder/noun
+para	O
+pasear	B-reminder/todo
+al	I-reminder/todo
+perro	I-reminder/todo
+
+recuérdame	O
+que	O
+tengo	O
+que	O
+cambiar	B-reminder/todo
+mi	I-reminder/todo
+aceite	I-reminder/todo
+el	B-datetime
+lunes	I-datetime
+de	I-datetime
+la	I-datetime
+semana	I-datetime
+siguiente	I-datetime
+
+necesito	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+trabajar	B-reminder/todo
+a	B-datetime
+las	I-datetime
+10	I-datetime
+am	I-datetime
+el	I-datetime
+próximo	I-datetime
+sábado	I-datetime
+
+cancela	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+para	B-datetime
+hoy	I-datetime
+
+el	O
+sábado	B-datetime
+recuérdame	O
+mi	O
+cita	B-reminder/todo
+de	I-reminder/todo
+uñas	I-reminder/todo
+
+cancela	O
+el	O
+recordatorio	B-reminder/noun
+para	O
+recoger	B-reminder/todo
+a	I-reminder/todo
+dave	I-reminder/todo
+
+esta	B-datetime
+noche	I-datetime
+recuérdame	O
+tomar	B-reminder/todo
+una	I-reminder/todo
+ruta	I-reminder/todo
+alternativa	I-reminder/todo
+del	I-reminder/todo
+trabajo	I-reminder/todo
+a	I-reminder/todo
+casa	I-reminder/todo
+
+configurar	O
+esta	O
+alarma	O
+por	B-datetime
+4	I-datetime
+minutos	I-datetime
+
+recuérdame	O
+devolver	B-reminder/todo
+el	I-reminder/todo
+dvd	I-reminder/todo
+mañana	B-datetime
+por	I-datetime
+la	I-datetime
+mañana	I-datetime
+
+recuérdame	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+la	I-reminder/todo
+oficina	I-reminder/todo
+del	I-reminder/todo
+dentista	I-reminder/todo
+
+recuérdame	O
+comprar	B-reminder/todo
+flores	I-reminder/todo
+de	I-reminder/todo
+cumpleaños	I-reminder/todo
+alrededor	I-reminder/todo
+de	I-reminder/todo
+la	I-reminder/todo
+calle	I-reminder/todo
+12	I-reminder/todo
+en	I-reminder/todo
+mi	I-reminder/todo
+camino	I-reminder/todo
+al	I-reminder/todo
+trabajo	I-reminder/todo
+
+recuérdame	O
+poner	B-reminder/todo
+la	I-reminder/todo
+ropa	I-reminder/todo
+en	I-reminder/todo
+la	I-reminder/todo
+secadora	I-reminder/todo
+a	B-datetime
+las	I-datetime
+4pm	I-datetime
+
+cancela	O
+todos	O
+mis	O
+recordatorios	B-reminder/noun
+para	B-datetime
+hoy	I-datetime
+.	O
+
+recuérdame	O
+ir	B-reminder/todo
+a	I-reminder/todo
+target	I-reminder/todo
+mañana	B-datetime
+a	I-datetime
+las	I-datetime
+8pm	I-datetime
+
+recuérdame	O
+el	O
+plan	B-reminder/todo
+de	I-reminder/todo
+vuelo	I-reminder/todo
+mañana	B-datetime
+
+recuérdame	O
+la	B-reminder/todo
+cita	I-reminder/todo
+con	I-reminder/todo
+el	I-reminder/todo
+doctor	I-reminder/todo
+de	I-reminder/todo
+john	I-reminder/todo
+el	B-datetime
+viernes	I-datetime
+a	I-datetime
+las	I-datetime
+10am	I-datetime
+
+cancela	O
+el	O
+recordatorio	B-reminder/noun
+para	O
+recoger	B-reminder/todo
+a	I-reminder/todo
+dave	I-reminder/todo
+
+esta	B-datetime
+noche	I-datetime
+recuérdame	O
+ir	B-reminder/todo
+a	I-reminder/todo
+por	I-reminder/todo
+gasolina	I-reminder/todo
+en	I-reminder/todo
+vía	I-reminder/todo
+a	I-reminder/todo
+casa	I-reminder/todo
+
+recuérdame	O
+hablar	B-reminder/todo
+con	I-reminder/todo
+mi	I-reminder/todo
+mamá	I-reminder/todo
+después	I-reminder/todo
+
+recuérdame	O
+comprobar	B-reminder/todo
+mi	I-reminder/todo
+nivel	I-reminder/todo
+de	I-reminder/todo
+azúcar	I-reminder/todo
+en	I-reminder/todo
+la	I-reminder/todo
+sangre	I-reminder/todo
+cadas	B-reminder/recurring_period
+2	I-reminder/recurring_period
+horas	I-reminder/recurring_period
+
+cancela	O
+el	O
+recordatorio	B-reminder/noun
+para	O
+la	B-reminder/todo
+reunión	I-reminder/todo
+de	B-datetime
+las	I-datetime
+5pm	I-datetime
+
+recuérdame	O
+ir	B-reminder/todo
+a	I-reminder/todo
+por	I-reminder/todo
+comida	I-reminder/todo
+de	I-reminder/todo
+gato	I-reminder/todo
+
+recuérdame	O
+comprar	B-reminder/todo
+pan	I-reminder/todo
+esta	B-datetime
+noche	I-datetime
+
+por	O
+favor	O
+cancela	O
+el	O
+recordatorio	B-reminder/noun
+para	O
+ir	B-reminder/todo
+a	I-reminder/todo
+comprar	I-reminder/todo
+pan	I-reminder/todo
+
+muestra	O
+los	O
+recordatorios	B-reminder/noun
+para	B-datetime
+hoy	I-datetime
+
+muéstrame	O
+mis	O
+recordatorios	B-reminder/noun
+para	B-datetime
+mañana	I-datetime
+
+cuál	O
+va	O
+a	O
+ser	O
+la	O
+baja	O
+de	B-datetime
+hoy	I-datetime
+
+cancela	O
+todos	O
+mis	O
+recordatorios	B-reminder/noun
+
+recuérdame	O
+esta	B-datetime
+noche	I-datetime
+a	I-datetime
+las	I-datetime
+9pm	I-datetime
+pagar	B-reminder/todo
+la	I-reminder/todo
+reserva	I-reminder/todo
+del	I-reminder/todo
+hotel	I-reminder/todo
+
+recuérdame	O
+llamar	B-reminder/todo
+al	I-reminder/todo
+seguro	I-reminder/todo
+para	I-reminder/todo
+preguntar	I-reminder/todo
+sobre	I-reminder/todo
+la	I-reminder/todo
+cobertura	I-reminder/todo
+
+cancela	O
+el	O
+recordatorio	B-reminder/noun
+para	O
+la	O
+reunión	B-reminder/todo
+de	B-datetime
+hoy	I-datetime
+
+recuérdame	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+mi	I-reminder/todo
+mamá	I-reminder/todo
+mañana	B-datetime
+
+recuérdame	O
+enviar	B-reminder/todo
+un	I-reminder/todo
+correo	I-reminder/todo
+electrónico	I-reminder/todo
+a	I-reminder/todo
+bob	I-reminder/todo
+en	B-datetime
+3	I-datetime
+días	I-datetime
+
+recuérdame	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+mi	I-reminder/todo
+mamá	I-reminder/todo
+a	B-datetime
+las	I-datetime
+7	I-datetime
+
+muéstrame	O
+los	O
+recordatorios	B-reminder/noun
+de	B-datetime
+mañana	I-datetime
+
+recuérdame	O
+conseguir	B-reminder/todo
+pasta	I-reminder/todo
+de	I-reminder/todo
+dientes	I-reminder/todo
+
+recuérdame	O
+hacer	B-reminder/todo
+la	I-reminder/todo
+cena	I-reminder/todo
+esta	B-datetime
+noche	I-datetime
+
+recuérdame	O
+recoger	B-reminder/todo
+leche	I-reminder/todo
+
+muéstrame	O
+todos	O
+mis	O
+recordatorios	B-reminder/noun
+
+recuérdame	O
+comprar	B-reminder/todo
+papel	I-reminder/todo
+higiénico	I-reminder/todo
+en	I-reminder/todo
+la	I-reminder/todo
+tienda	I-reminder/todo
+
+¿	O
+tengo	O
+un	O
+recordatorio	B-reminder/noun
+hoy	B-datetime
+?	O
+
+recuérdame	O
+programar	B-reminder/todo
+una	I-reminder/todo
+cita	I-reminder/todo
+con	I-reminder/todo
+el	I-reminder/todo
+médico	I-reminder/todo
+
+por	O
+favor	O
+recuérdame	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+la	I-reminder/todo
+empresa	I-reminder/todo
+de	I-reminder/todo
+cable	I-reminder/todo
+mañana	B-datetime
+por	I-datetime
+la	I-datetime
+mañana	I-datetime
+
+¿	O
+algún	O
+recordatorio	B-reminder/noun
+?	O
+
+puedes	O
+por	O
+favor	O
+recordarme	O
+recoger	B-reminder/todo
+el	I-reminder/todo
+almuerzo	I-reminder/todo
+a	B-datetime
+las	I-datetime
+12pm	I-datetime
+
+recuérdame	O
+pasar	B-reminder/todo
+por	I-reminder/todo
+la	I-reminder/todo
+casa	I-reminder/todo
+de	I-reminder/todo
+lindsay	I-reminder/todo
+
+borra	O
+el	O
+recordatorio	O
+para	O
+la	B-reminder/todo
+cita	I-reminder/todo
+con	I-reminder/todo
+el	I-reminder/todo
+doctor	I-reminder/todo
+de	B-datetime
+mañana	I-datetime
+
+recuérdame	O
+comprar	B-reminder/todo
+huevos	I-reminder/todo
+
+recuérdame	O
+devolver	B-reminder/todo
+los	I-reminder/todo
+zapatos	I-reminder/todo
+para	I-reminder/todo
+amazon	I-reminder/todo
+
+cancela	O
+mi	O
+recordatorio	B-reminder/noun
+para	O
+pasar	B-reminder/todo
+por	I-reminder/todo
+la	I-reminder/todo
+oficina	I-reminder/todo
+de	I-reminder/todo
+correos	I-reminder/todo
+
+recuérdame	O
+traer	B-reminder/todo
+a	I-reminder/todo
+mi	I-reminder/todo
+perro	I-reminder/todo
+al	I-reminder/todo
+veterinario	I-reminder/todo
+la	B-datetime
+mañana	I-datetime
+del	I-datetime
+lunes	I-datetime
+
+programa	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+todas	B-reminder/recurring_period
+las	I-reminder/recurring_period
+noches	I-reminder/recurring_period
+
+recuérdame	O
+llamar	B-reminder/todo
+al	I-reminder/todo
+florista	I-reminder/todo
+mañana	B-datetime
+
+recuérdame	O
+comprar	B-reminder/todo
+pasta	I-reminder/todo
+de	I-reminder/todo
+dientes	I-reminder/todo
+cuando	I-reminder/todo
+llegue	I-reminder/todo
+a	I-reminder/todo
+target	I-reminder/todo
+
+recuérdame	O
+cambiar	B-reminder/todo
+mi	I-reminder/todo
+aceite	I-reminder/todo
+
+programa	O
+un	O
+recordatorio	B-reminder/noun
+el	B-datetime
+21	I-datetime
+de	I-datetime
+septiembre	I-datetime
+para	O
+lo	B-reminder/todo
+de	I-reminder/todo
+whitney	I-reminder/todo
+
+cancela	O
+el	O
+recordatorio	B-reminder/noun
+para	O
+comprar	B-reminder/todo
+nuevas	I-reminder/todo
+llantas	I-reminder/todo
+
+recuérdame	O
+revisar	B-reminder/todo
+el	I-reminder/todo
+libro	I-reminder/todo
+de	I-reminder/todo
+historia	I-reminder/todo
+de	I-reminder/todo
+la	I-reminder/todo
+librería	I-reminder/todo
+
+deshazte	O
+de	O
+mi	O
+recordatorio	B-reminder/noun
+para	O
+la	O
+escuela	B-reminder/todo
+de	B-datetime
+mañana	I-datetime
+.	O
+
+borra	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+
+¿	O
+cuántos	O
+recordatorios	B-reminder/noun
+tengo	O
+para	B-datetime
+esta	I-datetime
+semana	I-datetime
+?	O
+
+¿	O
+qué	O
+recordatorios	B-reminder/noun
+hay	O
+para	B-datetime
+esta	I-datetime
+noche	I-datetime
+?	O
+
+cancela	O
+todos	O
+mis	O
+recordatorios	B-reminder/noun
+para	B-datetime
+este	I-datetime
+fin	I-datetime
+de	I-datetime
+semana	I-datetime
+
+recuérdame	O
+ir	B-reminder/todo
+al	I-reminder/todo
+departamento	I-reminder/todo
+de	I-reminder/todo
+vehículos	I-reminder/todo
+motorizados	I-reminder/todo
+
+recuérdame	O
+ir	B-reminder/todo
+al	I-reminder/todo
+doctor	I-reminder/todo
+mañana	B-datetime
+
+recuérdame	O
+sacar	B-reminder/todo
+la	I-reminder/todo
+basura	I-reminder/todo
+el	B-datetime
+lunes	I-datetime
+por	I-datetime
+la	I-datetime
+mañana	I-datetime
+
+recuérdame	O
+colocar	B-reminder/todo
+el	I-reminder/todo
+pedido	I-reminder/todo
+de	I-reminder/todo
+amazon	I-reminder/todo
+hoy	B-datetime
+
+cancela	O
+mi	O
+recordatorio	B-reminder/noun
+para	O
+llamar	B-reminder/todo
+al	I-reminder/todo
+doctor	I-reminder/todo
+
+recordarme	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+mamá	I-reminder/todo
+en	B-datetime
+5	I-datetime
+minutos	I-datetime
+
+recuérdame	O
+hoy	B-datetime
+empezar	B-reminder/todo
+la	I-reminder/todo
+cena	I-reminder/todo
+a	I-reminder/todo
+las	I-reminder/todo
+4pm	I-reminder/todo
+
+recuérdame	O
+que	O
+soy	B-reminder/todo
+voluntario	I-reminder/todo
+a	B-datetime
+las	I-datetime
+8am	I-datetime
+mañana	I-datetime
+
+recuérdame	O
+recoger	B-reminder/todo
+a	I-reminder/todo
+mi	I-reminder/todo
+amigo	I-reminder/todo
+a	B-datetime
+las	I-datetime
+4	I-datetime
+:	I-datetime
+00	I-datetime
+pm	I-datetime
+
+¿	O
+qué	O
+recordatorios	B-reminder/noun
+tengo	O
+preparados	O
+para	B-datetime
+este	I-datetime
+fin	I-datetime
+de	I-datetime
+semana	I-datetime
+?	O
+
+muestra	O
+mis	O
+recordatorios	B-reminder/noun
+
+borra	O
+todos	O
+los	O
+recordatorios	B-reminder/noun
+
+muétrame	O
+todos	B-reminder/noun
+los	I-reminder/noun
+recordatorios	I-reminder/noun
+de	B-datetime
+esta	I-datetime
+última	I-datetime
+semana	I-datetime
+
+recuérdame	O
+llevar	B-reminder/todo
+al	I-reminder/todo
+perro	I-reminder/todo
+al	I-reminder/todo
+veterinario	I-reminder/todo
+a	B-datetime
+las	I-datetime
+4	I-datetime
+:	I-datetime
+00	I-datetime
+.	O
+
+recuérdame	O
+hacer	B-reminder/todo
+una	I-reminder/todo
+lista	I-reminder/todo
+de	I-reminder/todo
+qué	I-reminder/todo
+es	I-reminder/todo
+lo	I-reminder/todo
+que	I-reminder/todo
+necesito	I-reminder/todo
+empacar	I-reminder/todo
+.	O
+
+recuérdame	O
+devolver	B-reminder/todo
+mis	I-reminder/todo
+libros	I-reminder/todo
+de	I-reminder/todo
+la	I-reminder/todo
+biblioteca	I-reminder/todo
+camino	I-reminder/todo
+al	I-reminder/todo
+trabajo	I-reminder/todo
+
+cancela	O
+mi	O
+recordatorio	B-reminder/noun
+para	O
+recoger	B-reminder/todo
+a	I-reminder/todo
+los	I-reminder/todo
+niños	I-reminder/todo
+a	B-datetime
+las	I-datetime
+4	I-datetime
+
+recordatorio	B-reminder/noun
+:	O
+la	B-reminder/todo
+película	I-reminder/todo
+empieza	I-reminder/todo
+a	B-datetime
+las	I-datetime
+4	I-datetime
+:	I-datetime
+30	I-datetime
+pm	I-datetime
+
+muestra	O
+todos	O
+mis	O
+recordatorios	B-reminder/noun
+para	B-datetime
+este	I-datetime
+mes	I-datetime
+
+qué	O
+recordatorios	B-reminder/noun
+tengo	O
+preparados	O
+para	B-datetime
+hoy	I-datetime
+
+recuérdame	O
+comprar	B-reminder/todo
+pañales	I-reminder/todo
+hoy	B-datetime
+
+¿	O
+debería	O
+usar	O
+un	O
+poncho	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+estará	O
+soleado	B-weather/attribute
+todo	B-datetime
+el	I-datetime
+día	I-datetime
+?	O
+
+¿	O
+necesito	O
+un	O
+abrigo	B-weather/attribute
+después	B-datetime
+de	I-datetime
+las	I-datetime
+8pm	I-datetime
+esta	I-datetime
+noche	I-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+el	O
+índice	B-weather/noun
+de	I-weather/noun
+calor	I-weather/noun
+hoy	B-datetime
+?	O
+
+¿	O
+hay	O
+una	O
+ola	B-weather/attribute
+de	I-weather/attribute
+calor	I-weather/attribute
+en	O
+texas	B-location
+?	O
+
+¿	O
+hay	O
+alguna	O
+advertencia	B-weather/noun
+de	I-weather/noun
+tornado	I-weather/noun
+hoy	B-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+el	O
+pronóstico	B-weather/noun
+semanal	B-datetime
+para	O
+seattle	B-location
+?	O
+
+¿	O
+a	O
+qué	O
+hora	O
+caerá	O
+granizo	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+cómo	O
+está	O
+el	O
+tiempo	B-weather/noun
+hoy	B-datetime
+?	O
+
+¿	O
+cuál	O
+va	O
+a	O
+ser	O
+la	O
+temperatura	B-weather/noun
+máxima	O
+de	B-datetime
+mañana	I-datetime
+?	O
+
+¿	O
+hay	O
+lluvia	B-weather/attribute
+en	O
+el	O
+pronóstico	B-weather/noun
+para	B-datetime
+5	I-datetime
+días	I-datetime
+?	O
+
+¿	O
+necesito	O
+llevar	O
+una	O
+chaqueta	B-weather/attribute
+hoy	B-datetime
+?	O
+
+estamos	O
+bajo	O
+algún	O
+aviso	B-weather/noun
+meteorológico	I-weather/noun
+
+¿	O
+cuál	O
+será	O
+la	O
+temperatura	B-weather/noun
+esta	B-datetime
+noche	I-datetime
+?	O
+
+¿	O
+cómo	O
+se	O
+supone	O
+que	O
+va	O
+a	O
+ser	O
+el	O
+tiempo	B-weather/noun
+mañana	B-datetime
+?	O
+
+¿	O
+cuánto	O
+tiempo	O
+va	O
+a	O
+llover	B-weather/attribute
+hoy	B-datetime
+?	O
+
+necesitaré	O
+un	O
+paraguas	B-weather/attribute
+
+temperatura	B-weather/noun
+actual	B-datetime
+
+¿	O
+cuál	O
+es	O
+el	O
+tiempo	B-weather/noun
+a	B-datetime
+la	I-datetime
+1pm	I-datetime
+hoy	I-datetime
+?	O
+
+¿	O
+va	O
+a	O
+caer	O
+tanta	O
+nieve	B-weather/attribute
+que	O
+las	O
+escuelas	O
+van	O
+a	O
+cerrar	O
+?	O
+
+¿	O
+cuál	O
+es	O
+la	O
+previsión	B-weather/noun
+meteorológica	I-weather/noun
+de	B-datetime
+la	I-datetime
+próxima	I-datetime
+semana	I-datetime
+?	O
+
+¿	O
+va	O
+a	O
+nevar	B-weather/attribute
+esta	B-datetime
+noche	I-datetime
+?	O
+
+chequea	O
+el	O
+próximo	O
+informe	B-weather/noun
+de	I-weather/noun
+tiempo	I-weather/noun
+.	O
+
+el	O
+tiempo	B-weather/noun
+este	B-datetime
+domingo	I-datetime
+en	O
+los	B-location
+ángeles	I-location
+.	O
+
+¿	O
+cuántos	O
+días	O
+van	O
+a	O
+llover	B-weather/attribute
+esta	B-datetime
+semana	I-datetime
+?	O
+
+el	O
+tiempo	B-weather/noun
+en	O
+londres	B-location
+para	B-datetime
+la	I-datetime
+próxima	I-datetime
+semana	I-datetime
+
+¿	O
+va	O
+a	O
+nevar	B-weather/attribute
+el	B-datetime
+viernes	I-datetime
+?	O
+
+¿	O
+dijo	O
+el	O
+noticiero	O
+que	O
+va	O
+a	O
+llover	B-weather/attribute
+intensamente	O
+?	O
+
+¿	O
+va	O
+a	O
+nevar	B-weather/attribute
+en	O
+el	B-location
+norte	I-location
+de	I-location
+nueva	I-location
+york	I-location
+?	O
+
+¿	O
+necesito	O
+una	O
+sombrilla	B-weather/attribute
+?	O
+
+debo	O
+empacar	O
+un	O
+paragua	B-weather/attribute
+
+¿	O
+cómo	O
+es	O
+el	O
+tiempo	B-weather/noun
+en	O
+las	O
+playas	B-location
+de	I-location
+washington	I-location
+?	O
+
+¿	O
+debería	O
+de	O
+traer	O
+un	O
+paraguas	B-weather/attribute
+?	O
+
+¿	O
+cuál	O
+es	O
+el	O
+tiempo	B-weather/noun
+de	O
+south	B-location
+beach	I-location
+mañana	B-datetime
+a	I-datetime
+las	I-datetime
+11	I-datetime
+:	I-datetime
+00	I-datetime
+a.m	I-datetime
+.	I-datetime
+?	O
+
+¿	O
+estará	O
+soleado	B-weather/attribute
+el	B-datetime
+próximo	I-datetime
+jueves	I-datetime
+?	O
+
+¿	O
+hay	O
+granizo	B-weather/attribute
+previsto	I-weather/attribute
+para	O
+pensilvania	B-location
+mañana	B-datetime
+?	O
+
+¿	O
+va	O
+a	O
+haber	O
+tormenta	B-weather/attribute
+esta	B-datetime
+semana	I-datetime
+?	O
+
+¿	O
+cuál	O
+será	O
+el	O
+tiempo	B-weather/noun
+para	B-datetime
+mañana	I-datetime
+?	O
+
+¿	O
+va	O
+a	O
+llover	B-weather/attribute
+mañana	B-datetime
+?	O
+
+¿	O
+va	O
+a	O
+llover	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+necesito	O
+botas	B-weather/attribute
+de	I-weather/attribute
+invierno	I-weather/attribute
+en	O
+denver	B-location
+en	B-datetime
+el	I-datetime
+mes	I-datetime
+de	I-datetime
+diciembre	I-datetime
+?	O
+
+¿	O
+cuál	O
+es	O
+el	O
+pronóstico	B-weather/noun
+para	B-datetime
+mañana	I-datetime
+en	O
+irvine	B-location
+?	O
+
+pronóstico	B-weather/noun
+para	B-datetime
+10	I-datetime
+días	I-datetime
+
+¿	O
+qué	O
+tan	O
+baja	O
+será	O
+hoy	B-datetime
+la	O
+temperatura	B-weather/noun
+?	O
+
+va	O
+a	O
+nevar	B-weather/attribute
+hoy	B-datetime
+
+¿	O
+cuál	O
+es	O
+el	O
+pronóstico	B-weather/noun
+local	O
+para	B-datetime
+este	I-datetime
+fin	I-datetime
+de	I-datetime
+semana	I-datetime
+?	O
+
+tiempo	B-weather/noun
+ahora	B-datetime
+
+¿	O
+va	O
+a	O
+llover	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+hay	O
+nieve	B-weather/attribute
+en	O
+el	O
+pronóstico	B-weather/noun
+?	O
+
+el	O
+tiempo	B-weather/noun
+esta	B-datetime
+semana	I-datetime
+
+¿	O
+necesito	O
+llevar	O
+un	O
+paraguas	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+hace	O
+frío	B-weather/attribute
+afuera	B-location
+?	O
+
+¿	O
+cuál	O
+es	O
+el	O
+tiempo	B-weather/noun
+en	O
+atlanta	B-location
+hoy	B-datetime
+?	O
+
+¿	O
+va	O
+a	O
+llover	B-weather/attribute
+?	O
+
+prepara	O
+un	O
+recordatorio	B-reminder/noun
+para	O
+llamar	B-reminder/todo
+a	I-reminder/todo
+mamá	I-reminder/todo
+mañana	B-datetime
+por	I-datetime
+la	I-datetime
+tarde	I-datetime
+
+¿	O
+crees	O
+que	O
+tendremos	O
+tormentas	B-weather/attribute
+severas	I-weather/attribute
+?	O
+
+¿	O
+debería	O
+de	O
+traer	O
+una	O
+sudadera	B-weather/attribute
+conmigo	O
+hoy	B-datetime
+?	O
+
+cuál	O
+es	O
+la	O
+temperatura	B-weather/noun
+más	B-weather/attribute
+caliente	I-weather/attribute
+de	B-datetime
+esta	I-datetime
+semana	I-datetime
+
+¿	O
+hay	O
+tormentas	B-weather/attribute
+en	O
+el	O
+pronóstico	B-weather/noun
+para	O
+carolina	B-location
+del	I-location
+norte	I-location
+?	O
+
+¿	O
+se	O
+supone	O
+que	O
+hiele	B-weather/attribute
+este	B-datetime
+fin	I-datetime
+de	I-datetime
+semana	I-datetime
+?	O
+
+¿	O
+cuánta	O
+probabilidad	O
+de	O
+lluvia	B-weather/attribute
+mañana	B-datetime
+?	O
+
+¿	O
+necesitaré	O
+una	O
+chaqueta	B-weather/attribute
+hoy	B-datetime
+?	O
+
+por	O
+favor	O
+,	O
+muéstreme	O
+un	O
+informe	B-weather/noun
+meteorológico	I-weather/noun
+
+¿	O
+cuál	O
+es	O
+el	O
+pronóstico	B-weather/noun
+para	B-datetime
+hoy	I-datetime
+?	O
+
+va	O
+a	O
+haber	O
+tormenta	B-weather/attribute
+este	B-datetime
+fin	I-datetime
+de	I-datetime
+semana	I-datetime
+
+¿	O
+hay	O
+una	O
+ventisca	B-weather/attribute
+prevista	O
+para	O
+mi	B-location
+área	I-location
+?	O
+
+¿	O
+cómo	O
+es	O
+el	O
+tiempo	B-weather/noun
+en	O
+el	B-location
+polo	I-location
+ártico	I-location
+?	O
+
+¿	O
+hay	O
+un	O
+tiempo	B-weather/noun
+severo	O
+previsto	O
+para	O
+mi	B-location
+área	I-location
+hoy	B-datetime
+?	O
+
+¿	O
+va	O
+a	O
+llover	B-weather/attribute
+mañana	B-datetime
+?	O
+
+¿	O
+cómo	O
+es	O
+el	O
+tiempo	B-weather/noun
+en	O
+portland	B-location
+ahora	B-datetime
+?	O
+
+va	O
+a	O
+llover	B-weather/attribute
+en	O
+nueva	B-location
+york	I-location
+cuando	O
+aterrice	O
+mi	O
+avión	O
+
+¿	O
+cuál	O
+es	O
+el	O
+pronóstico	B-weather/noun
+para	O
+las	B-location
+playas	I-location
+de	I-location
+florida	I-location
+?	O
+
+va	O
+a	O
+llover	B-weather/attribute
+toda	B-datetime
+la	I-datetime
+semana	I-datetime
+
+¿	O
+cuál	O
+es	O
+el	O
+pronóstico	B-weather/noun
+para	B-datetime
+diez	I-datetime
+días	I-datetime
+para	O
+washington	B-location
+?	O
+
+necesitaré	O
+un	O
+paraguas	B-weather/attribute
+hoy	B-datetime
+
+¿	O
+se	O
+supone	O
+que	O
+lloverá	B-weather/attribute
+todo	O
+el	B-datetime
+día	I-datetime
+hoy	I-datetime
+?	O
+
+¿	O
+hace	O
+frío	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+va	O
+a	O
+hacer	O
+calor	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+necesito	O
+un	O
+abrigo	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+va	O
+a	O
+estar	O
+soleado	B-weather/attribute
+mañana	B-datetime
+?	O
+
+¿	O
+necesito	O
+un	O
+abrigo	B-weather/attribute
+?	O
+
+¿	O
+cómo	O
+va	O
+a	O
+ser	O
+el	O
+tiempo	B-weather/noun
+este	B-datetime
+fin	I-datetime
+de	I-datetime
+semana	I-datetime
+?	I-datetime
+
+cómo	O
+está	O
+el	O
+tiempo	B-weather/noun
+hoy	B-datetime
+
+¿	O
+necesito	O
+protector	B-weather/attribute
+solar	I-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+va	O
+a	O
+hacer	O
+frío	B-weather/attribute
+hoy	B-datetime
+?	O
+
+cuál	O
+es	O
+el	O
+pronóstico	B-weather/noun
+para	B-datetime
+este	I-datetime
+fin	I-datetime
+de	I-datetime
+semana	I-datetime
+
+¿	O
+qué	O
+tan	O
+cálida	B-weather/attribute
+será	O
+esta	B-datetime
+tarde	I-datetime
+a	I-datetime
+las	I-datetime
+3	I-datetime
+:	I-datetime
+00	I-datetime
+pm	I-datetime
+?	O
+
+¿	O
+cómo	O
+será	O
+el	O
+tiempo	B-weather/noun
+en	O
+san	B-location
+francisco	I-location
+el	B-datetime
+próximo	I-datetime
+mes	I-datetime
+?	O
+
+¿	O
+necesito	O
+mi	O
+abrigo	B-weather/attribute
+de	O
+lluvia	O
+hoy	B-datetime
+?	O
+
+va	O
+a	O
+granizar	B-weather/attribute
+hoy	B-datetime
+
+¿	O
+cuál	O
+es	O
+el	O
+pronóstico	B-weather/noun
+para	B-datetime
+el	I-datetime
+sábado	I-datetime
+?	O
+
+¿	O
+necesitaré	O
+un	O
+paraguas	B-weather/attribute
+?	O
+
+¿	O
+cuál	O
+es	O
+el	O
+tiempo	B-weather/noun
+en	O
+flagstaff	B-location
+al	B-datetime
+mediodía	I-datetime
+?	O
+
+¿	O
+está	O
+lloviendo	B-weather/attribute
+en	O
+chicago	B-location
+?	O
+
+¿	O
+cuál	O
+es	O
+la	O
+temperatura	B-weather/noun
+actual	B-datetime
+?	O
+
+¿	O
+debo	O
+llevar	O
+un	O
+paraguas	B-weather/attribute
+el	B-datetime
+miércoles	I-datetime
+?	O
+
+¿	O
+cómo	O
+es	O
+el	O
+tiempo	B-weather/noun
+en	O
+las	B-location
+vegas	I-location
+?	O
+
+¿	O
+cómo	O
+será	O
+el	O
+tiempo	B-weather/noun
+a	B-datetime
+las	I-datetime
+5	I-datetime
+:	I-datetime
+00	I-datetime
+de	I-datetime
+la	I-datetime
+mañana	I-datetime
+?	I-datetime
+
+¿	O
+cuál	O
+es	O
+el	O
+índice	B-weather/attribute
+de	I-weather/attribute
+calor	I-weather/attribute
+para	B-datetime
+esta	I-datetime
+semana	I-datetime
+?	O
+
+¿	O
+cómo	O
+será	O
+el	O
+tiempo	B-weather/noun
+mañana	B-datetime
+?	O
+
+¿	O
+cómo	O
+es	O
+el	O
+tiempo	B-weather/noun
+en	O
+victorville	B-location
+?	O
+
+¿	O
+hay	O
+alguna	O
+advertencia	B-weather/noun
+de	O
+inundación	B-weather/attribute
+en	O
+buffalo	B-location
+,	I-location
+nueva	I-location
+york	I-location
+?	O
+
+¿	O
+cómo	O
+se	O
+ve	O
+el	O
+tiempo	B-weather/noun
+en	O
+daytona	B-location
+beach	I-location
+hoy	B-datetime
+?	O
+
+¿	O
+soleado	B-weather/attribute
+todo	B-datetime
+el	I-datetime
+día	I-datetime
+?	O
+
+¿	O
+necesitaré	O
+una	O
+chaqueta	B-weather/attribute
+hoy	B-datetime
+?	O
+
+¿	O
+cómo	O
+es	O
+el	O
+tiempo	B-weather/noun
+en	O
+cancún	B-location
+?	O
+
+¿	O
+cuál	O
+es	O
+el	B-weather/noun
+pronóstico	I-weather/noun
+para	B-datetime
+este	I-datetime
+fin	I-datetime
+de	I-datetime
+semana	I-datetime
+?	O
+
+¿	O
+se	O
+espera	O
+que	O
+nieve	B-weather/attribute
+en	B-datetime
+diciembre	I-datetime
+de	I-datetime
+este	I-datetime
+año	I-datetime
+?	O
+
+¿	O
+habrá	O
+cielos	B-weather/attribute
+despejados	I-weather/attribute
+esta	B-datetime
+noche	I-datetime
+para	O
+ver	O
+el	O
+eclipse	O
+?	O
+
+¿	O
+cómo	O
+es	O
+el	O
+tiempo	B-weather/noun
+en	O
+crater	B-location
+lake	I-location
+para	B-datetime
+este	I-datetime
+fin	I-datetime
+de	I-datetime
+semana	I-datetime
+?	I-datetime
+
+¿	O
+va	O
+a	O
+llover	B-weather/attribute
+esta	B-datetime
+semana	I-datetime
+?	O
+
+¿	O
+hay	O
+hielo	B-weather/attribute
+afuera	B-location
+?	O
+
+¿	O
+estará	O
+la	O
+temperatura	B-weather/noun
+más	B-weather/attribute
+baja	I-weather/attribute
+esta	B-datetime
+noche	I-datetime
+?	O
+
+¿	O
+cómo	O
+está	O
+el	O
+tiempo	B-weather/noun
+hoy	B-datetime
+?	O
+
+¿	O
+cómo	O
+será	O
+la	O
+humedad	B-weather/attribute
+mañana	B-datetime
+?	O
+
+¿	O
+habrá	O
+viento	B-weather/attribute
+hoy	B-datetime
+?	O
+
+va	O
+a	O
+hacer	O
+frío	B-weather/attribute
+mañana	B-datetime
+
+¿	O
+hay	O
+nieve	B-weather/attribute
+en	O
+el	O
+pronóstico	B-weather/noun
+?	O
+
+¿	O
+qué	O
+tiempo	B-weather/noun
+se	O
+supone	O
+que	O
+habrá	O
+mañana	B-datetime
+?	O
+
+¿	O
+qué	O
+tan	O
+caliente	B-weather/attribute
+va	O
+a	O
+estar	O
+mañana	B-datetime
+?	O
+
+cómo	O
+está	O
+el	O
+tiempo	B-weather/noun
+hoy	B-datetime
+
