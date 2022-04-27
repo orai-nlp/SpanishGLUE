@@ -72,4 +72,4 @@ http://creativecommons.org/licenses/by/4.0/.
 
 Contact information
 -----------------------
-Gorka Urbizu: g.urbizu@elhuyar.eus
+Gorka Urbizu, Iñaki San Vicente: {g.urbizu,i.sanvicente}@elhuyar.eus
