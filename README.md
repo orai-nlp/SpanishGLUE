@@ -19,7 +19,7 @@ SpanishGLUE is composed of several well known datasets, its with its own license
 The 7 tasks included in SpanishGLUE:
 
 | Dataset        |\|Train\||\|Val\| |\|Test\|| Task                   | Metric | Domain          |
-|----------------|---------|--------|--------|------------------------|--------|-----------------|
+|----------------|--------:|-------:|-------:|------------------------|--------|-----------------|
 | NERCconll2002  |   8,324 |  1,916 |  1,518 | NERC                   | F1     | News            |
 | FMTODes_intent |   3,417 |  1,900 |  1,348 | Intent classification  | F1     | Dialog system   |
 | FMTODes_slot   |  29,471 | 16,252 | 11,695 | Slot filling           | F1     | Dialog system   |
