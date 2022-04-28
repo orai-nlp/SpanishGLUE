@@ -50,7 +50,7 @@ But, here we provide a brief summary of them:
 | NERCconll2002  |                     Unknown         |
 | FMTODes_intent |                     CC BY-NC-SA 4.0 |
 | FMTODes_slot   |                     CC BY-NC-SA 4.0 |
-| MLDoc          |  NIST agreement* +  CC BY-NC    4.0 |
+| MLDoc          |    CC BY-NC  4.0 + NIST agreement*  |
 | InterTass2020  |                     Unknown         |
 | XNLIes         |                     OANC*           |
 | SQAC           |                     CC BY-SA    4.0 |
