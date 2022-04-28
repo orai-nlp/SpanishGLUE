@@ -50,13 +50,15 @@ But, here we provide a brief summary of them:
 | NERCconll2002  |                     Unknown         |
 | FMTODes_intent |                     CC BY-NC-SA 4.0 |
 | FMTODes_slot   |                     CC BY-NC-SA 4.0 |
-| MLDoc          |                     CC BY-NC    4.0 |
+| MLDoc          |  NIST agreement* +  CC BY-NC    4.0 |
 | InterTass2020  |                     Unknown         |
 | XNLIes         |                     OANC*           |
 | SQAC           |                     CC BY-SA    4.0 |
 
 
 * OANC license (Open American National Corpus license): https://www.anc.org/OANC/license.txt
+
+* To access to MLDoc dataset, a NIST agreement must be signed with Reuters. More info at https://github.com/facebookresearch/MLDoc
 
 For the rest of the files of the benchmark applies the following lisense.
 
