@@ -58,7 +58,7 @@ But, here we provide a brief summary of them:
 
 * OANC license (Open American National Corpus license): https://www.anc.org/OANC/license.txt
 
-* To access to MLDoc dataset, a NIST agreement must be signed with Reuters. More info at https://github.com/facebookresearch/MLDoc
+* To access the MLDoc dataset, a NIST agreement must be signed with Reuters. More info at https://github.com/facebookresearch/MLDoc
 
 For the rest of the files of the benchmark applies the following lisense.
 
