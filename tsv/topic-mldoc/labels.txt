@@ -1,4 +1,0 @@
-CCAT
-ECAT
-GCAT
-MCAT
