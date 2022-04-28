@@ -34,7 +34,7 @@ Acc refers to accuracy, F1 refers to micro-average F1-score, and MF1 refers to m
 
 For more details, each dataset is provided with their corresponding README file.
 
-
+Note: the train file for XNLIes needs to be uncompressed.
 
 Licensing
 -------------
