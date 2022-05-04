@@ -36,6 +36,9 @@ For more details, each dataset is provided with their corresponding README file.
 
 Note: the train file for XNLIes needs to be uncompressed.
 
+We cannot share MLDoc directly, due to license issues. More instructions on how to obtain it at https://github.com/facebookresearch/MLDoc
+
+
 Licensing
 -------------
 
