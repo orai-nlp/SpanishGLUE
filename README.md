@@ -1,7 +1,7 @@
 #    SpanishGLUE: 
 ## A Natural Language Understanding Benchmark for Spanish   
 
-
+## *Marco de Evaluación para NLU en Castellano*
 
 
 Natural Language Understanding (NLU) technology has improved significantly over the last few years, 
