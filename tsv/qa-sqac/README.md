@@ -21,7 +21,7 @@ metric, we follow the English QNLI design and use accuracy.
 Dataset format and distribution
 ----------------
 
-# The dataset is divided into three files: train, test and development splits. 
+The dataset is divided into three files: train, test and development splits. 
 
 15,036 train.tsv
 1,864 dev.tsv
