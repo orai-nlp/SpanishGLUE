@@ -1,6 +1,5 @@
-===================================================
- QA-SQAD. QNLI for Spanish
-===================================================
+# QA-SQAD
+## QNLI for Spanish
 
 In order to create a NLI task on QA domain, we 
 adapted the QA dataset SQAD (Carrino et al., 2020), 
