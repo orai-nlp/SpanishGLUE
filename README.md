@@ -12,7 +12,7 @@ to develop and language-dependent, and therefore they are only available for a s
 
 We present SpanishGLUE, a new NLU benchmark for Spanish, which has been elaborated from previously 
 existing datasets and following similar criteria to those used for the construction of GLUE and SuperGLUE. 
-SpanishGLUE is composed of several well known datasets, its with its own license.
+SpanishGLUE is composed of several well known datasets, each with its own license.
 
 
 
